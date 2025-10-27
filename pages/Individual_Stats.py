@@ -264,7 +264,7 @@ if y_col == 'Percentage':
 top_n_option = st.sidebar.selectbox(
     'Select # of players to be displayed',
     options=['All', 'Top 5', 'Top 10', 'Top 25', 'Top 50'],
-    index=1 #default
+    index=2 #default
 )
 
 if top_n_option == 'All':
@@ -377,4 +377,5 @@ with tab_2:
     if selected_countries and 'all' not in selected_countries:
         st.caption("Note: Some combinations my not have adequate data. The chart is limited by ATP's website," \
         " who do not have complete data for some players within specific combinations. When selecting countries, try filtering for surfaces to get better results")
+
     
