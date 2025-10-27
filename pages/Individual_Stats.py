@@ -336,7 +336,7 @@ with tab_1:
             hover_data= hover_cols,
             title=f"{selected_stat} by Player",
             labels={'PlayerName': 'Player',
-                   'Number: 'Aces'}
+                   'Number': 'Aces'}
         )
         fig.update_xaxes(categoryorder='array', categoryarray=order)
         st.plotly_chart(fig, use_container_width=True)
@@ -363,7 +363,7 @@ with tab_2:
             hover_data=hover_cols,
             title=f"{selected_stat} Over Time",
             labels={'PlayerName': 'Player',
-                   'Number: 'Aces'}
+                   'Number': 'Aces'}
         )
         st.plotly_chart(fig_2, use_container_width=True)
     else:
@@ -381,4 +381,5 @@ with tab_2:
         " who do not have complete data for some players within specific combinations. When selecting countries, try filtering for surfaces to get better results")
 
     
+
 
