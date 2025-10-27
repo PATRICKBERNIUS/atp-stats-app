@@ -1,0 +1,1042 @@
+PlayerName,PlayerId,BirthDate,Age,NatlId,Nationality,HeightFt,HeightIn,HeightCm,WeightLb,WeightKg,PlayHand,BackHand,ProYear,Active,SglHiRank,CareerPrizeFormatted
+Gabriel Diallo,D0F6,2001-09-24,23.0,CAN,Canada,"6'8""",80.0,203.0,198.0,90.0,Right-Handed,Two-Handed,2023.0,Active,35,1857381.0
+Novak Djokovic,D643,1987-05-22,38.0,SRB,Serbia,"6'2""",74.0,188.0,170.0,77.0,Right-Handed,Two-Handed,2003.0,Active,1,188934053.0
+Arthur Cazaux,C0H0,2002-08-23,22.0,FRA,France,"6'0""",72.0,183.0,162.0,73.0,Right-Handed,Two-Handed,2020.0,Active,63,1900264.0
+Jakub Mensik,M0NI,2005-09-01,19.0,CZE,Czechia,"6'5""",77.0,196.0,191.0,87.0,Right-Handed,Two-Handed,2022.0,Active,17,3790374.0
+Giovanni Mpetshi Perricard,M0GZ,2003-07-08,22.0,FRA,France,"6'8""",80.0,203.0,216.0,98.0,Right-Handed,One-Handed,2021.0,Active,29,2492817.0
+Jannik Sinner,S0AG,2001-08-16,23.0,ITA,Italy,"6'3""",75.0,191.0,170.0,77.0,Right-Handed,Two-Handed,2018.0,Active,1,45682097.0
+Tallon Griekspoor,GJ37,1996-07-02,29.0,NED,Netherlands,"6'2""",74.0,188.0,187.0,85.0,Right-Handed,Two-Handed,2015.0,Active,21,6377553.0
+Nicolas Jarry,J551,1995-10-11,29.0,CHI,Chile,"6'7""",79.0,201.0,198.0,90.0,Right-Handed,Two-Handed,2014.0,Active,16,7368706.0
+Taylor Fritz,FB98,1997-10-28,27.0,USA,United States,"6'5""",77.0,196.0,190.0,86.0,Right-Handed,Two-Handed,2015.0,Active,4,25711596.0
+Alexander Bublik,BK92,1997-06-17,28.0,KAZ,Kazakhstan,"6'5""",77.0,196.0,180.0,82.0,Right-Handed,Two-Handed,2016.0,Active,17,9520869.0
+Felix Auger-Aliassime,AG37,2000-08-08,24.0,CAN,Canada,"6'4""",76.0,193.0,194.0,88.0,Right-Handed,Two-Handed,2017.0,Active,6,15725454.0
+Jack Draper,D0CO,2001-12-22,23.0,GBR,Great Britain,"6'4""",76.0,193.0,187.0,85.0,Left-Handed,Two-Handed,2018.0,Active,4,8193771.0
+Alexei Popyrin,P09Z,1999-08-05,25.0,AUS,Australia,"6'5""",77.0,196.0,172.0,78.0,Right-Handed,Two-Handed,2017.0,Active,21,7928324.0
+Hubert Hurkacz,HB71,1997-02-11,28.0,POL,Poland,"6'5""",77.0,196.0,179.0,81.0,Right-Handed,Two-Handed,2015.0,Active,6,18018430.0
+Francisco Comesana,C0DF,2000-10-06,24.0,ARG,Argentina,"5'10""",70.0,178.0,158.0,72.0,Right-Handed,Two-Handed,,Active,61,1484977.0
+Sebastian Korda,K0AH,2000-07-05,25.0,USA,United States,"6'5""",77.0,196.0,180.0,82.0,Right-Handed,Two-Handed,2018.0,Active,15,7806763.0
+Laslo Djere,DB63,1995-06-02,30.0,SRB,Serbia,"6'2""",74.0,188.0,181.0,82.0,Right-Handed,Two-Handed,2013.0,Active,27,6493867.0
+Lorenzo Musetti,M0EJ,2002-03-03,23.0,ITA,Italy,"6'1""",73.0,185.0,172.0,78.0,Right-Handed,One-Handed,2019.0,Active,6,10277593.0
+Carlos Alcaraz,A0E2,2003-05-05,22.0,ESP,Spain,"6'0""",72.0,183.0,163.0,74.0,Right-Handed,Two-Handed,2018.0,Active,1,47362248.0
+Alexander Zverev,Z355,1997-04-20,28.0,GER,Germany,"6'6""",78.0,198.0,198.0,90.0,Right-Handed,Two-Handed,2013.0,Active,2,53764389.0
+Arthur Rinderknech,RC91,1995-07-23,30.0,FRA,France,"6'5""",77.0,196.0,193.0,88.0,Right-Handed,Two-Handed,2018.0,Active,42,4478448.0
+Luciano Darderi,D0FJ,2002-02-14,23.0,ITA,Italy,"6'0""",72.0,183.0,180.0,82.0,Right-Handed,Two-Handed,,Active,32,2586004.0
+Ben Shelton,S0S1,2002-10-09,22.0,USA,United States,"6'4""",76.0,193.0,195.0,88.0,Left-Handed,Two-Handed,2022.0,Active,7,8047135.0
+Sebastian Ofner,O513,1996-05-12,29.0,AUT,Austria,"6'3""",75.0,191.0,179.0,81.0,Right-Handed,Two-Handed,2015.0,Active,37,3256023.0
+Stefanos Tsitsipas,TE51,1998-08-12,26.0,GRE,Greece,"6'4""",76.0,193.0,198.0,90.0,Right-Handed,One-Handed,2016.0,Active,3,34877841.0
+Nuno Borges,BT72,1997-02-19,28.0,POR,Portugal,"6'1""",73.0,185.0,171.0,78.0,Right-Handed,Two-Handed,2019.0,Active,30,3809592.0
+Holger Rune,R0DG,2003-04-29,22.0,DEN,Denmark,"6'2""",74.0,188.0,169.0,77.0,Right-Handed,Two-Handed,2020.0,Active,4,13760337.0
+Casper Ruud,RH16,1998-12-22,26.0,NOR,Norway,"6'0""",72.0,183.0,178.0,81.0,Right-Handed,Two-Handed,2015.0,Active,2,24931409.0
+Arthur Fils,F0F1,2004-06-12,21.0,FRA,France,"6'1""",73.0,185.0,182.0,83.0,Right-Handed,Two-Handed,2021.0,Active,14,5769752.0
+Joao Fonseca,F0FV,2006-08-21,18.0,BRA,Brazil,"6'2""",74.0,188.0,179.0,81.0,Right-Handed,Two-Handed,,Active,47,1734045.0
+Jesper de Jong,D0C1,2000-05-31,25.0,NED,Netherlands,"5'11""",71.0,180.0,154.0,70.0,Right-Handed,Two-Handed,,Active,79,1482640.0
+Fabian Marozsan,M0CI,1999-10-08,25.0,HUN,Hungary,"6'4""",76.0,193.0,165.0,75.0,Right-Handed,Two-Handed,2017.0,Active,36,3257599.0
+Filip Misolic,M0JZ,2001-08-08,23.0,AUT,Austria,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Two-Handed,2019.0,Active,95,1007104.0
+Tomas Martin Etcheverry,EA24,1999-07-18,26.0,ARG,Argentina,"6'5""",77.0,196.0,180.0,82.0,Right-Handed,Two-Handed,2017.0,Active,27,4863022.0
+Alex de Minaur,DH58,1999-02-17,26.0,AUS,Australia,"6'0""",72.0,183.0,152.0,69.0,Right-Handed,Two-Handed,2015.0,Active,6,18555192.0
+Andrey Rublev,RE44,1997-10-20,27.0,RUS,Russia,"6'2""",74.0,188.0,165.0,75.0,Right-Handed,Two-Handed,2014.0,Active,5,29548208.0
+Thiago Seyboth Wild,SX91,2000-03-10,25.0,BRA,Brazil,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Two-Handed,2018.0,Active,58,2216447.0
+Jaume Munar,MU94,1997-05-05,28.0,ESP,Spain,"6'0""",72.0,183.0,168.0,76.0,Right-Handed,Two-Handed,2014.0,Active,50,5848657.0
+Denis Shapovalov,SU55,1999-04-15,26.0,CAN,Canada,"6'1""",73.0,185.0,165.0,75.0,Left-Handed,One-Handed,2017.0,Active,10,13734498.0
+Miomir Kecmanovic,KI95,1999-08-31,25.0,SRB,Serbia,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Two-Handed,2017.0,Active,27,7585417.0
+Jan-Lennard Struff,SL28,1990-04-25,35.0,GER,Germany,"6'4""",76.0,193.0,202.0,92.0,Right-Handed,Two-Handed,2009.0,Active,21,11720147.0
+Frances Tiafoe,TD51,1998-01-20,27.0,USA,United States,"6'2""",74.0,188.0,190.0,86.0,Right-Handed,Two-Handed,2015.0,Active,10,14738254.0
+Francisco Cerundolo,C0AU,1998-08-13,26.0,ARG,Argentina,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Two-Handed,2018.0,Active,18,7671015.0
+Cameron Norrie,N771,1995-08-23,29.0,GBR,Great Britain,"6'2""",74.0,188.0,181.0,82.0,Left-Handed,Two-Handed,2017.0,Active,8,12832912.0
+Mariano Navone,N0BS,2001-02-27,24.0,ARG,Argentina,"5'10""",70.0,178.0,160.0,73.0,Right-Handed,Two-Handed,,Active,29,2094997.0
+Karen Khachanov,KE29,1996-05-21,29.0,RUS,Russia,"6'6""",78.0,198.0,192.0,87.0,Right-Handed,Two-Handed,2013.0,Active,8,19983161.0
+Tommy Paul,PL56,1997-05-17,28.0,USA,United States,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Two-Handed,2015.0,Active,8,12041105.0
+Alejandro Davidovich Fokina,DH50,1999-06-05,26.0,ESP,Spain,"5'11""",71.0,180.0,176.0,80.0,Right-Handed,Two-Handed,2017.0,Active,19,8946034.0
+Botic van de Zandschulp,V812,1995-10-04,29.0,NED,Netherlands,"6'3""",75.0,191.0,187.0,85.0,Right-Handed,Two-Handed,2016.0,Active,22,5424568.0
+Alexandre Muller,MP20,1997-02-01,28.0,FRA,France,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Two-Handed,2014.0,Active,39,3337730.0
+Grigor Dimitrov,D875,1991-05-16,34.0,BUL,Bulgaria,"6'3""",75.0,191.0,178.0,81.0,Right-Handed,One-Handed,2008.0,Active,3,30385342.0
+Marcos Giron,GC88,1993-07-24,32.0,USA,United States,"5'11""",71.0,180.0,170.0,77.0,Right-Handed,Two-Handed,2014.0,Active,37,5848212.0
+Jiri Lehecka,L0BV,2001-11-08,23.0,CZE,Czechia,"6'1""",73.0,185.0,179.0,81.0,Right-Handed,Two-Handed,2020.0,Active,22,5956096.0
+Damir Dzumhur,D923,1992-05-20,33.0,BIH,Bosnia-Herzegovina,"5'9""",69.0,175.0,150.0,68.0,Right-Handed,Two-Handed,2011.0,Active,23,5989560.0
+Vit Kopriva,KI82,1997-06-15,28.0,CZE,Czechia,"5'10""",70.0,178.0,152.0,69.0,Right-Handed,Two-Handed,2015.0,Active,78,1338692.0
+Daniel Altmaier,AE14,1998-09-12,26.0,GER,Germany,"6'2""",74.0,188.0,176.0,80.0,Right-Handed,One-Handed,2014.0,Active,47,4284375.0
+Camilo Ugo Carabelli,U182,1999-06-17,26.0,ARG,Argentina,"6'1""",73.0,185.0,182.0,83.0,Right-Handed,Two-Handed,2016.0,Active,47,1667231.0
+Juan Manuel Cerundolo,C0C8,2001-11-15,23.0,ARG,Argentina,"6'0""",72.0,183.0,165.0,75.0,Left-Handed,Two-Handed,2018.0,Active,79,1474120.0
+Matteo Arnaldi,A0FC,2001-02-22,24.0,ITA,Italy,"6'1""",73.0,185.0,157.0,71.0,Right-Handed,Two-Handed,2019.0,Active,30,4039959.0
+Jordan Thompson,TC61,1994-04-20,31.0,AUS,Australia,"6'0""",72.0,183.0,181.0,82.0,Right-Handed,Two-Handed,2013.0,Active,26,9036235.0
+Marton Fucsovics,F724,1992-02-08,33.0,HUN,Hungary,"6'2""",74.0,188.0,181.0,82.0,Right-Handed,Two-Handed,2010.0,Active,31,7756708.0
+Ugo Humbert,HH26,1998-06-26,27.0,FRA,France,"6'2""",74.0,188.0,160.0,73.0,Left-Handed,Two-Handed,2016.0,Active,13,9521638.0
+Brandon Nakashima,N0AE,2001-08-03,24.0,USA,United States,"6'2""",74.0,188.0,183.0,83.0,Right-Handed,Two-Handed,2019.0,Active,29,5901792.0
+Roberto Bautista Agut,BD06,1988-04-14,37.0,ESP,Spain,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Two-Handed,2005.0,Active,9,19640801.0
+Alex Michelsen,M0QI,2004-08-25,20.0,USA,United States,"6'4""",76.0,193.0,175.0,79.0,Right-Handed,Two-Handed,2023.0,Active,30,3051309.0
+Lorenzo Sonego,SU87,1995-05-11,30.0,ITA,Italy,"6'3""",75.0,191.0,168.0,76.0,Right-Handed,Two-Handed,2013.0,Active,21,8125332.0
+Dusan Lajovic,L987,1990-06-30,35.0,SRB,Serbia,"6'0""",72.0,183.0,183.0,83.0,Right-Handed,One-Handed,2007.0,Active,23,10240118.0
+Hugo Gaston,G09O,2000-09-26,24.0,FRA,France,"5'8""",68.0,173.0,149.0,68.0,Left-Handed,Two-Handed,2018.0,Active,58,3355343.0
+Alexander Shevchenko,S0H2,2000-11-29,24.0,KAZ,Kazakhstan,"6'2""",74.0,188.0,176.0,80.0,Right-Handed,Two-Handed,2018.0,Active,45,2696746.0
+Matteo Berrettini,BK40,1996-04-12,29.0,ITA,Italy,"6'5""",77.0,196.0,209.0,95.0,Right-Handed,Two-Handed,2015.0,Active,6,13405602.0
+Gael Monfils,MC65,1986-09-01,38.0,FRA,France,"6'4""",76.0,193.0,187.0,85.0,Right-Handed,Two-Handed,2004.0,Active,6,24270204.0
+Flavio Cobolli,C0E9,2002-05-06,23.0,ITA,Italy,"6'0""",72.0,183.0,163.0,74.0,Right-Handed,Two-Handed,2020.0,Active,17,4464596.0
+Corentin Moutet,MW02,1999-04-19,26.0,FRA,France,"5'11""",71.0,180.0,156.0,71.0,Left-Handed,Two-Handed,2016.0,Active,46,4949330.0
+Pedro Martinez,MO44,1997-04-26,28.0,ESP,Spain,"6'1""",73.0,185.0,168.0,76.0,Right-Handed,Two-Handed,2016.0,Active,36,5332748.0
+Daniil Medvedev,MM58,1996-02-11,29.0,RUS,Russia,"6'6""",78.0,198.0,182.0,83.0,Right-Handed,Two-Handed,2014.0,Active,1,46840649.0
+Jacob Fearnley,F0BY,2001-07-15,24.0,GBR,Great Britain,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,Two-Handed,,Active,49,1146784.0
+Sebastian Baez,B0BI,2000-12-28,24.0,ARG,Argentina,"5'7""",67.0,170.0,154.0,70.0,Right-Handed,Two-Handed,2018.0,Active,18,5561047.0
+Tomas Machac,M0FH,2000-10-13,24.0,CZE,Czechia,"6'0""",72.0,183.0,163.0,74.0,Right-Handed,Two-Handed,2017.0,Active,20,4950489.0
+Roberto Carballes Baena,CF59,1993-03-23,32.0,ESP,Spain,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,Two-Handed,2011.0,Active,49,5875790.0
+Quentin Halys,HB64,1996-10-26,28.0,FRA,France,"6'3""",75.0,191.0,187.0,85.0,Right-Handed,Two-Handed,2012.0,Active,46,4222942.0
+Jenson Brooksby,B0CD,2000-10-26,24.0,USA,United States,"6'4""",76.0,193.0,190.0,86.0,Right-Handed,Two-Handed,2021.0,Active,33,2738156.0
+Yunchaokete Bu,Y09V,2002-01-19,23.0,CHN,China,"6'1""",73.0,185.0,181.0,82.0,Right-Handed,Two-Handed,,Active,64,1379871.0
+Adrian Mannarino,ME82,1988-06-29,37.0,FRA,France,"5'11""",71.0,180.0,174.0,79.0,Left-Handed,Two-Handed,2004.0,Active,17,13524467.0
+Pablo Carreno Busta,CD85,1991-07-12,34.0,ESP,Spain,"6'2""",74.0,188.0,172.0,78.0,Right-Handed,Two-Handed,2009.0,Active,10,16295568.0
+Marin Cilic,C977,1988-09-28,36.0,CRO,Croatia,"6'6""",78.0,198.0,196.0,89.0,Right-Handed,Two-Handed,2005.0,Active,3,32194103.0
+Ethan Quinn,Q02L,2004-03-12,21.0,USA,United States,"6'3""",75.0,191.0,180.0,82.0,Right-Handed,Two-Handed,2023.0,Active,82,970147.0
+Learner Tien,T0HA,2005-12-02,19.0,USA,United States,"5'11""",71.0,180.0,160.0,73.0,Left-Handed,Two-Handed,2023.0,Active,61,1565936.0
+Yannick Hanfmann,H997,1991-11-13,33.0,GER,Germany,"6'4""",76.0,193.0,190.0,86.0,Right-Handed,Two-Handed,2015.0,Active,45,3605525.0
+Lloyd Harris,HG86,1997-02-24,28.0,RSA,South Africa,"6'4""",76.0,193.0,176.0,80.0,Right-Handed,Two-Handed,2015.0,Active,31,4362015.0
+August Holmgren,H09N,1998-04-22,27.0,DEN,Denmark,"6'2""",74.0,188.0,185.0,84.0,Right-Handed,One-Handed,2022.0,Active,144,442549.0
+Cristian Garin,GD64,1996-05-30,29.0,CHI,Chile,"6'1""",73.0,185.0,187.0,85.0,Right-Handed,Two-Handed,2011.0,Active,17,6460911.0
+Valentin Royer,R0EB,2001-05-29,24.0,FRA,France,"6'2""",74.0,188.0,189.0,86.0,Right-Handed,Two-Handed,,Active,108,631563.0
+Kamil Majchrzak,MQ75,1996-01-13,29.0,POL,Poland,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,Two-Handed,2013.0,Active,75,2749766.0
+Billy Harris,HD68,1995-01-25,30.0,GBR,Great Britain,"6'4""",76.0,193.0,196.0,89.0,Right-Handed,Two-Handed,,Active,101,1082615.0
+Pierre-Hugues Herbert,H996,1991-03-18,34.0,FRA,France,"6'2""",74.0,188.0,165.0,75.0,Right-Handed,Two-Handed,2010.0,Active,36,9911923.0
+Alex Bolt,BI81,1993-01-05,32.0,AUS,Australia,"6'0""",72.0,183.0,156.0,71.0,Left-Handed,Two-Handed,2011.0,Active,125,1965099.0
+Aleksandar Kovacevic,K0AZ,1998-08-29,26.0,USA,United States,"6'0""",72.0,183.0,174.0,79.0,Right-Handed,One-Handed,2021.0,Active,62,1988724.0
+Mackenzie McDonald,MK66,1995-04-16,30.0,USA,United States,"5'10""",70.0,178.0,160.0,73.0,Right-Handed,Two-Handed,2016.0,Active,37,6562718.0
+James Duckworth,D994,1992-01-21,33.0,AUS,Australia,"6'0""",72.0,183.0,181.0,82.0,Right-Handed,Two-Handed,2010.0,Active,46,4583031.0
+Mark Lajal,L0GH,2003-05-12,22.0,EST,Estonia,"6'3""",75.0,191.0,176.0,80.0,Right-Handed,Two-Handed,,Active,147,465198.0
+Justin Engel,E0DD,2007-10-01,17.0,GER,Germany,"6'1""",73.0,185.0,171.0,78.0,Right-Handed,Unknown,,Active,208,212069.0
+Mattia Bellucci,B0GG,2001-06-01,24.0,ITA,Italy,"5'9""",69.0,175.0,169.0,77.0,Left-Handed,Two-Handed,,Active,63,1521134.0
+Adam Walton,W09E,1999-04-17,26.0,AUS,Australia,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,Two-Handed,2022.0,Active,84,1384042.0
+Roman Safiullin,SX50,1997-08-07,27.0,RUS,Russia,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Two-Handed,2015.0,Active,36,3771977.0
+Reilly Opelka,O522,1997-08-28,27.0,USA,United States,"6'11""",83.0,211.0,225.0,102.0,Right-Handed,Two-Handed,2015.0,Active,17,5306645.0
+Benjamin Bonzi,BM95,1996-06-09,29.0,FRA,France,"6'0""",72.0,183.0,180.0,82.0,Right-Handed,Two-Handed,2015.0,Active,42,3632766.0
+Hamad Medjedovic,M0JF,2003-07-18,22.0,SRB,Serbia,"6'2""",74.0,188.0,190.0,86.0,Right-Handed,Two-Handed,2021.0,Active,61,1967615.0
+Yoshihito Nishioka,N732,1995-09-27,29.0,JPN,Japan,"5'7""",67.0,170.0,141.0,64.0,Left-Handed,Two-Handed,2014.0,Active,24,7034355.0
+Rinky Hijikata,H0BH,2001-02-23,24.0,AUS,Australia,"5'10""",70.0,178.0,159.0,72.0,Right-Handed,Two-Handed,2021.0,Active,62,3238559.0
+Oliver Tarvet,T0GR,2003-10-29,21.0,GBR,Great Britain,"6'1""",73.0,185.0,195.0,88.0,Right-Handed,Two-Handed,,Active,401,151229.0
+Aleksandar Vukic,V832,1996-04-06,29.0,AUS,Australia,"6'2""",74.0,188.0,187.0,85.0,Right-Handed,Two-Handed,2018.0,Active,48,3071221.0
+Bernard Tomic,TA46,1992-10-21,32.0,AUS,Australia,"6'5""",77.0,196.0,201.0,91.0,Right-Handed,Two-Handed,2008.0,Active,17,6533219.0
+Arthur Fery,F0DM,2002-07-12,23.0,GBR,Great Britain,"5'9""",69.0,175.0,168.0,76.0,Right-Handed,Two-Handed,,Active,229,491802.0
+Brandon Holt,H09P,1998-04-06,27.0,USA,United States,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Two-Handed,2020.0,Active,99,921990.0
+Jack Pinnington Jones,P0HT,2003-03-30,22.0,GBR,Great Britain,"5'11""",71.0,180.0,180.0,82.0,Right-Handed,Two-Handed,,Active,190,289562.0
+Zizou Bergs,BU13,1999-06-03,26.0,BEL,Belgium,"6'1""",73.0,185.0,193.0,88.0,Right-Handed,Two-Handed,2018.0,Active,49,2290388.0
+Daniel Evans,E687,1990-05-23,35.0,GBR,Great Britain,"5'9""",69.0,175.0,165.0,75.0,Right-Handed,One-Handed,2006.0,Active,21,9033940.0
+George Loffhagen,L0CF,2001-04-19,24.0,GBR,Great Britain,"6'2""",74.0,188.0,184.0,83.0,Right-Handed,Two-Handed,,Active,235,314785.0
+David Goffin,GB88,1990-12-07,34.0,BEL,Belgium,"5'11""",71.0,180.0,154.0,70.0,Right-Handed,Two-Handed,2009.0,Active,7,18536876.0
+Alejandro Tabilo,TE30,1997-06-02,28.0,CHI,Chile,"6'2""",74.0,188.0,165.0,75.0,Left-Handed,Two-Handed,2015.0,Active,19,3932568.0
+Juncheng Shang,S0RE,2005-02-02,20.0,CHN,China,"5'11""",71.0,180.0,162.0,73.0,Left-Handed,Two-Handed,2021.0,Active,47,1881985.0
+Lukas Klein,KI63,1998-03-22,27.0,SVK,Slovak Republic,"6'4""",76.0,193.0,187.0,85.0,Right-Handed,Unknown,,Active,109,1158531.0
+Shintaro Mochizuki,M0HU,2003-06-02,22.0,JPN,Japan,"5'9""",69.0,175.0,154.0,70.0,Right-Handed,Two-Handed,2019.0,Active,122,1086233.0
+Zhizhen Zhang,Z371,1996-10-16,28.0,CHN,China,"6'4""",76.0,193.0,192.0,87.0,Right-Handed,Two-Handed,2012.0,Active,31,3799682.0
+Nishesh Basavareddy,B0NN,2005-05-02,20.0,USA,United States,"5'11""",71.0,180.0,160.0,73.0,Right-Handed,Two-Handed,,Active,99,679301.0
+Chun-Hsin Tseng,T0AP,2001-08-08,23.0,TPE,Chinese Taipei,"5'9""",69.0,175.0,143.0,65.0,Right-Handed,Two-Handed,2019.0,Active,83,1408583.0
+Yosuke Watanuki,WB08,1998-04-12,27.0,JPN,Japan,"5'11""",71.0,180.0,162.0,73.0,Right-Handed,Two-Handed,2016.0,Active,72,1358705.0
+Richard Gasquet,G628,1986-06-18,39.0,FRA,France,"6'0""",72.0,183.0,174.0,79.0,Right-Handed,One-Handed,2002.0,Active,7,21471116.0
+Otto Virtanen,V0AM,2001-06-21,24.0,FIN,Finland,"6'4""",76.0,193.0,180.0,82.0,Right-Handed,Two-Handed,2018.0,Active,91,1159563.0
+Zachary Svajda,S0K7,2002-11-29,22.0,USA,United States,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,Two-Handed,2019.0,Active,102,1086691.0
+Facundo Diaz Acosta,D0CG,2000-12-15,24.0,ARG,Argentina,"6'0""",72.0,183.0,165.0,75.0,Left-Handed,Two-Handed,2018.0,Active,47,1408769.0
+Yibing Wu,WB32,1999-10-14,25.0,CHN,China,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,Two-Handed,2017.0,Active,54,1314183.0
+Stan Wawrinka,W367,1985-03-28,40.0,SUI,Switzerland,"6'0""",72.0,183.0,179.0,81.0,Right-Handed,One-Handed,2002.0,Active,3,37634708.0
+Dominic Stricker,S0LA,2002-08-16,22.0,SUI,Switzerland,"6'0""",72.0,183.0,176.0,80.0,Left-Handed,Two-Handed,2020.0,Active,88,1896658.0
+Thiago Monteiro,MJ08,1994-05-31,31.0,BRA,Brazil,"6'0""",72.0,183.0,172.0,78.0,Left-Handed,Two-Handed,2011.0,Active,61,4246484.0
+Kei Nishikori,N552,1989-12-29,35.0,JPN,Japan,"5'10""",70.0,178.0,161.0,73.0,Right-Handed,Two-Handed,2007.0,Active,4,25973785.0
+Christopher O'Connell,O483,1994-06-03,31.0,AUS,Australia,"6'0""",72.0,183.0,172.0,78.0,Right-Handed,One-Handed,2011.0,Active,53,3649467.0
+Nikoloz Basilashvili,BG23,1992-02-23,33.0,GEO,Georgia,"6'1""",73.0,185.0,174.0,79.0,Right-Handed,Two-Handed,2008.0,Active,16,9248354.0
+Matteo Gigante,G0GD,2002-01-04,23.0,ITA,Italy,"5'11""",71.0,180.0,149.0,68.0,Left-Handed,Two-Handed,,Active,125,868729.0
+Tristan Schoolkate,S0N0,2001-02-26,24.0,AUS,Australia,"6'0""",72.0,183.0,184.0,83.0,Right-Handed,Two-Handed,,Active,102,971507.0
+Nick Kyrgios,KE17,1995-04-27,30.0,AUS,Australia,"6'4""",76.0,193.0,187.0,85.0,Right-Handed,Two-Handed,2013.0,Active,13,12653930.0
+Rafael Nadal,N409,1986-06-03,,ESP,Spain,"6'1""",73.0,185.0,187.0,85.0,Left-Handed,Two-Handed,2001.0,Deceased,1,134946100.0
+Roger Federer,F324,1981-08-08,,SUI,Switzerland,"6'1""",73.0,185.0,187.0,85.0,Right-Handed,One-Handed,1998.0,Inactive,1,130594339.0
+Hugo Dellien,DA31,1993-06-16,32.0,BOL,Bolivia,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Two-Handed,2009.0,Active,64,2727628.0
+Milos Raonic,R975,1990-12-27,34.0,CAN,Canada,"6'5""",77.0,196.0,216.0,98.0,Right-Handed,Two-Handed,2008.0,Active,3,20764512.0
+Francesco Passaro,P0CT,2001-01-07,24.0,ITA,Italy,"5'11""",71.0,180.0,182.0,83.0,Right-Handed,Two-Handed,2019.0,Active,89,1183336.0
+Thanasi Kokkinakis,KD46,1996-04-10,29.0,AUS,Australia,"6'4""",76.0,193.0,185.0,84.0,Right-Handed,Two-Handed,2013.0,Active,65,4611332.0
+John Isner,I186,1985-04-26,,USA,United States,"6'10""",82.0,208.0,238.0,108.0,Right-Handed,Two-Handed,2007.0,Inactive,8,22433361.0
+Ivo Karlovic,K336,1979-02-28,,CRO,Croatia,"6'11""",83.0,211.0,230.0,104.0,Right-Handed,One-Handed,2000.0,Inactive,14,10160232.0
+Beibit Zhukayev,Z09Z,2000-10-12,24.0,KAZ,Kazakhstan,"6'6""",78.0,198.0,205.0,93.0,Right-Handed,Two-Handed,,Active,171,596115.0
+Borna Coric,CG80,1996-11-14,28.0,CRO,Croatia,"6'2""",74.0,188.0,187.0,85.0,Right-Handed,Two-Handed,2013.0,Active,12,12955470.0
+Nicolas Almagro,A479,1985-08-21,,ESP,Spain,"6'0""",72.0,183.0,190.0,86.0,Right-Handed,One-Handed,2003.0,Inactive,9,10752234.0
+Andy Roddick,R485,1982-08-30,,USA,United States,"6'2""",74.0,188.0,195.0,88.0,Right-Handed,Two-Handed,2000.0,Inactive,1,20640030.0
+Leonardo Mayer,MD56,1987-05-15,,ARG,Argentina,"6'3""",75.0,191.0,176.0,80.0,Right-Handed,One-Handed,2003.0,Inactive,21,7035294.0
+Daniel Brands,BC72,1987-07-17,,GER,Germany,"6'5""",77.0,196.0,203.0,92.0,Right-Handed,One-Handed,2005.0,Inactive,51,2181301.0
+Dominic Thiem,TB69,1993-09-03,31.0,AUT,Austria,"6'1""",73.0,185.0,174.0,79.0,Right-Handed,One-Handed,2011.0,Active,3,30381559.0
+Luca Nardi,N0BG,2003-08-06,21.0,ITA,Italy,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Two-Handed,,Active,67,1806641.0
+Wayne Arthurs,A202,1971-03-18,,AUS,Australia,"6'1""",73.0,185.0,200.0,91.0,Left-Handed,One-Handed,1990.0,Inactive,44,3687809.0
+Jim Courier,C243,1970-08-17,,USA,United States,"6'1""",73.0,185.0,182.0,83.0,Right-Handed,Unknown,1988.0,Inactive,1,14034132.0
+Juan Balcells,B487,1975-06-20,,ESP,Spain,"6'3""",75.0,191.0,205.0,93.0,Right-Handed,Unknown,1996.0,Inactive,57,815801.0
+Kevin Anderson,A678,1986-05-18,,RSA,South Africa,"6'8""",80.0,203.0,208.0,94.0,Right-Handed,Two-Handed,2007.0,Inactive,5,17791917.0
+Jo-Wilfried Tsonga,T786,1985-04-17,,FRA,France,"6'2""",74.0,188.0,205.0,93.0,Right-Handed,Two-Handed,2004.0,Deceased,5,22524073.0
+Martin Verkerk,V232,1978-10-31,,NED,Netherlands,"6'5""",77.0,196.0,198.0,90.0,Right-Handed,Unknown,1996.0,Inactive,14,1564520.0
+Sam Querrey,Q927,1987-10-07,,USA,United States,"6'6""",78.0,198.0,209.0,95.0,Right-Handed,Two-Handed,2006.0,Inactive,11,13679265.0
+Fernando Gonzalez,G415,1980-07-29,,CHI,Chile,"6'0""",72.0,183.0,180.0,82.0,Right-Handed,One-Handed,1999.0,Inactive,5,8862276.0
+Pablo Cuevas,C882,1986-01-01,39.0,URU,Uruguay,"5'11""",71.0,180.0,173.0,78.0,Right-Handed,One-Handed,2004.0,Active,19,9742624.0
+Richard Krajicek,K214,1971-12-06,,NED,Netherlands,"6'5""",77.0,196.0,209.0,95.0,Right-Handed,One-Handed,1989.0,Inactive,4,10077425.0
+Tomas Berdych,BA47,1985-09-17,,CZE,Czechia,"6'5""",77.0,196.0,200.0,91.0,Right-Handed,Two-Handed,2002.0,Deceased,4,29491328.0
+Feliciano Lopez,L397,1981-09-20,,ESP,Spain,"6'2""",74.0,188.0,194.0,88.0,Left-Handed,One-Handed,1997.0,Inactive,12,18706677.0
+Steve Johnson,J386,1989-12-24,,USA,United States,"6'2""",74.0,188.0,190.0,86.0,Right-Handed,Two-Handed,2012.0,Inactive,21,8082688.0
+Ivan Ljubicic,L360,1979-03-19,,CRO,Croatia,"6'4""",76.0,193.0,202.0,92.0,Right-Handed,One-Handed,1998.0,Inactive,3,10181121.0
+Horacio Zeballos,Z184,1985-04-27,40.0,ARG,Argentina,"6'2""",74.0,188.0,185.0,84.0,Left-Handed,One-Handed,2003.0,Active,39,9487285.0
+Victor Hanescu,H528,1981-07-21,,ROU,Romania,"6'6""",78.0,198.0,194.0,88.0,Right-Handed,One-Handed,2000.0,Inactive,26,4330340.0
+Javier Frana,F041,1966-12-25,,ARG,Argentina,"6'1""",73.0,185.0,170.0,77.0,Left-Handed,Unknown,1986.0,Inactive,30,1691848.0
+Simone Bolelli,BA98,1985-10-08,39.0,ITA,Italy,"6'0""",72.0,183.0,182.0,83.0,Right-Handed,One-Handed,2003.0,Active,36,7803034.0
+Potito Starace,S843,1981-07-14,,ITA,Italy,"6'2""",74.0,188.0,185.0,84.0,Right-Handed,Two-Handed,2001.0,Inactive,27,3796316.0
+Juan Martin del Potro,D683,1988-09-23,,ARG,Argentina,"6'6""",78.0,198.0,214.0,97.0,Right-Handed,Two-Handed,2005.0,Inactive,3,25896046.0
+Victor Estrella Burgos,E224,1980-08-02,,DOM,Dominican Republic,"5'7""",67.0,170.0,170.0,77.0,Right-Handed,One-Handed,2002.0,Inactive,43,2164736.0
+Fernando Verdasco,V306,1983-11-15,41.0,ESP,Spain,"6'2""",74.0,188.0,198.0,90.0,Left-Handed,Two-Handed,2001.0,Active,7,18361106.0
+Marius Copil,CA99,1990-10-17,34.0,ROU,Romania,"6'3""",75.0,191.0,191.0,87.0,Right-Handed,One-Handed,2008.0,Active,56,2738400.0
+Denis Istomin,I165,1986-09-07,38.0,UZB,Uzbekistan,"6'1""",73.0,185.0,189.0,86.0,Right-Handed,Two-Handed,2004.0,Active,33,6338578.0
+Todd Martin,M442,1970-07-08,,USA,United States,"6'6""",78.0,198.0,200.0,91.0,Right-Handed,Two-Handed,1990.0,Inactive,4,8232355.0
+Jiri Vesely,V708,1993-07-10,32.0,CZE,Czechia,"6'6""",78.0,198.0,207.0,94.0,Left-Handed,Two-Handed,2009.0,Active,35,6111641.0
+Igor Andreev,A511,1983-07-14,,RUS,Russia,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Two-Handed,2002.0,Inactive,18,4510376.0
+Philipp Kohlschreiber,K435,1983-10-16,,GER,Germany,"5'10""",70.0,178.0,154.0,70.0,Right-Handed,One-Handed,2001.0,Inactive,16,13749731.0
+Luis Horna,H390,1980-09-14,,PER,Peru,"5'11""",71.0,180.0,180.0,82.0,Right-Handed,One-Handed,1998.0,Inactive,33,2648482.0
+Magnus Larsson,L206,1970-03-25,,SWE,Sweden,"6'4""",76.0,193.0,205.0,93.0,Right-Handed,Unknown,1989.0,Inactive,10,5839451.0
+Pete Sampras,S402,1971-08-12,,USA,United States,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,One-Handed,1988.0,Inactive,1,43280489.0
+Michael Stich,S351,1968-10-18,,GER,Germany,"6'4""",76.0,193.0,175.0,79.0,Right-Handed,One-Handed,1988.0,Inactive,2,12595128.0
+Albert Costa,C378,1975-06-25,,ESP,Spain,"5'11""",71.0,180.0,172.0,78.0,Right-Handed,One-Handed,1993.0,Inactive,6,7685228.0
+Robin Soderling,SA49,1984-08-14,,SWE,Sweden,"6'4""",76.0,193.0,192.0,87.0,Right-Handed,Two-Handed,2001.0,Inactive,4,10423124.0
+Thomas Muster,M099,1967-10-02,,AUT,Austria,"5'11""",71.0,180.0,170.0,77.0,Left-Handed,One-Handed,1985.0,Inactive,1,12266977.0
+Pavel Kotov,K09F,1998-11-18,26.0,RUS,Russia,"6'3""",75.0,191.0,196.0,89.0,Right-Handed,Two-Handed,2016.0,Active,50,2084604.0
+Mariano Puerta,P372,1978-09-19,,ARG,Argentina,"5'11""",71.0,180.0,172.0,78.0,Left-Handed,One-Handed,1998.0,Inactive,9,1781372.0
+Juan Carlos Ferrero,F316,1980-02-12,,ESP,Spain,"6'0""",72.0,183.0,160.0,73.0,Right-Handed,Two-Handed,1998.0,Inactive,1,13998165.0
+Jack Sock,SM25,1992-09-24,32.0,USA,United States,"6'3""",75.0,191.0,195.0,88.0,Right-Handed,Two-Handed,2011.0,Active,8,11955881.0
+Mark Philippoussis,P338,1976-11-07,,AUS,Australia,"6'5""",77.0,196.0,226.0,103.0,Right-Handed,One-Handed,1994.0,Inactive,8,6987402.0
+Gustavo Kuerten,K293,1976-09-10,,BRA,Brazil,"6'3""",75.0,191.0,183.0,83.0,Right-Handed,One-Handed,1995.0,Inactive,1,14807000.0
+Max Mirnyi,M595,1977-07-06,,BLR,Belarus,"6'5""",77.0,196.0,205.0,93.0,Right-Handed,One-Handed,1994.0,Deceased,18,11763620.0
+Andre Agassi,A092,1970-04-29,,USA,United States,"5'11""",71.0,180.0,177.0,80.0,Right-Handed,Two-Handed,1986.0,Inactive,1,31152975.0
+Carlos Moya,M605,1976-08-27,,ESP,Spain,"6'3""",75.0,191.0,195.0,88.0,Right-Handed,Two-Handed,1995.0,Inactive,1,13443970.0
+Lukas Rosol,R685,1985-07-24,,CZE,Czechia,"6'4""",76.0,193.0,182.0,83.0,Right-Handed,Two-Handed,2004.0,Inactive,26,4717412.0
+Younes El Aynaoui,E121,1971-09-12,,MAR,Morocco,"6'4""",76.0,193.0,190.0,86.0,Right-Handed,Two-Handed,1990.0,Inactive,14,4044667.0
+Ernests Gulbis,G858,1988-08-30,,LAT,Latvia,"6'3""",75.0,191.0,187.0,85.0,Right-Handed,Two-Handed,2004.0,Inactive,10,7668948.0
+Alexandr Dolgopolov,D801,1988-11-07,,UKR,Ukraine,"5'11""",71.0,180.0,157.0,71.0,Right-Handed,Two-Handed,2006.0,Inactive,13,7125771.0
+Ivan Navarro,N309,1981-10-19,,ESP,Spain,"6'0""",72.0,183.0,189.0,86.0,Right-Handed,One-Handed,2001.0,Inactive,67,1222289.0
+Nikolay Davydenko,D402,1981-06-02,,RUS,Russia,"5'10""",70.0,178.0,158.0,72.0,Right-Handed,Two-Handed,1999.0,Inactive,3,16186480.0
+Patrick Rafter,R255,1972-12-28,,AUS,Australia,"6'1""",73.0,185.0,190.0,86.0,Right-Handed,One-Handed,1991.0,Inactive,1,11133128.0
+Mario Ancic,A385,1984-03-30,,CRO,Croatia,"6'5""",77.0,196.0,180.0,82.0,Right-Handed,Two-Handed,2001.0,Inactive,7,4024686.0
+Tommy Robredo,R419,1982-05-01,,ESP,Spain,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,One-Handed,1998.0,Inactive,5,13467681.0
+Guido Pella,PC11,1990-05-17,,ARG,Argentina,"6'0""",72.0,183.0,174.0,79.0,Left-Handed,Two-Handed,2007.0,Inactive,20,6377946.0
+Alexander Waske,W300,1975-03-31,,GER,Germany,"6'2""",74.0,188.0,185.0,84.0,Right-Handed,One-Handed,2000.0,Inactive,89,1339987.0
+Radek Stepanek,S694,1978-11-27,,CZE,Czechia,"6'1""",73.0,185.0,167.0,76.0,Right-Handed,Two-Handed,1996.0,Inactive,8,11343464.0
+Thiemo de Bakker,D776,1988-09-19,,NED,Netherlands,"6'4""",76.0,193.0,182.0,83.0,Right-Handed,Two-Handed,,Inactive,40,1841293.0
+Agustin Calleri,C478,1976-09-14,,ARG,Argentina,"6'0""",72.0,183.0,190.0,86.0,Right-Handed,One-Handed,1995.0,Inactive,16,3753387.0
+Kyle Edmund,E831,1995-01-08,30.0,GBR,Great Britain,"6'2""",74.0,188.0,183.0,83.0,Right-Handed,Two-Handed,2012.0,Active,14,6073157.0
+Goran Ivanisevic,I034,1971-09-13,,CRO,Croatia,"6'4""",76.0,193.0,180.0,82.0,Left-Handed,Two-Handed,1988.0,Inactive,2,19878007.0
+Alberto Berasategui,B428,1973-06-28,,ESP,Spain,"5'8""",68.0,173.0,145.0,66.0,Right-Handed,One-Handed,1991.0,Inactive,7,4676187.0
+Marat Safin,S741,1980-01-27,,RUS,Russia,"6'4""",76.0,193.0,195.0,88.0,Right-Handed,Two-Handed,1997.0,Inactive,1,14373291.0
+Dustin Brown,BA65,1984-12-08,40.0,JAM,Jamaica,"6'5""",77.0,196.0,172.0,78.0,Right-Handed,Two-Handed,2002.0,Active,64,3129783.0
+Santiago Giraldo,G725,1987-11-27,,COL,Colombia,"6'2""",74.0,188.0,166.0,75.0,Right-Handed,Two-Handed,2004.0,Inactive,28,4541251.0
+Juan Ignacio Londero,LB84,1993-08-15,31.0,ARG,Argentina,"5'11""",71.0,180.0,154.0,70.0,Right-Handed,Two-Handed,2010.0,Active,50,2120569.0
+Joao Souza,SG64,1988-05-27,,BRA,Brazil,"6'4""",76.0,193.0,203.0,92.0,Right-Handed,Two-Handed,2006.0,Inactive,69,1353396.0
+German Lopez,L202,1971-12-29,,ESP,Spain,"6'4""",76.0,193.0,176.0,80.0,Right-Handed,Unknown,1990.0,Inactive,61,298869.0
+Jacco Eltingh,E106,1970-08-29,,NED,Netherlands,"6'2""",74.0,188.0,215.0,98.0,Right-Handed,Unknown,1988.0,Inactive,19,4920410.0
+Raemon Sluiter,S693,1978-04-13,,NED,Netherlands,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Two-Handed,1996.0,Inactive,46,1726539.0
+Marc-Kevin Goellner,G252,1970-09-22,,GER,Germany,"6'5""",77.0,196.0,178.0,81.0,Right-Handed,Unknown,1991.0,Inactive,26,2700899.0
+Juan Monaco,MA21,1984-03-29,,ARG,Argentina,"6'1""",73.0,185.0,179.0,81.0,Right-Handed,Two-Handed,2002.0,Deceased,10,8091242.0
+Karel Novacek,N025,1965-03-30,,CZE,Czechia,"6'3""",75.0,191.0,180.0,82.0,Right-Handed,Unknown,1984.0,Inactive,8,3729540.0
+Luiz Mattar,M035,1963-08-18,,BRA,Brazil,"6'0""",72.0,183.0,167.0,76.0,Right-Handed,Unknown,1985.0,Inactive,29,1484394.0
+Bryan Shelton,S380,1965-12-22,,USA,United States,"6'1""",73.0,185.0,177.0,80.0,Right-Handed,Unknown,1989.0,Inactive,55,1220283.0
+Tommy Haas,H355,1978-04-03,,GER,Germany,"6'2""",74.0,188.0,185.0,84.0,Right-Handed,One-Handed,1996.0,Inactive,2,13609987.0
+Stefan Edberg,E004,1966-01-19,,SWE,Sweden,"6'2""",74.0,188.0,170.0,77.0,Right-Handed,Unknown,1983.0,Inactive,1,20613441.0
+Andy Murray,MC10,1987-05-15,,GBR,Great Britain,"6'3""",75.0,191.0,181.0,82.0,Right-Handed,Two-Handed,2005.0,Deceased,1,64687542.0
+Marco Cecchinato,CF01,1992-09-30,32.0,ITA,Italy,"6'1""",73.0,185.0,171.0,78.0,Right-Handed,One-Handed,2010.0,Active,16,5077182.0
+Federico Delbonis,D874,1990-10-05,,ARG,Argentina,"6'4""",76.0,193.0,198.0,90.0,Left-Handed,Two-Handed,2007.0,Inactive,33,6140525.0
+Albert Ramos-Vinolas,R772,1988-01-17,37.0,ESP,Spain,"6'2""",74.0,188.0,168.0,76.0,Left-Handed,Two-Handed,2007.0,Active,17,11136311.0
+Aslan Karatsev,KC56,1993-09-04,31.0,RUS,Russia,"6'1""",73.0,185.0,187.0,85.0,Right-Handed,Two-Handed,2011.0,Active,14,5327640.0
+Gerald Melzer,MI43,1990-07-13,35.0,AUT,Austria,"6'2""",74.0,188.0,176.0,80.0,Left-Handed,Two-Handed,2007.0,Active,68,990350.0
+Jerzy Janowicz,J397,1990-11-13,,POL,Poland,"6'8""",80.0,203.0,207.0,94.0,Right-Handed,Two-Handed,2007.0,Inactive,14,3769423.0
+Maximilian Marterer,MN13,1995-06-15,30.0,GER,Germany,"6'2""",74.0,188.0,171.0,78.0,Left-Handed,Two-Handed,2015.0,Active,45,3179819.0
+Boris Becker,B028,1967-11-22,,GER,Germany,"6'3""",75.0,191.0,187.0,85.0,Right-Handed,Unknown,1984.0,Inactive,1,25080956.0
+Eduardo Schwank,SE66,1986-04-23,,ARG,Argentina,"6'0""",72.0,183.0,182.0,83.0,Right-Handed,Two-Handed,2005.0,Inactive,48,1648048.0
+Andrei Pavel,P280,1974-01-27,,ROU,Romania,"6'0""",72.0,183.0,198.0,90.0,Right-Handed,Unknown,1995.0,Inactive,13,5225028.0
+Sergi Bruguera,B350,1971-01-16,,ESP,Spain,"6'2""",74.0,188.0,167.0,76.0,Right-Handed,Unknown,1988.0,Inactive,3,11632199.0
+David Ferrer,F401,1982-04-02,,ESP,Spain,"5'9""",69.0,175.0,161.0,73.0,Right-Handed,Two-Handed,2000.0,Deceased,3,31483911.0
+Richard Fromberg,F164,1970-04-28,,AUS,Australia,"6'5""",77.0,196.0,195.0,88.0,Right-Handed,Unknown,1988.0,Inactive,24,2605740.0
+Ryan Harrison,H940,1992-05-07,33.0,USA,United States,"6'1""",73.0,185.0,185.0,84.0,Right-Handed,Two-Handed,2007.0,Active,40,4814945.0
+MaliVai Washington,W124,1969-06-20,,USA,United States,"5'11""",71.0,180.0,175.0,79.0,Right-Handed,Two-Handed,1989.0,Inactive,11,3232565.0
+Felix Mantilla,M535,1974-09-23,,ESP,Spain,"5'11""",71.0,180.0,172.0,78.0,Right-Handed,One-Handed,1993.0,Inactive,10,5332214.0
+Alex Molcan,MV14,1997-12-01,27.0,SVK,Slovak Republic,"5'10""",70.0,178.0,160.0,73.0,Left-Handed,Two-Handed,2015.0,Active,38,2240974.0
+Sergiy Stakhovsky,SC77,1986-01-06,,UKR,Ukraine,"6'4""",76.0,193.0,176.0,80.0,Right-Handed,One-Handed,2003.0,Deceased,31,5606768.0
+Jason Stoltenberg,S331,1970-04-04,,AUS,Australia,"6'1""",73.0,185.0,177.0,80.0,Right-Handed,Unknown,1987.0,Inactive,19,3259607.0
+Emilio Sanchez,S014,1965-05-29,,ESP,Spain,"5'11""",71.0,180.0,164.0,74.0,Right-Handed,Unknown,1984.0,Inactive,7,5332145.0
+Greg Rusedski,R237,1973-09-06,,GBR,Great Britain,"6'4""",76.0,193.0,200.0,91.0,Left-Handed,Unknown,1991.0,Inactive,4,8944841.0
+Albert Montanes,M824,1980-11-26,,ESP,Spain,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,One-Handed,1999.0,Deceased,22,5866340.0
+Jose Acasuso,A389,1982-10-20,,ARG,Argentina,"6'3""",75.0,191.0,190.0,86.0,Right-Handed,One-Handed,1999.0,Inactive,20,3642422.0
+Jeremy Chardy,CA12,1987-02-12,,FRA,France,"6'2""",74.0,188.0,165.0,75.0,Right-Handed,Two-Handed,2005.0,Inactive,25,10857975.0
+Thomaz Bellucci,BD20,1987-12-30,,BRA,Brazil,"6'2""",74.0,188.0,181.0,82.0,Left-Handed,Two-Handed,2005.0,Inactive,21,5384637.0
+Robin Haase,H756,1987-04-06,38.0,NED,Netherlands,"6'3""",75.0,191.0,170.0,77.0,Right-Handed,Two-Handed,2005.0,Active,33,8540008.0
+Pedro Cachin,CG04,1995-04-12,30.0,ARG,Argentina,"6'1""",73.0,185.0,169.0,77.0,Right-Handed,Two-Handed,2013.0,Active,48,2121419.0
+Gianluca Mager,ML57,1994-12-01,30.0,ITA,Italy,"6'2""",74.0,188.0,170.0,77.0,Right-Handed,Two-Handed,2013.0,Active,62,1671780.0
+Scott Draper,D270,1974-06-05,,AUS,Australia,"5'9""",69.0,175.0,171.0,78.0,Left-Handed,One-Handed,1993.0,Inactive,42,1594598.0
+David Wheaton,W123,1969-06-02,,USA,United States,"6'4""",76.0,193.0,185.0,84.0,Right-Handed,Unknown,1988.0,Inactive,12,5238401.0
+Marc Rosset,R214,1970-11-07,,SUI,Switzerland,"6'7""",79.0,201.0,194.0,88.0,Right-Handed,Unknown,1988.0,Inactive,9,6812693.0
+Alberto Mancini,M372,1969-05-20,,ARG,Argentina,"5'11""",71.0,180.0,174.0,79.0,Right-Handed,Unknown,1987.0,Inactive,8,1535520.0
+Magnus Gustafsson,G182,1967-01-03,,SWE,Sweden,"6'1""",73.0,185.0,172.0,78.0,Right-Handed,Unknown,1986.0,Inactive,10,4545489.0
+Andreas Beck,BA86,1986-02-05,,GER,Germany,"6'3""",75.0,191.0,196.0,89.0,Left-Handed,Two-Handed,2003.0,Inactive,33,1564600.0
+Jurgen Melzer,M762,1981-05-22,,AUT,Austria,"6'0""",72.0,183.0,176.0,80.0,Left-Handed,Two-Handed,1999.0,Inactive,8,10739212.0
+Tennys Sandgren,SL08,1991-07-22,,USA,United States,"6'2""",74.0,188.0,195.0,88.0,Right-Handed,Two-Handed,2011.0,Inactive,41,3581949.0
+Filip Krajinovic,KB05,1992-02-27,33.0,SRB,Serbia,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Two-Handed,2008.0,Active,26,6218948.0
+Guillermo Canas,C433,1977-11-25,,ARG,Argentina,"6'1""",73.0,185.0,190.0,86.0,Right-Handed,Two-Handed,1995.0,Inactive,8,5285575.0
+Magnus Norman,N250,1976-05-30,,SWE,Sweden,"6'2""",74.0,188.0,196.0,89.0,Right-Handed,Two-Handed,1995.0,Inactive,2,4537247.0
+Gilbert Schaller,S315,1969-03-17,,AUT,Austria,"5'11""",71.0,180.0,155.0,70.0,Right-Handed,Unknown,1987.0,Inactive,17,1317163.0
+Daniel Elahi Galan,GE33,1996-06-18,29.0,COL,Colombia,"6'3""",75.0,191.0,159.0,72.0,Right-Handed,Two-Handed,2015.0,Active,56,3179774.0
+Alex Corretja,C344,1974-04-11,,ESP,Spain,"5'11""",71.0,180.0,160.0,73.0,Right-Handed,One-Handed,1991.0,Inactive,2,10411354.0
+Aljaz Bedene,BH09,1989-07-18,36.0,SLO,Slovenia,"6'0""",72.0,183.0,161.0,73.0,Right-Handed,Two-Handed,2008.0,Active,43,5153755.0
+Edouard Roger-Vasselin,R613,1983-11-28,41.0,FRA,France,"6'1""",73.0,185.0,173.0,78.0,Right-Handed,Two-Handed,2002.0,Active,35,8598410.0
+Julien Boutter,B599,1974-04-05,,FRA,France,"6'3""",75.0,191.0,190.0,86.0,Right-Handed,Unknown,1996.0,Inactive,46,1430283.0
+Juan Pablo Varillas,V836,1995-10-06,29.0,PER,Peru,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,Two-Handed,2013.0,Active,60,1710307.0
+Viktor Troicki,T840,1986-02-10,,SRB,Serbia,"6'4""",76.0,193.0,189.0,86.0,Right-Handed,Two-Handed,2006.0,Inactive,12,9265938.0
+Marcelo Rios,R286,1975-12-26,,CHI,Chile,"5'9""",69.0,175.0,160.0,73.0,Left-Handed,Two-Handed,1994.0,Inactive,1,9713771.0
+Martin Vassallo Arguello,V258,1980-02-10,,ARG,Argentina,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,One-Handed,1999.0,Inactive,47,1420101.0
+Gilles Muller,MA30,1983-05-09,,LUX,Luxembourg,"6'4""",76.0,193.0,196.0,89.0,Left-Handed,Two-Handed,2001.0,Inactive,21,5991874.0
+Alex Calatrava,C361,1973-06-14,,ESP,Spain,"6'3""",75.0,191.0,181.0,82.0,Right-Handed,One-Handed,1993.0,Inactive,44,1335933.0
+Javier Sanchez,S015,1968-02-01,,ESP,Spain,"5'10""",70.0,178.0,155.0,70.0,Right-Handed,Unknown,1986.0,Inactive,23,4427811.0
+Julian Reister,R782,1986-04-02,,GER,Germany,"6'2""",74.0,188.0,192.0,87.0,Right-Handed,One-Handed,2005.0,Inactive,83,858433.0
+Nicolas Lapentti,L290,1976-08-13,,ECU,Ecuador,"6'2""",74.0,188.0,190.0,86.0,Right-Handed,Two-Handed,1995.0,Inactive,6,6315143.0
+Jiri Novak,N254,1975-03-22,,CZE,Czechia,"6'3""",75.0,191.0,190.0,86.0,Right-Handed,Two-Handed,1993.0,Inactive,5,7618613.0
+Mariano Zabaleta,Z073,1978-02-28,,ARG,Argentina,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,One-Handed,1996.0,Inactive,21,3204127.0
+Mikhail Youzhny,Y061,1982-06-25,,RUS,Russia,"6'0""",72.0,183.0,160.0,73.0,Right-Handed,One-Handed,1999.0,Deceased,8,14264450.0
+Janko Tipsarevic,T742,1984-06-22,,SRB,Serbia,"5'11""",71.0,180.0,176.0,80.0,Right-Handed,Two-Handed,2002.0,Inactive,8,8616024.0
+Andrei Medvedev,M475,1974-08-31,,UKR,Ukraine,"6'4""",76.0,193.0,200.0,91.0,Right-Handed,Unknown,1991.0,Inactive,4,6721598.0
+Guillermo Perez-Roldan,P190,1969-10-20,,ARG,Argentina,"5'10""",70.0,178.0,173.0,78.0,Right-Handed,Unknown,1986.0,Inactive,13,1686459.0
+Hyung-Taik Lee,L311,1976-01-03,,KOR,South Korea,"5'11""",71.0,180.0,180.0,82.0,Right-Handed,One-Handed,1995.0,Inactive,36,2355686.0
+Facundo Bagnis,BF23,1990-02-27,35.0,ARG,Argentina,"6'0""",72.0,183.0,180.0,82.0,Left-Handed,Two-Handed,2008.0,Active,55,3172804.0
+Wayne Odesnik,O234,1985-11-21,,USA,United States,"5'11""",71.0,180.0,170.0,77.0,Left-Handed,Two-Handed,2004.0,Deceased,77,1155255.0
+Daniel Gimeno-Traver,G676,1985-08-07,,ESP,Spain,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,Two-Handed,2004.0,Inactive,48,3286850.0
+James Blake,B676,1979-12-28,,USA,United States,"6'1""",73.0,185.0,183.0,83.0,Right-Handed,One-Handed,1999.0,Inactive,4,7981882.0
+Michael Llodra,L428,1980-05-18,,FRA,France,"6'3""",75.0,191.0,176.0,80.0,Left-Handed,One-Handed,1999.0,Inactive,21,8533350.0
+Steve Darcis,D632,1984-03-13,,BEL,Belgium,"5'9""",69.0,175.0,171.0,78.0,Right-Handed,One-Handed,2003.0,Inactive,38,3445948.0
+Wayne Ferreira,F196,1971-09-15,,RSA,South Africa,"6'1""",73.0,185.0,200.0,91.0,Right-Handed,Two-Handed,1989.0,Inactive,6,9969617.0
+Michael Chang,C274,1972-02-22,,USA,United States,"5'9""",69.0,175.0,160.0,73.0,Right-Handed,Two-Handed,1988.0,Inactive,2,19145632.0
+Nicolas Mahut,M873,1982-01-21,43.0,FRA,France,"6'3""",75.0,191.0,181.0,82.0,Right-Handed,One-Handed,2000.0,Active,37,12848736.0
+Nicolas Kicker,KC29,1992-08-16,32.0,ARG,Argentina,"5'10""",70.0,178.0,165.0,75.0,Right-Handed,One-Handed,2009.0,Active,78,1187359.0
+Antony Dupuis,D272,1973-02-24,,FRA,France,"6'1""",73.0,185.0,192.0,87.0,Right-Handed,Unknown,1992.0,Inactive,57,1591333.0
+Diego Hartfield,H502,1981-01-31,,ARG,Argentina,"6'1""",73.0,185.0,177.0,80.0,Right-Handed,Unknown,,Inactive,73,571141.0
+Guillermo Coria,C524,1982-01-13,,ARG,Argentina,"5'9""",69.0,175.0,152.0,69.0,Right-Handed,Two-Handed,2000.0,Inactive,3,5915620.0
+Mischa Zverev,Z168,1987-08-22,,GER,Germany,"6'3""",75.0,191.0,195.0,88.0,Left-Handed,Two-Handed,2005.0,Inactive,25,5739081.0
+David Nalbandian,N301,1982-01-01,,ARG,Argentina,"5'11""",71.0,180.0,175.0,79.0,Right-Handed,Two-Handed,2000.0,Inactive,3,11123125.0
+Tim Henman,H336,1974-09-06,,GBR,Great Britain,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,One-Handed,1993.0,Inactive,4,11635542.0
+Carlos Berlocq,B884,1983-02-03,,ARG,Argentina,"6'0""",72.0,183.0,178.0,81.0,Right-Handed,One-Handed,2001.0,Deceased,37,4253764.0
+Marcelo Filippini,F165,1967-08-04,,URU,Uruguay,"5'10""",70.0,178.0,145.0,66.0,Right-Handed,Unknown,1987.0,Inactive,30,2016190.0
+Oscar Hernandez,H472,1978-04-10,,ESP,Spain,"5'11""",71.0,180.0,154.0,70.0,Right-Handed,One-Handed,1998.0,Inactive,48,1943910.0
+Jarkko Nieminen,N289,1981-07-23,,FIN,Finland,"6'1""",73.0,185.0,172.0,78.0,Left-Handed,Two-Handed,2000.0,Inactive,13,7743345.0
+Sebastien Grosjean,G379,1978-05-29,,FRA,France,"5'9""",69.0,175.0,160.0,73.0,Right-Handed,Two-Handed,1996.0,Inactive,4,8131803.0
+Nicolas Massu,M655,1979-10-10,,CHI,Chile,"6'0""",72.0,183.0,177.0,80.0,Right-Handed,Two-Handed,1997.0,Inactive,9,4344833.0
+Olivier Patience,P488,1980-03-25,,FRA,France,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Unknown,1998.0,Inactive,87,1030897.0
+Gaston Gaudio,G374,1978-12-09,,ARG,Argentina,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,One-Handed,1996.0,Inactive,5,6066156.0
+Hugo Armando,A311,1978-05-27,,USA,United States,"6'0""",72.0,183.0,180.0,82.0,Right-Handed,One-Handed,1997.0,Inactive,100,588559.0
+Emilio Benfele Alvarez,A190,1972-11-15,,ESP,Spain,"6'0""",72.0,183.0,188.0,85.0,Right-Handed,Unknown,1989.0,Inactive,81,902099.0
+Michael Berrer,B678,1980-07-01,,GER,Germany,"6'4""",76.0,193.0,220.0,100.0,Left-Handed,One-Handed,1999.0,Inactive,42,2766701.0
+Julien Benneteau,B747,1981-12-20,,FRA,France,"6'1""",73.0,185.0,174.0,79.0,Right-Handed,Two-Handed,2000.0,Deceased,25,9556742.0
+Ivan Dodig,D646,1985-01-02,40.0,CRO,Croatia,"6'0""",72.0,183.0,179.0,81.0,Right-Handed,Two-Handed,2004.0,Active,29,10533904.0
+Mardy Fish,F339,1981-12-09,,USA,United States,"6'2""",74.0,188.0,180.0,82.0,Right-Handed,Two-Handed,2000.0,Inactive,7,7460641.0
+Marcos Baghdatis,B837,1985-06-17,,CYP,Cyprus,"5'10""",70.0,178.0,181.0,82.0,Right-Handed,Two-Handed,2003.0,Deceased,8,8918917.0
+Jan Siemerink,S381,1970-04-14,,NED,Netherlands,"6'0""",72.0,183.0,162.0,73.0,Left-Handed,Unknown,1989.0,Inactive,14,4347693.0
+Martin Klizan,K966,1989-07-11,36.0,SVK,Slovak Republic,"6'3""",75.0,191.0,187.0,85.0,Left-Handed,Two-Handed,2007.0,Active,24,5575281.0
+Philipp Petzschner,P624,1984-03-24,,GER,Germany,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,One-Handed,2001.0,Inactive,35,4024417.0
+Ramon Delgado,D316,1976-11-14,,PAR,Paraguay,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,Two-Handed,1995.0,Inactive,52,1385410.0
+John Millman,MH30,1989-06-14,,AUS,Australia,"6'0""",72.0,183.0,174.0,79.0,Right-Handed,Two-Handed,2006.0,Inactive,33,5519421.0
+Florian Mayer,MB02,1983-10-05,,GER,Germany,"6'3""",75.0,191.0,180.0,82.0,Right-Handed,Two-Handed,2001.0,Deceased,18,7278992.0
+Jozef Kovalik,KC04,1992-11-04,32.0,SVK,Slovak Republic,"6'0""",72.0,183.0,181.0,82.0,Right-Handed,Two-Handed,2010.0,Active,80,2241004.0
+Filippo Volandri,V254,1981-09-05,,ITA,Italy,"6'0""",72.0,183.0,161.0,73.0,Right-Handed,One-Handed,1997.0,Inactive,25,3949631.0
+Guy Forget,F035,1965-01-04,,FRA,France,"6'3""",75.0,191.0,177.0,80.0,Left-Handed,Unknown,1982.0,Inactive,4,5669934.0
+Markus Hantschk,H366,1977-11-19,,GER,Germany,"6'2""",74.0,188.0,187.0,85.0,Right-Handed,Unknown,1996.0,Inactive,71,514852.0
+Cedric Pioline,P226,1969-06-15,,FRA,France,"6'2""",74.0,188.0,175.0,79.0,Right-Handed,Unknown,1989.0,Inactive,5,6921029.0
+Jan Hajek,H571,1983-08-07,,CZE,Czechia,"5'11""",71.0,180.0,176.0,80.0,Right-Handed,Two-Handed,2000.0,Inactive,71,1427267.0
+Paolo Lorenzi,L503,1981-12-15,,ITA,Italy,"6'0""",72.0,183.0,172.0,78.0,Right-Handed,Two-Handed,2003.0,Inactive,33,5208086.0
+Francisco Clavet,C252,1968-10-24,,ESP,Spain,"6'0""",72.0,183.0,156.0,71.0,Left-Handed,Unknown,1988.0,Inactive,18,4271881.0
+Peter Luczak,L515,1979-08-31,,AUS,Australia,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,Two-Handed,2000.0,Inactive,64,1348936.0
+Paul Capdeville,C634,1983-04-02,,CHI,Chile,"6'3""",75.0,191.0,172.0,78.0,Right-Handed,Two-Handed,2002.0,Inactive,76,1150846.0
+Goran Prpic,P050,1964-05-04,,CRO,Croatia,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Unknown,1984.0,Inactive,16,1303639.0
+Jordi Arrese,A034,1964-08-29,,ESP,Spain,"5'9""",69.0,175.0,142.0,64.0,Right-Handed,Unknown,1982.0,Inactive,23,1847136.0
+Taro Daniel,DA81,1993-01-27,32.0,JPN,Japan,"6'3""",75.0,191.0,185.0,84.0,Right-Handed,Two-Handed,2010.0,Active,58,4777551.0
+Stefano Travaglia,TA12,1991-12-28,33.0,ITA,Italy,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Two-Handed,2008.0,Active,60,2494409.0
+Marcos Daniel,D339,1978-07-04,,BRA,Brazil,"5'11""",71.0,180.0,175.0,79.0,Right-Handed,One-Handed,1997.0,Inactive,56,1177189.0
+Paul-Henri Mathieu,M850,1982-01-12,,FRA,France,"6'1""",73.0,185.0,163.0,74.0,Right-Handed,Two-Handed,1999.0,Inactive,12,6299093.0
+Gabriel Markus,M412,1970-03-31,,ARG,Argentina,"5'11""",71.0,180.0,167.0,76.0,Right-Handed,Unknown,1989.0,Inactive,36,589053.0
+Claudio Pistolesi,P037,1967-08-25,,ITA,Italy,"5'11""",71.0,180.0,167.0,76.0,Right-Handed,Unknown,1985.0,Inactive,71,587945.0
+Hernan Gumy,G247,1972-03-05,,ARG,Argentina,"6'2""",74.0,188.0,200.0,91.0,Right-Handed,Unknown,1991.0,Inactive,39,1226776.0
+Juan Ignacio Chela,C514,1979-08-30,,ARG,Argentina,"6'3""",75.0,191.0,165.0,75.0,Right-Handed,Two-Handed,1998.0,Inactive,15,6572494.0
+Fred Gil,G717,1985-03-24,,POR,Portugal,"5'8""",68.0,173.0,171.0,78.0,Right-Handed,One-Handed,2003.0,Inactive,62,1500559.0
+Carlos Taberner,TE16,1997-08-08,27.0,ESP,Spain,"6'0""",72.0,183.0,172.0,78.0,Right-Handed,Two-Handed,2015.0,Active,84,1419372.0
+Gaston Etlis,E138,1974-11-04,,ARG,Argentina,"6'1""",73.0,185.0,168.0,76.0,Right-Handed,Unknown,1993.0,Inactive,114,1559459.0
+Benjamin Becker,B896,1981-06-16,,GER,Germany,"5'10""",70.0,178.0,158.0,72.0,Right-Handed,Two-Handed,2005.0,Inactive,35,4399584.0
+Jerome Golmard,G319,1973-09-09,,FRA,France,"6'2""",74.0,188.0,170.0,77.0,Left-Handed,Unknown,1993.0,Inactive,22,2215784.0
+Joao Sousa,SH90,1989-03-30,,POR,Portugal,"6'1""",73.0,185.0,163.0,74.0,Right-Handed,Two-Handed,2008.0,Inactive,28,8340548.0
+Andrea Gaudenzi,G254,1973-07-30,,ITA,Italy,"6'0""",72.0,183.0,187.0,85.0,Right-Handed,Unknown,1990.0,Inactive,18,3063479.0
+Andrey Kuznetsov,KB54,1991-02-22,,RUS,Russia,"6'0""",72.0,183.0,154.0,70.0,Right-Handed,Two-Handed,2008.0,Inactive,39,3055162.0
+Mark Woodforde,W035,1965-09-23,,AUS,Australia,"6'2""",74.0,188.0,195.0,88.0,Left-Handed,Two-Handed,1984.0,Inactive,19,8551305.0
+Andreas Seppi,SA93,1984-02-21,,ITA,Italy,"6'3""",75.0,191.0,172.0,78.0,Right-Handed,Two-Handed,2002.0,Inactive,18,11816212.0
+Lucas Pouille,PF39,1994-02-23,31.0,FRA,France,"6'1""",73.0,185.0,185.0,84.0,Right-Handed,Two-Handed,2012.0,Active,10,8820518.0
+Emil Ruusuvuori,RH24,1999-04-02,26.0,FIN,Finland,"6'2""",74.0,188.0,174.0,79.0,Right-Handed,Two-Handed,2018.0,Active,37,4113903.0
+Marcel Granollers,G710,1986-04-12,39.0,ESP,Spain,"6'3""",75.0,191.0,176.0,80.0,Right-Handed,Two-Handed,2003.0,Active,19,15145205.0
+Bernd Karbacher,K190,1968-04-03,,GER,Germany,"6'1""",73.0,185.0,160.0,73.0,Right-Handed,Unknown,1989.0,Inactive,22,2043057.0
+Guillermo Garcia-Lopez,G476,1983-06-04,,ESP,Spain,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,One-Handed,2002.0,Inactive,23,8452004.0
+Juan Albert Viloca-Puig,V161,1973-01-17,,ESP,Spain,"6'1""",73.0,185.0,167.0,76.0,Right-Handed,One-Handed,1992.0,Inactive,47,851371.0
+Roberto Carretero,C383,1975-08-30,,ESP,Spain,"5'10""",70.0,178.0,200.0,91.0,Right-Handed,Unknown,1993.0,Inactive,58,680211.0
+Mikhail Kukushkin,K926,1987-12-26,37.0,KAZ,Kazakhstan,"6'0""",72.0,183.0,159.0,72.0,Right-Handed,Two-Handed,2006.0,Active,39,7424272.0
+Robby Ginepri,G569,1982-10-07,,USA,United States,"6'0""",72.0,183.0,174.0,79.0,Right-Handed,Two-Handed,2001.0,Inactive,15,3897123.0
+Dominik Koepfer,KE73,1994-04-29,31.0,GER,Germany,"5'11""",71.0,180.0,175.0,79.0,Left-Handed,Two-Handed,2016.0,Active,49,3631403.0
+Carlos Costa,C179,1968-04-22,,ESP,Spain,"6'0""",72.0,183.0,162.0,73.0,Right-Handed,Unknown,1988.0,Inactive,10,3134189.0
+Fernando Meligeni,M443,1971-04-12,,BRA,Brazil,"5'11""",71.0,180.0,142.0,64.0,Left-Handed,Unknown,1990.0,Inactive,25,2555367.0
+Daniel Koellerer,K551,1983-08-17,,AUT,Austria,"5'11""",71.0,180.0,176.0,80.0,Right-Handed,Unknown,2002.0,Deceased,55,757918.0
+Oliver Marach,M760,1980-07-16,,AUT,Austria,"6'1""",73.0,185.0,187.0,85.0,Right-Handed,One-Handed,1998.0,Inactive,82,4706185.0
+Jakob Hlasek,H025,1964-11-12,,SUI,Switzerland,"6'2""",74.0,188.0,172.0,78.0,Right-Handed,One-Handed,1983.0,Inactive,7,5890993.0
+Ilya Ivashka,I305,1994-02-24,31.0,BLR,Belarus,"6'4""",76.0,193.0,191.0,87.0,Right-Handed,Two-Handed,2013.0,Active,40,3364262.0
+Igor Sijsling,SF36,1987-08-18,,NED,Netherlands,"6'3""",75.0,191.0,187.0,85.0,Right-Handed,One-Handed,2006.0,Inactive,52,2225903.0
+Pablo Andujar,A596,1986-01-23,,ESP,Spain,"5'11""",71.0,180.0,176.0,80.0,Right-Handed,Two-Handed,2003.0,Inactive,32,7035592.0
+Martin Rodriguez,R251,1969-12-18,,ARG,Argentina,"5'10""",70.0,178.0,165.0,75.0,Right-Handed,Unknown,1991.0,Inactive,71,1221361.0
+Marc Gicquel,G436,1977-03-30,,FRA,France,"6'2""",74.0,188.0,165.0,75.0,Right-Handed,Unknown,1999.0,Inactive,37,2513519.0
+Alejandro Falla,F444,1983-11-14,,COL,Colombia,"6'1""",73.0,185.0,169.0,77.0,Left-Handed,Two-Handed,2000.0,Deceased,48,3101331.0
+Christian Bergstrom,B040,1967-07-19,,SWE,Sweden,"5'11""",71.0,180.0,150.0,68.0,Right-Handed,Unknown,1985.0,Inactive,32,1257692.0
+Horacio de la Pena,D008,1966-08-01,,ARG,Argentina,"5'11""",71.0,180.0,158.0,72.0,Left-Handed,Unknown,1984.0,Inactive,31,1234768.0
+Jan-Michael Gambill,G352,1977-06-03,,USA,United States,"6'3""",75.0,191.0,195.0,88.0,Right-Handed,Unknown,1996.0,Inactive,14,3612893.0
+Karim Alami,A203,1973-05-24,,MAR,Morocco,"6'1""",73.0,185.0,187.0,85.0,Right-Handed,Unknown,1990.0,Inactive,25,2087596.0
+Dmitry Tursunov,T315,1982-12-12,,RUS,Russia,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Two-Handed,2000.0,Inactive,20,5920125.0
+Yevgeny Kafelnikov,K267,1974-02-18,,RUS,Russia,"6'3""",75.0,191.0,185.0,84.0,Right-Handed,Two-Handed,1992.0,Inactive,1,23883797.0
+Markus Naewie,N117,1970-01-07,,GER,Germany,"6'3""",75.0,191.0,177.0,80.0,Right-Handed,Unknown,1990.0,Inactive,70,307182.0
+Simon Greul,G511,1981-04-13,,GER,Germany,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Unknown,2000.0,Inactive,55,1320952.0
+Ivo Minar,MA41,1984-05-21,,CZE,Czechia,"6'0""",72.0,183.0,187.0,85.0,Right-Handed,Unknown,2002.0,Inactive,62,1199773.0
+Teymuraz Gabashvili,G681,1985-05-23,40.0,RUS,Russia,"6'1""",73.0,185.0,191.0,87.0,Right-Handed,Two-Handed,2001.0,Active,43,4233173.0
+Federico Coria,CE77,1992-03-09,33.0,ARG,Argentina,"5'11""",71.0,180.0,161.0,73.0,Right-Handed,Two-Handed,2010.0,Active,49,3284795.0
+Claudio Mezzadri,M063,1965-06-10,,SUI,Switzerland,"5'11""",71.0,180.0,161.0,73.0,Right-Handed,One-Handed,1983.0,Inactive,26,797458.0
+Werner Eschauer,E141,1974-04-26,,AUT,Austria,"6'2""",74.0,188.0,167.0,76.0,Right-Handed,Two-Handed,1998.0,Inactive,52,703735.0
+Slava Dosedel,D198,1970-08-14,,CZE,Czechia,"6'0""",72.0,183.0,175.0,79.0,Right-Handed,Unknown,1989.0,Inactive,26,2452512.0
+Arnaud Di Pasquale,D357,1979-02-11,,FRA,France,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,One-Handed,1998.0,Inactive,39,1162796.0
+Andrew Ilie,I052,1976-04-18,,AUS,Australia,"5'11""",71.0,180.0,172.0,78.0,Right-Handed,Unknown,1994.0,Inactive,38,1327838.0
+Lleyton Hewitt,H432,1981-02-24,,AUS,Australia,"5'10""",70.0,178.0,170.0,77.0,Right-Handed,Two-Handed,1998.0,Inactive,1,20889965.0
+Horst Skoff,S055,1968-08-22,,AUT,Austria,"5'9""",69.0,175.0,160.0,73.0,Right-Handed,Unknown,1985.0,Inactive,18,1651858.0
+Rogerio Dutra Silva,SC73,1984-02-05,,BRA,Brazil,"5'10""",70.0,178.0,161.0,73.0,Right-Handed,One-Handed,2003.0,Inactive,63,1854319.0
+Thomas Johansson,J129,1975-03-24,,SWE,Sweden,"5'11""",71.0,180.0,176.0,80.0,Right-Handed,Two-Handed,1994.0,Inactive,7,7168029.0
+Galo Blanco,B518,1976-10-08,,ESP,Spain,"5'7""",67.0,170.0,158.0,72.0,Right-Handed,One-Handed,1995.0,Inactive,40,1832691.0
+Ricardas Berankis,BE90,1990-06-21,35.0,LTU,Lithuania,"5'9""",69.0,175.0,171.0,78.0,Right-Handed,Two-Handed,2007.0,Active,50,4868002.0
+Dominik Hrbaty,H377,1978-01-04,,SVK,Slovak Republic,"5'11""",71.0,180.0,176.0,80.0,Right-Handed,Two-Handed,1996.0,Inactive,12,7070095.0
+Markus Hipfl,H364,1978-04-26,,AUT,Austria,"5'10""",70.0,178.0,163.0,74.0,Right-Handed,Unknown,1995.0,Inactive,63,787415.0
+Lars Jonsson,J084,1970-06-27,,SWE,Sweden,"6'2""",74.0,188.0,155.0,70.0,Right-Handed,Unknown,1988.0,Inactive,67,888998.0
+Fabio Fognini,F510,1987-05-24,,ITA,Italy,"5'10""",70.0,178.0,174.0,79.0,Right-Handed,Two-Handed,2004.0,Deceased,9,19086549.0
+Arnaud Boetsch,B053,1969-04-01,,FRA,France,"6'0""",72.0,183.0,168.0,76.0,Right-Handed,Unknown,1987.0,Inactive,12,3031247.0
+Elias Ymer,Y218,1996-04-10,29.0,SWE,Sweden,"6'1""",73.0,185.0,171.0,78.0,Right-Handed,Two-Handed,2014.0,Active,105,2130774.0
+Andrej Martin,MF35,1989-09-20,35.0,SVK,Slovak Republic,"6'0""",72.0,183.0,183.0,83.0,Right-Handed,Two-Handed,2007.0,Active,93,1631958.0
+Xavier Malisse,M680,1980-07-19,,BEL,Belgium,"6'1""",73.0,185.0,183.0,83.0,Right-Handed,Two-Handed,1998.0,Inactive,19,5702871.0
+Malek Jaziri,J267,1984-01-20,,TUN,Tunisia,"6'1""",73.0,185.0,182.0,83.0,Right-Handed,Two-Handed,2003.0,Inactive,42,4050966.0
+Andreas Vinciguerra,V250,1981-02-19,,SWE,Sweden,"5'11""",71.0,180.0,160.0,73.0,Left-Handed,Unknown,1998.0,Inactive,33,1381556.0
+Sargis Sargsian,S545,1973-06-03,,ARM,Armenia,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Unknown,1995.0,Inactive,38,2603732.0
+Chris Woodruff,W212,1973-01-02,,USA,United States,"6'2""",74.0,188.0,180.0,82.0,Right-Handed,Unknown,1993.0,Inactive,29,1900659.0
+Andrey Golubev,G806,1987-07-22,,KAZ,Kazakhstan,"5'11""",71.0,180.0,169.0,77.0,Right-Handed,One-Handed,2005.0,Inactive,33,3314031.0
+Jonas Svensson,S101,1966-10-21,,SWE,Sweden,"6'2""",74.0,188.0,168.0,76.0,Right-Handed,Unknown,1985.0,Inactive,10,2431292.0
+Rui Machado,MA49,1984-04-10,,POR,Portugal,"5'10""",70.0,178.0,154.0,70.0,Right-Handed,Two-Handed,2002.0,Inactive,59,900563.0
+Alberto Martin,M590,1978-08-20,,ESP,Spain,"5'9""",69.0,175.0,162.0,73.0,Right-Handed,One-Handed,1995.0,Inactive,34,3840885.0
+Adrian Voinea,V166,1974-08-06,,ROU,Romania,"6'1""",73.0,185.0,160.0,73.0,Right-Handed,One-Handed,1993.0,Inactive,36,1836277.0
+Richey Reneberg,R016,1965-10-05,,USA,United States,"5'11""",71.0,180.0,170.0,77.0,Right-Handed,Unknown,1987.0,Inactive,20,4407308.0
+Nicolas Devilder,D469,1980-03-25,,FRA,France,"5'8""",68.0,173.0,143.0,65.0,Left-Handed,Two-Handed,2000.0,Inactive,60,959449.0
+Florent Serra,S963,1981-02-28,,FRA,France,"5'11""",71.0,180.0,171.0,78.0,Right-Handed,Two-Handed,2000.0,Inactive,36,2969796.0
+Paul Haarhuis,H223,1966-02-19,,NED,Netherlands,"6'2""",74.0,188.0,177.0,80.0,Right-Handed,Two-Handed,1989.0,Inactive,18,7751962.0
+Mark Koevermans,K016,1968-02-03,,NED,Netherlands,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,Unknown,1987.0,Inactive,37,842859.0
+Sergio Roitman,R388,1979-05-16,,ARG,Argentina,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,Unknown,1996.0,Inactive,62,1296022.0
+Thomas Enqvist,E113,1974-03-13,,SWE,Sweden,"6'3""",75.0,191.0,195.0,88.0,Right-Handed,Two-Handed,1991.0,Inactive,4,10461641.0
+Marc Lopez,L480,1982-07-31,,ESP,Spain,"5'9""",69.0,175.0,161.0,73.0,Right-Handed,Two-Handed,1999.0,Inactive,106,4465987.0
+Evgeny Korolev,K760,1988-02-14,,KAZ,Kazakhstan,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Unknown,2005.0,Inactive,46,1510466.0
+Ivan Lendl,L018,1960-03-07,,USA,United States,"6'2""",74.0,188.0,175.0,79.0,Right-Handed,One-Handed,1978.0,Inactive,1,21262417.0
+Matthias Bachinger,BC65,1987-04-02,,GER,Germany,"6'2""",74.0,188.0,190.0,86.0,Right-Handed,Two-Handed,2005.0,Inactive,85,1703120.0
+Lukasz Kubot,K540,1982-05-16,,POL,Poland,"6'3""",75.0,191.0,194.0,88.0,Right-Handed,Two-Handed,2002.0,Inactive,41,8728383.0
+Gilles Simon,SD32,1984-12-27,,FRA,France,"6'0""",72.0,183.0,154.0,70.0,Right-Handed,Two-Handed,2002.0,Inactive,6,16045734.0
+Radu Albot,A829,1989-11-11,35.0,MDA,Moldova,"5'9""",69.0,175.0,151.0,68.0,Right-Handed,Two-Handed,2008.0,Active,39,5470787.0
+Filip Dewulf,D228,1972-03-15,,BEL,Belgium,"6'3""",75.0,191.0,177.0,80.0,Right-Handed,Unknown,1990.0,Inactive,39,1503987.0
+Christian Miniussi,M069,1967-07-05,,ARG,Argentina,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Unknown,1984.0,Inactive,57,651069.0
+Andres Gomez,G023,1960-02-27,,ECU,Ecuador,"6'4""",76.0,193.0,185.0,84.0,Left-Handed,Unknown,1979.0,Inactive,4,4385130.0
+Denis Gremelmayr,G512,1981-08-16,,GER,Germany,"6'0""",72.0,183.0,160.0,73.0,Left-Handed,Two-Handed,2000.0,Inactive,59,1023334.0
+David Sanchez,S677,1978-04-20,,ESP,Spain,"6'0""",72.0,183.0,168.0,76.0,Right-Handed,Unknown,1997.0,Inactive,41,1451767.0
+Ronald Agenor,A006,1964-11-13,,HAI,Haiti,"5'11""",71.0,180.0,180.0,82.0,Right-Handed,Unknown,1983.0,Inactive,22,2014601.0
+Daniel Vacek,V141,1971-04-01,,CZE,Czechia,"6'3""",75.0,191.0,179.0,81.0,Right-Handed,Unknown,1990.0,Inactive,26,4803388.0
+Mikael Tillstrom,T166,1972-03-05,,SWE,Sweden,"6'1""",73.0,185.0,160.0,73.0,Right-Handed,Unknown,1991.0,Inactive,39,2030525.0
+Attila Savolt,S608,1976-02-05,,HUN,Hungary,"6'0""",72.0,183.0,172.0,78.0,Right-Handed,Unknown,1995.0,Inactive,68,698823.0
+Renzo Furlan,F192,1970-05-17,,ITA,Italy,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,Unknown,1988.0,Inactive,19,2449043.0
+Fernando Vicente,V195,1977-03-08,,ESP,Spain,"5'11""",71.0,180.0,167.0,76.0,Right-Handed,One-Handed,1996.0,Inactive,29,2917616.0
+Franco Squillari,S568,1975-08-22,,ARG,Argentina,"6'0""",72.0,183.0,177.0,80.0,Left-Handed,One-Handed,1994.0,Inactive,11,2504591.0
+Jacobo Diaz,D291,1976-07-11,,ESP,Spain,"5'8""",68.0,173.0,160.0,73.0,Right-Handed,Unknown,1995.0,Inactive,68,689680.0
+Julian Alonso,A272,1977-08-02,,ESP,Spain,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Unknown,1996.0,Inactive,30,852891.0
+Thierry Champion,C028,1966-08-31,,FRA,France,"6'0""",72.0,183.0,155.0,70.0,Right-Handed,Unknown,,Inactive,44,1255229.0
+Gastao Elias,E698,1990-11-24,34.0,POR,Portugal,"5'11""",71.0,180.0,167.0,76.0,Right-Handed,Two-Handed,2008.0,Active,57,1544162.0
+Lukas Dlouhy,D487,1983-04-09,,CZE,Czechia,"6'1""",73.0,185.0,194.0,88.0,Right-Handed,Unknown,2001.0,Inactive,73,3141040.0
+Kenneth Carlsen,C328,1973-04-17,,DEN,Denmark,"6'3""",75.0,191.0,194.0,88.0,Left-Handed,Unknown,1992.0,Inactive,41,2990980.0
+Flavio Saretta,S876,1980-06-28,,BRA,Brazil,"6'0""",72.0,183.0,154.0,70.0,Right-Handed,Unknown,1998.0,Inactive,44,1239319.0
+Johan Van Herck,V167,1974-05-24,,BEL,Belgium,"6'1""",73.0,185.0,167.0,76.0,Right-Handed,Unknown,1993.0,Inactive,65,717393.0
+Diego Schwartzman,SM37,1992-08-16,32.0,ARG,Argentina,"5'7""",67.0,170.0,141.0,64.0,Right-Handed,Two-Handed,2010.0,Active,8,14258310.0
+Kristof Vliegen,V309,1982-06-22,,BEL,Belgium,"6'4""",76.0,193.0,165.0,75.0,Right-Handed,Two-Handed,2001.0,Inactive,30,1964020.0
+Jiri Vanek,V207,1978-04-24,,CZE,Czechia,"6'1""",73.0,185.0,190.0,86.0,Right-Handed,Two-Handed,1995.0,Inactive,74,1600539.0
+Jens Knippschild,K260,1975-02-15,,GER,Germany,"6'3""",75.0,191.0,180.0,82.0,Right-Handed,Unknown,1992.0,Inactive,76,1017972.0
+Jordi Burillo,B429,1972-12-07,,ESP,Spain,"6'2""",74.0,188.0,188.0,85.0,Right-Handed,Unknown,1991.0,Inactive,43,1198126.0
+Albert Portas,P305,1973-11-15,,ESP,Spain,"6'2""",74.0,188.0,172.0,78.0,Right-Handed,Two-Handed,1994.0,Inactive,19,2972633.0
+Stefan Koubek,K310,1977-01-02,,AUT,Austria,"5'9""",69.0,175.0,150.0,68.0,Left-Handed,Unknown,1994.0,Inactive,20,3365024.0
+Nicklas Kulti,K181,1971-04-22,,SWE,Sweden,"6'3""",75.0,191.0,195.0,88.0,Right-Handed,Unknown,1989.0,Inactive,32,3186946.0
+Mauricio Hadad,H256,1971-12-07,,COL,Colombia,"5'7""",67.0,170.0,135.0,61.0,Right-Handed,Unknown,1988.0,Inactive,78,523801.0
+Maximo Gonzalez,G585,1983-07-20,42.0,ARG,Argentina,"5'8""",68.0,173.0,165.0,75.0,Right-Handed,Two-Handed,2002.0,Active,58,4426572.0
+Nicolas Kiefer,K316,1977-07-05,,GER,Germany,"6'0""",72.0,183.0,177.0,80.0,Right-Handed,Two-Handed,1995.0,Inactive,4,7480465.0
+Tomas Behrend,B545,1974-12-12,,GER,Germany,"6'4""",76.0,193.0,196.0,89.0,Right-Handed,Unknown,1994.0,Inactive,74,977352.0
+Andreas Haider-Maurer,H804,1987-03-22,,AUT,Austria,"6'3""",75.0,191.0,196.0,89.0,Right-Handed,Two-Handed,2005.0,Inactive,47,1948627.0
+Tobias Kamke,K839,1986-05-21,,GER,Germany,"5'10""",70.0,178.0,167.0,76.0,Right-Handed,Two-Handed,2004.0,Inactive,64,2576019.0
+Marcos Aurelio Gorriz,G028,1964-03-04,,ESP,Spain,"6'1""",73.0,185.0,177.0,80.0,Left-Handed,Unknown,1989.0,Inactive,88,662335.0
+Sjeng Schalken,S572,1976-09-08,,NED,Netherlands,"6'4""",76.0,193.0,181.0,82.0,Right-Handed,One-Handed,1994.0,Inactive,11,5192798.0
+Henri Laaksonen,L949,1992-03-31,33.0,SUI,Switzerland,"6'1""",73.0,185.0,172.0,78.0,Right-Handed,Two-Handed,2009.0,Active,84,2379345.0
+Martin Jaite,J004,1964-10-09,,ARG,Argentina,"5'10""",70.0,178.0,155.0,70.0,Right-Handed,Unknown,1983.0,Inactive,10,1873881.0
+Ruben Ramirez Hidalgo,R383,1978-01-06,,ESP,Spain,"6'0""",72.0,183.0,163.0,74.0,Right-Handed,Two-Handed,1998.0,Inactive,50,2346407.0
+Jeff Tarango,T136,1968-11-20,,USA,United States,"5'11""",71.0,180.0,160.0,73.0,Left-Handed,Unknown,1989.0,Inactive,42,3730289.0
+Jaime Yzaga,Y017,1967-10-23,,PER,Peru,"5'7""",67.0,170.0,150.0,68.0,Right-Handed,Unknown,1985.0,Inactive,18,2234150.0
+Marco Trungelliti,TA29,1990-01-31,35.0,ARG,Argentina,"5'10""",70.0,178.0,176.0,80.0,Right-Handed,Two-Handed,2008.0,Active,112,2038324.0
+Franco Davin,D006,1970-01-11,,ARG,Argentina,"5'8""",68.0,173.0,140.0,64.0,Left-Handed,Unknown,1986.0,Inactive,30,1101560.0
+Henri Leconte,L014,1963-07-04,,FRA,France,"6'1""",73.0,185.0,175.0,79.0,Left-Handed,Unknown,1980.0,Inactive,5,3915056.0
+Dennis van Scheppingen,S559,1975-07-05,,NED,Netherlands,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Unknown,1993.0,Inactive,72,871886.0
+Ricardo Mello,M708,1980-12-21,,BRA,Brazil,"5'9""",69.0,175.0,161.0,73.0,Left-Handed,Two-Handed,1999.0,Inactive,50,1484044.0
+Hicham Arazi,A226,1973-10-19,,MAR,Morocco,"5'9""",69.0,175.0,143.0,65.0,Left-Handed,Unknown,1993.0,Inactive,22,3602644.0
+Benoit Paire,PD31,1989-05-08,36.0,FRA,France,"6'5""",77.0,196.0,176.0,80.0,Right-Handed,Two-Handed,2007.0,Active,18,10506833.0
+Jean-Philippe Fleurian,F031,1965-09-11,,FRA,France,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,Unknown,1985.0,Inactive,37,1352977.0
+Sandor Noszaly,N112,1972-03-16,,HUN,Hungary,"6'4""",76.0,193.0,200.0,91.0,Right-Handed,Unknown,,Inactive,95,376265.0
+Olivier Rochus,R397,1981-01-18,,BEL,Belgium,"5'6""",66.0,168.0,143.0,65.0,Right-Handed,One-Handed,1999.0,Inactive,24,4905754.0
+Tomas Carbonell,C216,1968-08-07,,ESP,Spain,"5'10""",70.0,178.0,158.0,72.0,Right-Handed,Unknown,1987.0,Inactive,40,3157584.0
+Santiago Ventura,V251,1980-01-05,,ESP,Spain,"6'0""",72.0,183.0,172.0,78.0,Right-Handed,Two-Handed,2001.0,Inactive,65,1260406.0
+Renzo Olivo,O376,1992-03-15,33.0,ARG,Argentina,"5'10""",70.0,178.0,165.0,75.0,Right-Handed,Two-Handed,2009.0,Active,78,1460468.0
+Petr Korda,K148,1968-01-23,,CZE,Czechia,"6'3""",75.0,191.0,189.0,86.0,Left-Handed,One-Handed,1987.0,Inactive,2,10448900.0
+Carl-Uwe Steeb,S080,1967-09-01,,GER,Germany,"5'11""",71.0,180.0,165.0,75.0,Left-Handed,Unknown,1986.0,Inactive,14,2320082.0
+Jonas Bjorkman,B446,1972-03-23,,SWE,Sweden,"6'0""",72.0,183.0,182.0,83.0,Right-Handed,Two-Handed,1991.0,Inactive,4,14610671.0
+Bernabe Zapata Miralles,Z419,1997-01-12,28.0,ESP,Spain,"6'0""",72.0,183.0,174.0,79.0,Right-Handed,Two-Handed,2015.0,Active,37,2573741.0
+Irakli Labadze,L439,1981-06-09,,GEO,Georgia,"6'2""",74.0,188.0,187.0,85.0,Left-Handed,Two-Handed,1998.0,Inactive,42,1234668.0
+Marzio Martelli,M543,1971-12-14,,ITA,Italy,"5'11""",71.0,180.0,175.0,79.0,Right-Handed,Unknown,1996.0,Inactive,96,320131.0
+Gerard Solves,S523,1968-04-07,,FRA,France,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Unknown,1993.0,Inactive,105,403190.0
+Bohdan Ulihrach,U032,1975-02-23,,CZE,Czechia,"6'2""",74.0,188.0,178.0,81.0,Right-Handed,Unknown,1993.0,Inactive,22,3553302.0
+Andrei Olhovskiy,O009,1966-04-15,,RUS,Russia,"6'1""",73.0,185.0,160.0,73.0,Right-Handed,Unknown,1989.0,Inactive,49,3208620.0
+Omar Camporese,C009,1968-05-08,,ITA,Italy,"6'2""",74.0,188.0,172.0,78.0,Right-Handed,Unknown,1987.0,Inactive,18,1610475.0
+Christian Ruud,R219,1972-08-24,,NOR,Norway,"6'1""",73.0,185.0,187.0,85.0,Right-Handed,Unknown,1991.0,Inactive,39,1399813.0
+Rainer Schuettler,S636,1976-04-25,,GER,Germany,"5'11""",71.0,180.0,163.0,74.0,Right-Handed,Two-Handed,1995.0,Inactive,5,7407508.0
+Vincent Spadea,S544,1974-07-19,,USA,United States,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,Two-Handed,1993.0,Inactive,18,5004860.0
+Nicolas Escude,E140,1976-04-03,,FRA,France,"6'1""",73.0,185.0,155.0,70.0,Right-Handed,Unknown,1995.0,Inactive,17,3216150.0
+Daniel Orsanic,O086,1968-06-11,,ARG,Argentina,"6'0""",72.0,183.0,165.0,75.0,Left-Handed,Unknown,1989.0,Inactive,107,991800.0
+Fabrice Santoro,S424,1972-12-09,,FRA,France,"5'10""",70.0,178.0,163.0,74.0,Right-Handed,Two-Handed,1989.0,Inactive,17,10013832.0
+Oliver Gross,G297,1973-06-17,,GER,Germany,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,Unknown,1993.0,Inactive,60,876452.0
+Paolo Cane,C012,1965-04-09,,ITA,Italy,"5'11""",71.0,180.0,150.0,68.0,Right-Handed,Unknown,1983.0,Inactive,26,903958.0
+Pere Riba,R750,1988-04-07,,ESP,Spain,"6'0""",72.0,183.0,173.0,78.0,Right-Handed,Two-Handed,2004.0,Inactive,65,1363982.0
+Lars Burgsmuller,B484,1975-12-06,,GER,Germany,"6'0""",72.0,183.0,161.0,73.0,Right-Handed,Two-Handed,1993.0,Inactive,65,1887164.0
+Aaron Krickstein,K023,1967-08-02,,USA,United States,"6'0""",72.0,183.0,160.0,73.0,Right-Handed,Two-Handed,1983.0,Inactive,6,3709772.0
+Michel Kratochvil,K319,1979-04-07,,SUI,Switzerland,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,Unknown,1997.0,Inactive,35,1159379.0
+Byron Black,B397,1969-10-06,,ZIM,Zimbabwe,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,Unknown,1991.0,Inactive,22,5159775.0
+Andrei Cherkasov,C260,1970-07-04,,RUS,Russia,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Unknown,1988.0,Inactive,13,2260281.0
+Mikael Ymer,Y268,1998-09-09,26.0,SWE,Sweden,"6'1""",73.0,185.0,171.0,78.0,Right-Handed,Two-Handed,2015.0,Active,50,2773497.0
+Jose Francisco Altur,A141,1968-03-24,,ESP,Spain,"6'3""",75.0,191.0,179.0,81.0,Left-Handed,Unknown,1985.0,Inactive,88,463453.0
+Blaz Kavcic,K834,1987-03-05,,SLO,Slovenia,"6'2""",74.0,188.0,172.0,78.0,Right-Handed,Two-Handed,2005.0,Inactive,68,2017728.0
+Guillaume Raoux,R186,1970-02-14,,FRA,France,"5'11""",71.0,180.0,170.0,77.0,Right-Handed,Unknown,1989.0,Inactive,35,2446506.0
+Davide Sanguinetti,S480,1972-08-25,,ITA,Italy,"6'2""",74.0,188.0,175.0,79.0,Right-Handed,Two-Handed,1993.0,Inactive,42,2935584.0
+Arnaud Clement,C487,1977-12-17,,FRA,France,"5'8""",68.0,173.0,163.0,74.0,Right-Handed,Two-Handed,1996.0,Inactive,10,7125228.0
+Igor Kunitsyn,K403,1981-09-30,,RUS,Russia,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Unknown,1999.0,Inactive,35,2861069.0
+Jan Hernych,H442,1979-07-07,,CZE,Czechia,"6'2""",74.0,188.0,182.0,83.0,Right-Handed,Two-Handed,1998.0,Inactive,59,2179237.0
+David Rikl,R203,1971-02-27,,CZE,Czechia,"5'10""",70.0,178.0,150.0,68.0,Left-Handed,Unknown,1989.0,Inactive,41,3063353.0
+Olivier Mutis,M640,1978-02-02,,FRA,France,"5'9""",69.0,175.0,158.0,72.0,Right-Handed,Two-Handed,1996.0,Inactive,71,605413.0
+Karsten Braasch,B305,1967-07-14,,GER,Germany,"5'11""",71.0,180.0,160.0,73.0,Left-Handed,Unknown,1987.0,Inactive,38,1497244.0
+Boris Pashanski,P642,1982-11-03,,SRB,Serbia,"5'10""",70.0,178.0,173.0,78.0,Right-Handed,Two-Handed,2001.0,Inactive,55,837645.0
+Inigo Cervantes,CA33,1989-11-30,35.0,ESP,Spain,"5'11""",71.0,180.0,171.0,78.0,Right-Handed,Two-Handed,2009.0,Active,56,1173063.0
+Stefano Pescosolido,P235,1971-06-13,,ITA,Italy,"6'1""",73.0,185.0,190.0,86.0,Right-Handed,Unknown,1989.0,Inactive,42,1657671.0
+Nuno Marques,M197,1970-04-09,,POR,Portugal,"6'3""",75.0,191.0,178.0,81.0,Left-Handed,Unknown,,Inactive,86,856875.0
+Roberto Azar,A040,1966-03-21,,ARG,Argentina,"6'1""",73.0,185.0,170.0,77.0,Left-Handed,Unknown,1984.0,Inactive,81,441303.0
+Martin Damm,D214,1972-08-01,,CZE,Czechia,"6'2""",74.0,188.0,195.0,88.0,Right-Handed,Unknown,1990.0,Inactive,42,5735972.0
+Mats Wilander,W023,1964-08-22,,SWE,Sweden,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,Unknown,1981.0,Inactive,1,7948601.0
+Alex Lopez Moron,L231,1970-11-28,,ESP,Spain,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,Unknown,1990.0,Inactive,100,833225.0
+Andrei Chesnokov,C031,1966-02-02,,RUS,Russia,"6'2""",74.0,188.0,167.0,76.0,Right-Handed,Unknown,1985.0,Inactive,9,3084188.0
+Lucas Arnold Ker,A228,1974-10-12,,ARG,Argentina,"5'11""",71.0,180.0,168.0,76.0,Right-Handed,Unknown,1994.0,Inactive,77,1745936.0
+Juan Antonio Marin,M578,1975-03-02,,CRC,Costa Rica,"5'9""",69.0,175.0,162.0,73.0,Right-Handed,Two-Handed,1996.0,Inactive,55,1210290.0
+Diego Perez,P021,1962-02-09,,URU,Uruguay,"5'10""",70.0,178.0,166.0,75.0,Right-Handed,Unknown,1981.0,Inactive,27,1042224.0
+Tomas Zib,Z074,1976-01-31,,CZE,Czechia,"5'10""",70.0,178.0,167.0,76.0,Right-Handed,Two-Handed,1995.0,Inactive,51,1395816.0
+Hendrik Dreekmann,D249,1975-01-29,,GER,Germany,"6'2""",74.0,188.0,180.0,82.0,Right-Handed,Unknown,1991.0,Inactive,39,1366435.0
+Karol Kucera,K237,1974-03-04,,SVK,Slovak Republic,"6'1""",73.0,185.0,191.0,87.0,Right-Handed,Two-Handed,1992.0,Inactive,6,5061125.0
+Marcos Ondruska,O098,1972-12-18,,RSA,South Africa,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,Two-Handed,1989.0,Inactive,27,1835129.0
+Cedrik-Marcel Stebe,SK94,1990-10-09,34.0,GER,Germany,"5'11""",71.0,180.0,154.0,70.0,Left-Handed,Two-Handed,2010.0,Active,71,1581805.0
+Christophe Rochus,R336,1978-12-15,,BEL,Belgium,"5'7""",67.0,170.0,150.0,68.0,Right-Handed,Two-Handed,1996.0,Inactive,38,2753294.0
+Diego Junqueira,J214,1980-12-28,,ARG,Argentina,"5'10""",70.0,178.0,159.0,72.0,Left-Handed,Unknown,2001.0,Inactive,68,727371.0
+Paradorn Srichaphan,S675,1979-06-14,,THA,Thailand,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,One-Handed,1997.0,Inactive,9,3459655.0
+Bjorn Phau,P436,1979-10-04,,GER,Germany,"5'9""",69.0,175.0,154.0,70.0,Right-Handed,One-Handed,1999.0,Inactive,59,2189473.0
+Michael Russell,R368,1978-05-01,,USA,United States,"5'8""",68.0,173.0,155.0,70.0,Right-Handed,Two-Handed,1998.0,Inactive,60,2452569.0
+Tomas Nydahl,N099,1968-03-21,,SWE,Sweden,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,Unknown,1987.0,Inactive,72,671903.0
+Diego Nargiso,N109,1970-03-15,,ITA,Italy,"6'2""",74.0,188.0,180.0,82.0,Left-Handed,Unknown,1987.0,Inactive,67,1807857.0
+John van Lottum,V201,1976-04-10,,NED,Netherlands,"6'1""",73.0,185.0,159.0,72.0,Right-Handed,Unknown,1994.0,Inactive,62,1188163.0
+Alessio Di Mauro,D330,1977-08-09,,ITA,Italy,"6'1""",73.0,185.0,156.0,71.0,Left-Handed,Unknown,1998.0,Inactive,68,833633.0
+Michal Tabara,T243,1979-08-11,,CZE,Czechia,"5'9""",69.0,175.0,162.0,73.0,Right-Handed,Two-Handed,1997.0,Inactive,47,853900.0
+Rodolphe Gilbert,G108,1968-12-12,,FRA,France,"6'0""",72.0,183.0,160.0,73.0,Left-Handed,Unknown,1988.0,Inactive,61,1143269.0
+Orlin Stanoytchev,S519,1971-09-24,,BUL,Bulgaria,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Unknown,1993.0,Inactive,96,484515.0
+German Puentes,P272,1972-12-18,,ESP,Spain,"5'8""",68.0,173.0,155.0,70.0,Right-Handed,Unknown,1995.0,Inactive,90,481369.0
+Frederic Fontang,F200,1970-03-18,,FRA,France,"6'0""",72.0,183.0,155.0,70.0,Right-Handed,Unknown,1989.0,Inactive,59,513509.0
+Todd Woodbridge,W136,1971-04-02,,AUS,Australia,"5'10""",70.0,178.0,165.0,75.0,Right-Handed,Unknown,1988.0,Inactive,19,10078820.0
+Stephane Robert,R612,1980-05-17,,FRA,France,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,Two-Handed,2001.0,Inactive,50,2448915.0
+Donald Young,Y124,1989-07-23,,USA,United States,"6'0""",72.0,183.0,175.0,79.0,Left-Handed,Two-Handed,2004.0,Inactive,38,4694661.0
+Francisco Roig,R177,1968-04-01,,ESP,Spain,"5'9""",69.0,175.0,152.0,69.0,Right-Handed,Unknown,1987.0,Inactive,60,1466118.0
+Alexander Volkov,V037,1967-03-03,,RUS,Russia,"6'2""",74.0,188.0,175.0,79.0,Left-Handed,Unknown,1988.0,Inactive,14,3362840.0
+Thierry Guardiola,G231,1971-08-07,,FRA,France,"6'2""",74.0,188.0,163.0,74.0,Right-Handed,Unknown,1989.0,Inactive,106,525936.0
+Jaime Oncins,O076,1970-06-16,,BRA,Brazil,"6'5""",77.0,196.0,180.0,82.0,Right-Handed,Unknown,1988.0,Inactive,34,1211476.0
+Joao Cunha-Silva,C113,1967-11-27,,POR,Portugal,"5'8""",68.0,173.0,150.0,68.0,Right-Handed,Unknown,1987.0,Inactive,108,735220.0
+Federico Luzzi,L395,1980-01-03,,ITA,Italy,"6'2""",74.0,188.0,176.0,80.0,Right-Handed,Unknown,1999.0,Deceased,92,544562.0
+Martin Sinner,S367,1968-02-07,,GER,Germany,"5'11""",71.0,180.0,158.0,72.0,Right-Handed,Unknown,1988.0,Inactive,42,896974.0
+Marian Vajda,V002,1965-03-24,,SVK,Slovak Republic,"5'7""",67.0,170.0,193.0,88.0,Right-Handed,Unknown,,Inactive,34,756646.0
+Flavio Cipolla,C723,1983-10-20,,ITA,Italy,"5'8""",68.0,173.0,163.0,74.0,Right-Handed,One-Handed,2003.0,Inactive,70,1632927.0
+David Prinosil,P273,1973-03-09,,GER,Germany,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Unknown,1991.0,Inactive,28,4016496.0
+Jean-Rene Lisnard,L386,1979-09-25,,MON,Monaco,"5'8""",68.0,173.0,150.0,68.0,Right-Handed,One-Handed,1997.0,Inactive,84,1142109.0
+Gianluca Pozzi,P045,1965-06-17,,ITA,Italy,"5'11""",71.0,180.0,176.0,80.0,Left-Handed,Unknown,1984.0,Inactive,40,2272035.0
+Oscar Martinez,M513,1974-03-09,,ESP,Spain,"6'1""",73.0,185.0,177.0,80.0,Right-Handed,Unknown,1992.0,Inactive,68,240090.0
+Dudi Sela,SC56,1985-04-04,,ISR,Israel,"5'9""",69.0,175.0,144.0,65.0,Right-Handed,One-Handed,2002.0,Inactive,29,4003831.0
+Hyeon Chung,CH27,1996-05-19,29.0,KOR,South Korea,"6'2""",74.0,188.0,196.0,89.0,Right-Handed,Two-Handed,2014.0,Active,19,3764390.0
+Andre Sa,S604,1977-05-06,,BRA,Brazil,"6'1""",73.0,185.0,174.0,79.0,Right-Handed,Two-Handed,1996.0,Inactive,55,2655127.0
+Adrian Ungur,U061,1985-01-22,,ROU,Romania,"5'10""",70.0,178.0,161.0,73.0,Right-Handed,One-Handed,2003.0,Inactive,79,962026.0
+Bart Wuyts,W133,1969-09-15,,BEL,Belgium,"5'10""",70.0,178.0,150.0,68.0,Right-Handed,Unknown,1988.0,Inactive,69,465196.0
+Razvan Sabau,S535,1977-06-18,,ROU,Romania,"6'1""",73.0,185.0,167.0,76.0,Right-Handed,Unknown,1993.0,Inactive,74,714904.0
+Olivier Delaitre,D015,1967-06-01,,FRA,France,"5'6""",66.0,168.0,187.0,85.0,Right-Handed,One-Handed,1986.0,Inactive,33,2788904.0
+Daniel Elsner,E155,1979-01-04,,GER,Germany,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,Unknown,1997.0,Inactive,92,369334.0
+Gregoire Barrere,BK24,1994-02-16,31.0,FRA,France,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,Two-Handed,2012.0,Active,49,3076529.0
+Nicolas Coutelot,C476,1977-02-09,,FRA,France,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,Unknown,1996.0,Inactive,87,390290.0
+Evgeny Donskoy,D864,1990-05-09,35.0,RUS,Russia,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Two-Handed,2007.0,Active,65,3426092.0
+Daniele Bracciali,B570,1978-01-10,,ITA,Italy,"5'10""",70.0,178.0,180.0,82.0,Right-Handed,One-Handed,1995.0,Inactive,49,1831148.0
+Vincenzo Santopadre,S413,1971-08-11,,ITA,Italy,"6'0""",72.0,183.0,168.0,76.0,Left-Handed,Unknown,1991.0,Inactive,100,619300.0
+Norbert Gombos,GB93,1990-08-13,34.0,SVK,Slovak Republic,"6'4""",76.0,193.0,187.0,85.0,Right-Handed,Two-Handed,2009.0,Active,80,2293352.0
+Yuri Schukin,S809,1979-06-26,,KAZ,Kazakhstan,"6'1""",73.0,185.0,194.0,88.0,Right-Handed,Unknown,1999.0,Inactive,119,723143.0
+Brett Steven,S321,1969-04-27,,NZL,New Zealand,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,Unknown,1988.0,Inactive,32,2439714.0
+Eduardo Masso,M031,1964-01-11,,BEL,Belgium,"5'10""",70.0,178.0,172.0,78.0,Left-Handed,Unknown,1984.0,Inactive,56,397593.0
+Lars Koslowski,K202,1971-05-22,,GER,Germany,"6'2""",74.0,188.0,159.0,72.0,Right-Handed,Unknown,1989.0,Inactive,63,265437.0
+Marcelo Charpentier,C375,1973-07-11,,ARG,Argentina,"5'11""",71.0,180.0,165.0,75.0,Left-Handed,Unknown,1992.0,Inactive,114,328886.0
+Salvatore Caruso,CE25,1992-12-15,32.0,ITA,Italy,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Two-Handed,2010.0,Active,76,1986102.0
+Cristiano Caratti,C270,1970-05-24,,ITA,Italy,"5'10""",70.0,178.0,169.0,77.0,Right-Handed,Unknown,1989.0,Inactive,26,1368916.0
+Stefano Galvani,G372,1977-06-03,,ITA,Italy,"5'9""",69.0,175.0,160.0,73.0,Right-Handed,Two-Handed,1999.0,Inactive,99,791336.0
+Lionel Roux,R280,1973-04-12,,FRA,France,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,Unknown,1991.0,Inactive,48,1255648.0
+Yen-Hsun Lu,L575,1983-08-14,,TPE,Chinese Taipei,"5'11""",71.0,180.0,163.0,74.0,Right-Handed,Two-Handed,2001.0,Inactive,33,5179843.0
+Marinko Matosevic,ME05,1985-08-08,,AUS,Australia,"6'4""",76.0,193.0,190.0,86.0,Right-Handed,Two-Handed,2003.0,Inactive,39,2041040.0
+Peter Gojowczyk,G967,1989-07-15,,GER,Germany,"6'2""",74.0,188.0,183.0,83.0,Right-Handed,Two-Handed,2006.0,Inactive,39,3771631.0
+Veli Paloheimo,P004,1967-12-13,,FIN,Finland,"6'0""",72.0,183.0,168.0,76.0,Right-Handed,Unknown,,Inactive,48,353661.0
+Eric Jelen,J008,1965-03-11,,GER,Germany,"5'11""",71.0,180.0,170.0,77.0,Right-Handed,Unknown,,Inactive,23,1094272.0
+Harel Levy,L336,1978-08-05,,ISR,Israel,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Unknown,1995.0,Inactive,30,1579908.0
+Daniel Munoz de la Nava,M915,1982-01-29,,ESP,Spain,"5'9""",69.0,175.0,165.0,75.0,Left-Handed,Two-Handed,1999.0,Inactive,68,1104595.0
+Attila Balazs,BD80,1988-09-27,,HUN,Hungary,"5'11""",71.0,180.0,172.0,78.0,Right-Handed,Two-Handed,2006.0,Inactive,76,1051664.0
+Patrick McEnroe,M048,1966-07-01,,USA,United States,"6'0""",72.0,183.0,160.0,73.0,Right-Handed,Unknown,1988.0,Inactive,28,3118316.0
+Cyril Saulnier,S681,1975-08-16,,FRA,France,"6'0""",72.0,183.0,187.0,85.0,Right-Handed,Unknown,1996.0,Inactive,48,1391494.0
+Shuzo Matsuoka,M338,1967-11-06,,JPN,Japan,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Unknown,1986.0,Inactive,46,1117112.0
+Peter Wessels,W254,1978-05-07,,NED,Netherlands,"6'5""",77.0,196.0,187.0,85.0,Right-Handed,One-Handed,1996.0,Inactive,72,928863.0
+Kris Goossens,G285,1974-02-20,,BEL,Belgium,"5'11""",71.0,180.0,150.0,68.0,Right-Handed,Unknown,1993.0,Inactive,90,316648.0
+Frederik Fetterlein,F206,1970-07-11,,DEN,Denmark,"6'3""",75.0,191.0,172.0,78.0,Right-Handed,Unknown,,Inactive,75,441561.0
+Vasek Pospisil,PD07,1990-06-23,35.0,CAN,Canada,"6'4""",76.0,193.0,194.0,88.0,Right-Handed,Two-Handed,2007.0,Active,25,7202229.0
+Wally Masur,M030,1963-05-13,,AUS,Australia,"5'11""",71.0,180.0,167.0,76.0,Right-Handed,Unknown,1982.0,Inactive,15,3134718.0
+Lukas Lacko,L797,1987-11-03,,SVK,Slovak Republic,"6'2""",74.0,188.0,192.0,87.0,Right-Handed,Two-Handed,2005.0,Inactive,44,3602283.0
+Alex Bogdanovic,B929,1984-05-22,,GBR,Great Britain,"6'0""",72.0,183.0,163.0,74.0,Left-Handed,One-Handed,2002.0,Inactive,108,695395.0
+Frank Dancevic,D499,1984-09-26,,CAN,Canada,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,One-Handed,2003.0,Inactive,65,1888019.0
+Jonathan Stark,S403,1971-04-03,,USA,United States,"6'2""",74.0,188.0,185.0,84.0,Right-Handed,Unknown,1991.0,Inactive,36,3220867.0
+James Ward,W503,1987-02-09,,GBR,Great Britain,"6'2""",74.0,188.0,171.0,78.0,Right-Handed,Two-Handed,2006.0,Inactive,89,1544846.0
+Taylor Dent,D362,1981-04-24,,USA,United States,"6'2""",74.0,188.0,195.0,88.0,Right-Handed,One-Handed,1998.0,Inactive,21,2563378.0
+Sandon Stolle,S443,1970-07-13,,AUS,Australia,"6'4""",76.0,193.0,175.0,79.0,Right-Handed,Unknown,1991.0,Inactive,50,3762442.0
+Rajeev Ram,R548,1984-03-18,41.0,USA,United States,"6'4""",76.0,193.0,185.0,84.0,Right-Handed,One-Handed,2004.0,Active,56,9944534.0
+Alexander Popp,P395,1976-11-04,,GER,Germany,"6'6""",78.0,198.0,198.0,90.0,Right-Handed,Two-Handed,1997.0,Inactive,74,976038.0
+Henrik Holm,H191,1968-08-22,,SWE,Sweden,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,Unknown,1988.0,Inactive,17,1693931.0
+Alex O'Brien,O099,1970-03-07,,USA,United States,"6'1""",73.0,185.0,195.0,88.0,Right-Handed,Unknown,1992.0,Inactive,30,3526390.0
+Justin Gimelstob,G354,1977-01-26,,USA,United States,"6'5""",77.0,196.0,195.0,88.0,Right-Handed,One-Handed,1996.0,Inactive,63,2575522.0
+Leander Paes,P269,1973-06-17,,IND,India,"5'10""",70.0,178.0,171.0,78.0,Right-Handed,One-Handed,1991.0,Inactive,73,8587586.0
+Yuichi Sugita,SE73,1988-09-18,,JPN,Japan,"5'9""",69.0,175.0,159.0,72.0,Right-Handed,Two-Handed,2006.0,Inactive,36,3013099.0
+Matthew Ebden,E690,1987-11-26,37.0,AUS,Australia,"6'2""",74.0,188.0,176.0,80.0,Right-Handed,Two-Handed,2006.0,Active,39,6703010.0
+Denis Kudla,KB09,1992-08-17,32.0,USA,United States,"5'11""",71.0,180.0,175.0,79.0,Right-Handed,Two-Handed,2010.0,Active,53,4692258.0
+Daniel Nestor,N210,1972-09-04,,CAN,Canada,"6'3""",75.0,191.0,190.0,86.0,Left-Handed,Two-Handed,1991.0,Inactive,58,12835671.0
+Jeremy Bates,B021,1962-06-19,,GBR,Great Britain,"5'11""",71.0,180.0,160.0,73.0,Right-Handed,Unknown,1982.0,Inactive,54,1338555.0
+Laurence Tieleman,T168,1972-11-14,,ITA,Italy,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Unknown,1993.0,Inactive,76,773130.0
+Mark Petchey,P222,1970-08-01,,GBR,Great Britain,"6'0""",72.0,183.0,167.0,76.0,Right-Handed,Unknown,1988.0,Inactive,80,657776.0
+Karol Beck,B804,1982-04-03,,SVK,Slovak Republic,"5'11""",71.0,180.0,163.0,74.0,Right-Handed,Two-Handed,2001.0,Inactive,36,2110996.0
+Christopher Eubanks,E865,1996-05-05,29.0,USA,United States,"6'7""",79.0,201.0,180.0,82.0,Right-Handed,One-Handed,2017.0,Active,29,3756039.0
+Alex Radulescu,R284,1974-12-07,,GER,Germany,"6'1""",73.0,185.0,172.0,78.0,Right-Handed,Unknown,1992.0,Inactive,51,698887.0
+Sam Groth,G940,1987-10-19,,AUS,Australia,"6'4""",76.0,193.0,220.0,100.0,Right-Handed,One-Handed,2006.0,Inactive,53,1950436.0
+Maxime Cressy,C0BC,1997-05-08,28.0,USA,United States,"6'7""",79.0,201.0,189.0,86.0,Right-Handed,Two-Handed,2019.0,Active,31,2898405.0
+Chris Wilkinson,W150,1970-01-05,,GBR,Great Britain,"5'11""",71.0,180.0,160.0,73.0,Right-Handed,Unknown,1989.0,Inactive,114,613641.0
+Kenny De Schepper,D750,1987-05-29,38.0,FRA,France,"6'8""",80.0,203.0,220.0,100.0,Left-Handed,One-Handed,2010.0,Active,62,1716865.0
+Martin Lee,L333,1978-01-13,,GBR,Great Britain,"5'11""",71.0,180.0,165.0,75.0,Left-Handed,Unknown,1996.0,Inactive,94,561085.0
+Grant Stafford,S406,1971-05-27,,RSA,South Africa,,,,210.0,95.0,Right-Handed,Two-Handed,1990.0,Inactive,53,1307208.0
+Robert Kendrick,K448,1979-11-15,,USA,United States,"6'3""",75.0,191.0,190.0,86.0,Right-Handed,Two-Handed,2000.0,Inactive,69,1365211.0
+Tim van Rijthoven,V942,1997-04-24,28.0,NED,Netherlands,"6'2""",74.0,188.0,195.0,88.0,Right-Handed,One-Handed,2015.0,Active,101,838736.0
+Oscar Otte,O449,1993-07-16,32.0,GER,Germany,"6'4""",76.0,193.0,174.0,79.0,Right-Handed,Two-Handed,2011.0,Active,36,2481166.0
+Ruben Bemelmans,BE54,1988-01-14,,BEL,Belgium,"6'0""",72.0,183.0,165.0,75.0,Left-Handed,Two-Handed,2006.0,Inactive,84,2236131.0
+Arvind Parmar,P398,1978-03-22,,GBR,Great Britain,"6'4""",76.0,193.0,172.0,78.0,Right-Handed,Unknown,1997.0,Inactive,137,519643.0
+John McEnroe,M047,1959-02-16,,USA,United States,"5'11""",71.0,180.0,165.0,75.0,Left-Handed,Unknown,1978.0,Inactive,1,12552132.0
+Grega Zemlja,Z189,1986-09-29,,SLO,Slovenia,"6'0""",72.0,183.0,179.0,81.0,Right-Handed,Two-Handed,2004.0,Inactive,43,1242858.0
+Vladimir Voltchkov,V211,1978-04-07,,BLR,Belarus,"5'11""",71.0,180.0,167.0,76.0,Right-Handed,Unknown,1995.0,Inactive,25,1315133.0
+Alexander Mronz,M093,1965-04-07,,GER,Germany,"6'2""",74.0,188.0,173.0,78.0,Right-Handed,Unknown,1987.0,Inactive,73,830234.0
+Wesley Moodie,M759,1979-02-14,,RSA,South Africa,"6'5""",77.0,196.0,200.0,91.0,Right-Handed,One-Handed,2000.0,Inactive,57,2455112.0
+Jan Vacek,V220,1976-05-10,,CZE,Czechia,"6'6""",78.0,198.0,203.0,92.0,Right-Handed,Unknown,1999.0,Inactive,61,794420.0
+Soonwoo Kwon,KF17,1997-12-02,27.0,KOR,South Korea,"5'11""",71.0,180.0,159.0,72.0,Right-Handed,Two-Handed,2015.0,Active,52,3075914.0
+Gilles Elseneer,E169,1978-03-06,,BEL,Belgium,"6'2""",74.0,188.0,170.0,77.0,Right-Handed,Unknown,1998.0,Inactive,97,477809.0
+Derrick Rostagno,R043,1965-10-25,,USA,United States,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Unknown,1986.0,Inactive,13,1621535.0
+Jimmy Wang,W373,1985-02-08,,TPE,Chinese Taipei,"5'11""",71.0,180.0,162.0,73.0,Right-Handed,Two-Handed,2001.0,Inactive,85,1150226.0
+Max Purcell,PH71,1998-04-03,27.0,AUS,Australia,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Two-Handed,2016.0,Active,40,4646962.0
+Christian Saceanu,S288,1968-07-08,,GER,Germany,"6'3""",75.0,191.0,176.0,80.0,Right-Handed,Unknown,1986.0,Inactive,60,738632.0
+Amos Mansdorf,M012,1965-10-20,,ISR,Israel,"5'9""",69.0,175.0,160.0,73.0,Right-Handed,Unknown,1983.0,Inactive,18,2412016.0
+Sebastien Lareau,L226,1973-04-27,,CAN,Canada,"6'0""",72.0,183.0,175.0,79.0,Right-Handed,Two-Handed,1991.0,Inactive,76,2879682.0
+Liam Broady,BI23,1994-01-04,31.0,GBR,Great Britain,"6'0""",72.0,183.0,172.0,78.0,Left-Handed,Two-Handed,2014.0,Active,93,2071643.0
+Jan Apell,A176,1969-11-04,,SWE,Sweden,"6'0""",72.0,183.0,162.0,73.0,Left-Handed,Unknown,1988.0,Inactive,62,1404957.0
+Anders Jarryd,J006,1961-07-13,,SWE,Sweden,"5'11""",71.0,180.0,155.0,70.0,Right-Handed,Unknown,1980.0,Inactive,5,5353567.0
+Go Soeda,SC47,1984-09-05,,JPN,Japan,"5'10""",70.0,178.0,160.0,73.0,Right-Handed,Two-Handed,2003.0,Inactive,47,2374772.0
+Patrik Kuhnen,K030,1966-02-11,,GER,Germany,"6'3""",75.0,191.0,180.0,82.0,Right-Handed,Unknown,1985.0,Inactive,43,1645528.0
+Marsel Ilhan,K771,1987-06-11,38.0,TUR,Turkiye,"6'3""",75.0,191.0,176.0,80.0,Right-Handed,Two-Handed,2006.0,Active,77,1399548.0
+Joachim Johansson,J194,1982-07-01,,SWE,Sweden,"6'6""",78.0,198.0,198.0,90.0,Right-Handed,One-Handed,2000.0,Inactive,9,1549039.0
+Chris Guccione,G621,1985-07-30,,AUS,Australia,"6'7""",79.0,201.0,202.0,92.0,Left-Handed,One-Handed,2003.0,Inactive,67,1761876.0
+Dick Norman,N233,1971-03-01,,BEL,Belgium,"6'8""",80.0,203.0,210.0,95.0,Left-Handed,Unknown,1991.0,Inactive,85,2019581.0
+Christo Van Rensburg,V014,1962-10-23,,RSA,South Africa,"6'1""",73.0,185.0,160.0,73.0,Right-Handed,Unknown,1983.0,Inactive,19,1907831.0
+Nenad Zimonjic,Z072,1976-06-04,,SRB,Serbia,"6'3""",75.0,191.0,200.0,91.0,Right-Handed,One-Handed,1995.0,Inactive,176,8438941.0
+Bob Bryan,B588,1978-04-29,,USA,United States,"6'4""",76.0,193.0,195.0,88.0,Left-Handed,One-Handed,1998.0,Inactive,116,15931631.0
+Gary Muller,M096,1964-12-27,,RSA,South Africa,"6'3""",75.0,191.0,180.0,82.0,Left-Handed,Unknown,1985.0,Inactive,49,1447445.0
+Aisam-Ul-Haq Qureshi,Q019,1980-03-17,45.0,PAK,Pakistan,"6'0""",72.0,183.0,182.0,83.0,Right-Handed,One-Handed,1998.0,Active,125,3731369.0
+Tatsuma Ito,I230,1988-05-18,37.0,JPN,Japan,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Two-Handed,2006.0,Active,60,1794871.0
+Michiel Schapers,S021,1959-10-11,,NED,Netherlands,"6'6""",78.0,198.0,209.0,95.0,Right-Handed,One-Handed,1982.0,Inactive,25,1119593.0
+Bradley Klahn,KA98,1990-08-20,,USA,United States,"6'0""",72.0,183.0,165.0,75.0,Left-Handed,Two-Handed,2012.0,Inactive,63,1764256.0
+Illya Marchenko,ME89,1987-09-08,37.0,UKR,Ukraine,"6'1""",73.0,185.0,191.0,87.0,Right-Handed,Two-Handed,2006.0,Active,49,2487386.0
+Brian Baker,BA23,1985-04-30,,USA,United States,"6'3""",75.0,191.0,170.0,77.0,Right-Handed,Two-Handed,2003.0,Inactive,52,1184653.0
+Jamie Morgan,M408,1971-06-08,,AUS,Australia,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Unknown,1990.0,Inactive,52,640354.0
+Grant Connell,C046,1965-11-17,,CAN,Canada,"6'1""",73.0,185.0,180.0,82.0,Left-Handed,Unknown,1986.0,Inactive,67,2911097.0
+Stephane Simian,S454,1967-06-08,,FRA,France,"6'4""",76.0,193.0,185.0,84.0,Left-Handed,Unknown,1991.0,Inactive,41,796223.0
+Simon Stadler,S944,1983-07-20,,GER,Germany,"6'0""",72.0,183.0,165.0,75.0,Left-Handed,Unknown,2002.0,Inactive,140,593657.0
+Danai Udomchoke,U043,1981-08-11,,THA,Thailand,"5'8""",68.0,173.0,141.0,64.0,Right-Handed,Unknown,1997.0,Inactive,77,1095170.0
+Luis Herrera,H228,1971-08-27,,MEX,Mexico,"5'7""",67.0,170.0,136.0,62.0,Left-Handed,Unknown,1989.0,Inactive,49,542438.0
+Jason Kubler,KB95,1993-05-19,32.0,AUS,Australia,"5'10""",70.0,178.0,163.0,74.0,Right-Handed,Two-Handed,2011.0,Active,63,2596535.0
+Rohan Bopanna,B757,1980-03-04,45.0,IND,India,"6'4""",76.0,193.0,193.0,88.0,Right-Handed,One-Handed,2003.0,Active,213,7342742.0
+Pat Cash,C023,1965-05-27,,AUS,Australia,"6'0""",72.0,183.0,185.0,84.0,Right-Handed,Unknown,1982.0,Inactive,4,1950345.0
+Tim Smyczek,SF62,1987-12-30,,USA,United States,"5'9""",69.0,175.0,160.0,73.0,Right-Handed,Two-Handed,2006.0,Inactive,68,2067979.0
+Alex Bogomolov Jr.,B842,1983-04-23,,RUS,Russia,"5'10""",70.0,178.0,165.0,75.0,Right-Handed,Two-Handed,2002.0,Inactive,33,2054594.0
+Ryan Peniston,PH78,1995-11-10,29.0,GBR,Great Britain,"5'11""",71.0,180.0,165.0,75.0,Left-Handed,Two-Handed,,Active,123,787316.0
+Roko Karanusic,K371,1982-09-05,,CRO,Croatia,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Two-Handed,2000.0,Inactive,88,789254.0
+Oscar Burrieza-Lopez,B517,1975-07-22,,ESP,Spain,"5'7""",67.0,170.0,145.0,66.0,Right-Handed,Two-Handed,1994.0,Inactive,126,319190.0
+Kevin Kim,K358,1978-07-26,,USA,United States,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,One-Handed,1997.0,Inactive,63,1545970.0
+Michael Tebbutt,T195,1970-12-22,,AUS,Australia,"6'3""",75.0,191.0,180.0,82.0,Left-Handed,Unknown,1993.0,Inactive,87,1114448.0
+Jared Donaldson,DC58,1996-10-09,,USA,United States,"6'2""",74.0,188.0,165.0,75.0,Right-Handed,Two-Handed,2014.0,Inactive,48,2090322.0
+Jesse Levine,L799,1987-10-15,,CAN,Canada,"5'9""",69.0,175.0,150.0,68.0,Left-Handed,Two-Handed,2007.0,Inactive,69,1131456.0
+Jamie Baker,BA53,1986-08-05,,GBR,Great Britain,"6'0""",72.0,183.0,179.0,81.0,Right-Handed,Unknown,,Inactive,186,401380.0
+Neville Godwin,G288,1975-01-31,,RSA,South Africa,"5'8""",68.0,173.0,161.0,73.0,Right-Handed,Unknown,1994.0,Inactive,90,912783.0
+Jim Grabb,G039,1964-04-14,,USA,United States,"6'4""",76.0,193.0,180.0,82.0,Right-Handed,Unknown,1986.0,Inactive,24,3274155.0
+Jared Palmer,P233,1971-07-02,,USA,United States,"6'3""",75.0,191.0,185.0,84.0,Right-Handed,Unknown,1991.0,Inactive,35,3413189.0
+Arne Thoms,T135,1971-01-01,,GER,Germany,"6'2""",74.0,188.0,180.0,82.0,Right-Handed,Unknown,1989.0,Inactive,98,392232.0
+Thomas Fabbiano,F586,1989-05-26,,ITA,Italy,"5'8""",68.0,173.0,154.0,70.0,Right-Handed,Two-Handed,2005.0,Inactive,70,2431440.0
+Kristian Pless,P491,1981-02-09,,DEN,Denmark,"6'2""",74.0,188.0,185.0,84.0,Right-Handed,Unknown,1999.0,Inactive,65,1127884.0
+Alan Mackin,M820,1981-08-11,,GBR,Great Britain,"6'0""",72.0,183.0,174.0,79.0,Right-Handed,Unknown,1997.0,Inactive,213,181136.0
+Simon Youl,Y002,1965-07-01,,AUS,Australia,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,Unknown,1982.0,Inactive,80,930856.0
+Paul Jubb,J0A4,1999-10-31,25.0,GBR,Great Britain,"5'11""",71.0,180.0,158.0,72.0,Right-Handed,Two-Handed,2020.0,Active,180,608407.0
+Mirza Basic,BE67,1991-07-12,34.0,BIH,Bosnia-Herzegovina,"6'2""",74.0,188.0,193.0,88.0,Right-Handed,Two-Handed,2012.0,Active,74,1281543.0
+Fernon Wibier,W171,1971-02-25,,NED,Netherlands,"6'2""",74.0,188.0,167.0,76.0,Right-Handed,Unknown,1989.0,Inactive,126,563876.0
+Brad Gilbert,G016,1961-08-09,,USA,United States,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,Unknown,1982.0,Inactive,4,5507973.0
+Nicolas Pereira,P218,1970-09-29,,VEN,Venezuela,"6'2""",74.0,188.0,190.0,86.0,Right-Handed,Unknown,1987.0,Inactive,74,1077159.0
+Andrei Stoliarov,S688,1977-01-09,,RUS,Russia,"5'10""",70.0,178.0,159.0,72.0,Right-Handed,Unknown,1995.0,Inactive,71,733499.0
+Michael Kohlmann,K257,1974-01-11,,GER,Germany,"6'2""",74.0,188.0,185.0,84.0,Right-Handed,Unknown,1995.0,Inactive,98,1798467.0
+Ryan Sweeting,SG87,1987-07-14,,USA,United States,"6'5""",77.0,196.0,184.0,83.0,Right-Handed,Two-Handed,2007.0,Inactive,64,1024486.0
+Bobby Reynolds,R483,1982-07-17,,USA,United States,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,Two-Handed,2003.0,Inactive,63,1573292.0
+Doug Flach,F191,1970-08-10,,USA,United States,"6'0""",72.0,183.0,150.0,68.0,Right-Handed,Unknown,,Inactive,108,670927.0
+Richard Bloomfield,B977,1983-04-27,,GBR,Great Britain,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Unknown,2002.0,Inactive,176,352855.0
+Barry Cowan,C387,1974-08-25,,GBR,Great Britain,"6'2""",74.0,188.0,172.0,78.0,Left-Handed,Unknown,1991.0,Inactive,162,315856.0
+Andrew Richardson,R266,1974-03-14,,GBR,Great Britain,"6'7""",79.0,201.0,209.0,95.0,Left-Handed,Unknown,1992.0,Inactive,133,246675.0
+Jamie Delgado,D289,1977-03-21,,GBR,Great Britain,"5'10""",70.0,178.0,155.0,70.0,Right-Handed,Unknown,1995.0,Inactive,121,834831.0
+Michael Joyce,J100,1973-02-01,,USA,United States,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Unknown,1991.0,Inactive,64,756999.0
+David Witt,W177,1973-06-02,,USA,United States,"6'3""",75.0,191.0,190.0,86.0,Right-Handed,Unknown,1991.0,Inactive,128,295543.0
+Gregory Carraz,C400,1975-04-09,,FRA,France,"6'3""",75.0,191.0,172.0,78.0,Right-Handed,One-Handed,1993.0,Inactive,54,836734.0
+Somdev Devvarman,D616,1985-02-13,,IND,India,"5'11""",71.0,180.0,160.0,73.0,Right-Handed,Two-Handed,2008.0,Inactive,62,1459122.0
+Paul Goldstein,G333,1976-08-04,,USA,United States,"5'10""",70.0,178.0,158.0,72.0,Right-Handed,Unknown,1998.0,Inactive,58,1620456.0
+Jan Kroslak,K296,1974-10-17,,SVK,Slovak Republic,"6'2""",74.0,188.0,170.0,77.0,Right-Handed,Unknown,1993.0,Inactive,53,1169329.0
+Julian Knowle,K263,1974-04-29,,AUT,Austria,"6'2""",74.0,188.0,165.0,75.0,Left-Handed,Unknown,1992.0,Inactive,86,3067776.0
+Steve Bryan,B401,1970-08-10,,USA,United States,"5'10""",70.0,178.0,165.0,75.0,Right-Handed,Unknown,1990.0,Inactive,80,552962.0
+Jay Clarke,CI14,1998-07-27,27.0,GBR,Great Britain,"6'0""",72.0,183.0,184.0,83.0,Right-Handed,Two-Handed,2016.0,Active,153,1047377.0
+Ivo Heuberger,H380,1976-02-19,,SUI,Switzerland,"6'2""",74.0,188.0,169.0,77.0,Right-Handed,Two-Handed,1995.0,Inactive,102,950068.0
+Joern Renzenbrink,R273,1972-07-17,,GER,Germany,"6'5""",77.0,196.0,180.0,82.0,Right-Handed,Unknown,1991.0,Inactive,70,504929.0
+Jesse Huta Galung,H704,1985-10-06,,NED,Netherlands,,,,196.0,89.0,Right-Handed,One-Handed,2004.0,Inactive,91,946839.0
+Luke Milligan,M607,1976-08-06,,GBR,Great Britain,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Unknown,1995.0,Inactive,217,150362.0
+Todd Reid,R583,1984-06-03,,AUS,Australia,"5'11""",71.0,180.0,155.0,70.0,Right-Handed,Unknown,2002.0,Inactive,105,302000.0
+Chuck Adams,A199,1971-04-23,,USA,United States,"6'1""",73.0,185.0,178.0,81.0,Right-Handed,Unknown,1990.0,Inactive,34,818519.0
+Brian Vahaly,V303,1979-07-19,,USA,United States,"6'0""",72.0,183.0,180.0,82.0,Right-Handed,Unknown,2001.0,Inactive,64,596775.0
+Danny Sapsford,S404,1969-04-03,,GBR,Great Britain,"5'8""",68.0,173.0,155.0,70.0,Right-Handed,Unknown,1989.0,Inactive,170,450722.0
+Wayne Black,B499,1973-11-14,,ZIM,Zimbabwe,"5'7""",67.0,170.0,155.0,70.0,Right-Handed,Unknown,1994.0,Inactive,69,3300258.0
+Yasutaka Uchiyama,U134,1992-08-05,32.0,JPN,Japan,"6'0""",72.0,183.0,172.0,78.0,Right-Handed,Two-Handed,2011.0,Active,78,1819175.0
+Markus Zoecke,Z045,1968-05-10,,GER,Germany,"6'5""",77.0,196.0,190.0,86.0,Right-Handed,Unknown,1989.0,Inactive,48,795369.0
+Marco Chiudinelli,C582,1981-09-10,,SUI,Switzerland,"6'1""",73.0,185.0,187.0,85.0,Right-Handed,Two-Handed,2000.0,Inactive,52,2023620.0
+George Bastl,B503,1975-04-01,,SUI,Switzerland,"6'0""",72.0,183.0,187.0,85.0,Right-Handed,Unknown,1998.0,Inactive,71,1271109.0
+Cecil Mamiit,M614,1976-06-27,,PHI,Philippines,"5'8""",68.0,173.0,155.0,70.0,Right-Handed,Unknown,1996.0,Inactive,72,1084438.0
+David Nainkin,N101,1970-09-20,,RSA,South Africa,"6'0""",72.0,183.0,168.0,76.0,Right-Handed,Unknown,1992.0,Inactive,132,501132.0
+Egor Gerasimov,GC89,1992-11-11,32.0,BLR,Belarus,"6'5""",77.0,196.0,190.0,86.0,Right-Handed,Two-Handed,2010.0,Active,65,2093859.0
+Stefan Kozlov,KE64,1998-02-01,27.0,USA,United States,"6'0""",72.0,183.0,174.0,79.0,Right-Handed,Two-Handed,2013.0,Active,103,1054516.0
+Brian MacPhie,M448,1972-05-11,,USA,United States,"5'11""",71.0,180.0,180.0,82.0,Left-Handed,Unknown,1993.0,Inactive,126,1331539.0
+Amer Delic,D438,1982-06-30,,BIH,Bosnia-Herzegovina,"6'5""",77.0,196.0,205.0,93.0,Right-Handed,One-Handed,2003.0,Inactive,60,935409.0
+Marc-Andrea Huesler,HH06,1996-06-24,29.0,SUI,Switzerland,"6'5""",77.0,196.0,189.0,86.0,Left-Handed,Two-Handed,2016.0,Active,47,1951628.0
+Jeff Salzenstein,S564,1973-10-14,,USA,United States,"6'1""",73.0,185.0,175.0,79.0,Left-Handed,Unknown,1996.0,Inactive,100,616017.0
+Neil Borwick,B298,1967-09-15,,AUS,Australia,"6'4""",76.0,193.0,180.0,82.0,Left-Handed,Unknown,1987.0,Inactive,104,517035.0
+Takao Suzuki,S550,1976-09-20,,JPN,Japan,"5'9""",69.0,175.0,160.0,73.0,Right-Handed,Unknown,1995.0,Inactive,102,729355.0
+Thierry Ascione,A356,1981-01-17,,FRA,France,"6'2""",74.0,188.0,196.0,89.0,Right-Handed,One-Handed,2000.0,Inactive,81,1031961.0
+Ernesto Escobedo,E873,1996-07-04,29.0,MEX,Mexico,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Two-Handed,2014.0,Active,67,1588064.0
+Jeff Morrison,M805,1979-02-04,,USA,United States,"6'1""",73.0,185.0,160.0,73.0,Right-Handed,Unknown,2000.0,Inactive,85,770476.0
+J.J. Wolf,W09G,1998-12-21,26.0,USA,United States,"6'0""",72.0,183.0,178.0,81.0,Right-Handed,Two-Handed,2019.0,Active,39,2457680.0
+Luca Van Assche,V0DZ,2004-05-11,21.0,FRA,France,"5'10""",70.0,178.0,158.0,72.0,Right-Handed,Two-Handed,2021.0,Active,63,2034215.0
+Michael Mmoh,MP01,1998-01-10,27.0,USA,United States,"6'2""",74.0,188.0,198.0,90.0,Right-Handed,Two-Handed,2016.0,Active,81,2317975.0
+Noam Okun,O133,1978-04-16,,ISR,Israel,"6'1""",73.0,185.0,187.0,85.0,Right-Handed,Unknown,1996.0,Inactive,95,784555.0
+Michal Przysiezny,P701,1984-02-16,,POL,Poland,"6'1""",73.0,185.0,185.0,84.0,Right-Handed,Unknown,2001.0,Inactive,57,1341718.0
+Glenn Weiner,W217,1976-04-27,,USA,United States,"6'2""",74.0,188.0,175.0,79.0,Right-Handed,Unknown,1994.0,Inactive,119,498614.0
+Dennis Novak,DB59,1993-08-28,31.0,AUT,Austria,"6'0""",72.0,183.0,178.0,81.0,Right-Handed,Two-Handed,2011.0,Active,85,2023289.0
+Ramkumar Ramanathan,RB56,1994-11-08,30.0,IND,India,"6'2""",74.0,188.0,178.0,81.0,Right-Handed,Two-Handed,2009.0,Active,111,1308515.0
+Chris Pridham,P048,1965-04-11,,CAN,Canada,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,Unknown,1985.0,Inactive,75,431272.0
+Tommy Ho,H251,1973-06-17,,USA,United States,"6'0""",72.0,183.0,170.0,77.0,Left-Handed,Unknown,1988.0,Inactive,85,793819.0
+Patrick Baur,B293,1965-05-03,,GER,Germany,"6'1""",73.0,185.0,411.0,186.0,Right-Handed,One-Handed,1986.0,Inactive,74,709282.0
+Jimmy Arias,A031,1964-08-16,,USA,United States,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,Unknown,1980.0,Inactive,5,1830465.0
+Bjorn Fratangelo,F811,1993-07-19,,USA,United States,"6'0""",72.0,183.0,175.0,79.0,Right-Handed,Two-Handed,2012.0,Inactive,99,1614944.0
+Kevin Curren,C057,1958-03-02,,USA,United States,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,Unknown,1979.0,Inactive,5,3054423.0
+Oleg Ogorodov,O127,1972-07-16,,UZB,Uzbekistan,"6'4""",76.0,193.0,192.0,87.0,Right-Handed,Unknown,1995.0,Inactive,101,602095.0
+Peter Polansky,PB22,1988-06-15,,CAN,Canada,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,Two-Handed,2007.0,Inactive,110,1748807.0
+Robbie Weiss,W011,1966-12-01,,USA,United States,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Unknown,1988.0,Inactive,85,499723.0
+Rik De Voest,D424,1980-06-05,,RSA,South Africa,"5'11""",71.0,180.0,150.0,68.0,Right-Handed,Two-Handed,1999.0,Inactive,110,1349991.0
+Leonardo Lavalle,L009,1967-07-14,,MEX,Mexico,"6'2""",74.0,188.0,175.0,79.0,Left-Handed,Unknown,1985.0,Inactive,51,903200.0
+Jimmy Connors,C044,1952-09-02,,USA,United States,"5'10""",70.0,178.0,155.0,70.0,Left-Handed,Two-Handed,1972.0,Inactive,1,8641040.0
+Alex Antonitsch,A028,1966-02-08,,AUT,Austria,"6'2""",74.0,188.0,188.0,85.0,Right-Handed,Unknown,1988.0,Inactive,40,1024171.0
+Danilo Marcelino,M028,1966-03-08,,BRA,Brazil,"6'4""",76.0,193.0,178.0,81.0,Right-Handed,Unknown,1986.0,Inactive,91,419467.0
+Yuki Bhambri,BF55,1992-07-04,33.0,IND,India,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Two-Handed,2008.0,Active,83,1799276.0
+Gouichi Motomura,M531,1973-12-25,,JPN,Japan,"5'8""",68.0,173.0,140.0,64.0,Right-Handed,Unknown,1992.0,Inactive,134,477077.0
+Todd Witsken,W029,1963-11-04,,USA,United States,"6'0""",72.0,183.0,175.0,79.0,Right-Handed,Unknown,1985.0,Deceased,43,1420910.0
+Carsten Arriens,A183,1969-04-11,,GER,Germany,"6'4""",76.0,193.0,178.0,81.0,Right-Handed,Unknown,1991.0,Inactive,109,314588.0
+Peter Lundgren,L044,1965-01-29,,SWE,Sweden,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Unknown,1983.0,Inactive,25,1130516.0
+Borna Gojo,GH92,1998-02-27,27.0,CRO,Croatia,"6'5""",77.0,196.0,198.0,90.0,Right-Handed,Two-Handed,2020.0,Active,72,1371333.0
+Constant Lestienne,LB66,1992-05-23,33.0,FRA,France,"5'11""",71.0,180.0,156.0,71.0,Right-Handed,Two-Handed,2012.0,Active,48,2225683.0
+Gilad Bloom,B051,1967-03-01,,ISR,Israel,"5'8""",68.0,173.0,160.0,73.0,Left-Handed,Unknown,1986.0,Inactive,61,694271.0
+Maurice Ruah,R224,1971-02-19,,VEN,Venezuela,"5'10""",70.0,178.0,152.0,69.0,Right-Handed,Unknown,1989.0,Inactive,90,542546.0
+Steve Campbell,C355,1970-10-22,,USA,United States,"6'0""",72.0,183.0,175.0,79.0,Right-Handed,Unknown,1993.0,Inactive,78,484898.0
+Thomas Hogstedt,H029,1963-09-21,,SWE,Sweden,"6'3""",75.0,191.0,170.0,77.0,Right-Handed,Unknown,1981.0,Inactive,38,609935.0
+Mikael Pernfors,P024,1963-07-16,,SWE,Sweden,"5'8""",68.0,173.0,150.0,68.0,Right-Handed,Unknown,1985.0,Inactive,10,1356751.0
+Mark Knowles,K171,1971-09-04,,BAH,Bahamas,"6'3""",75.0,191.0,195.0,88.0,Right-Handed,Unknown,1992.0,Inactive,96,7058933.0
+Alex Kim,K379,1978-12-20,,USA,United States,"5'9""",69.0,175.0,160.0,73.0,Right-Handed,Unknown,2000.0,Inactive,106,281041.0
+Jurgen Zopp,Z254,1988-03-29,,EST,Estonia,"6'3""",75.0,191.0,194.0,88.0,Right-Handed,Two-Handed,2008.0,Inactive,71,1120622.0
+Jason Jung,J380,1989-06-15,36.0,TPE,Chinese Taipei,"5'11""",71.0,180.0,152.0,69.0,Right-Handed,Two-Handed,2011.0,Active,114,1154691.0
+Frederic Niemeyer,N291,1976-04-24,,CAN,Canada,"6'3""",75.0,191.0,180.0,82.0,Right-Handed,Unknown,1998.0,Inactive,134,530673.0
+Austin Krajicek,KA00,1990-06-16,35.0,USA,United States,"6'2""",74.0,188.0,175.0,79.0,Left-Handed,Two-Handed,2012.0,Active,94,3992303.0
+Darren Cahill,C001,1965-10-02,,AUS,Australia,"6'1""",73.0,185.0,182.0,83.0,Right-Handed,One-Handed,,Inactive,22,1349247.0
+Ze Zhang,Z272,1990-07-04,,CHN,China,"6'2""",74.0,188.0,187.0,85.0,Right-Handed,Two-Handed,2008.0,Inactive,148,1106768.0
+Ramesh Krishnan,K024,1961-06-05,,IND,India,"5'7""",67.0,170.0,140.0,64.0,Right-Handed,Unknown,1978.0,Inactive,23,1262330.0
+Guido Andreozzi,A887,1991-08-05,33.0,ARG,Argentina,"6'0""",72.0,183.0,172.0,78.0,Right-Handed,Two-Handed,2010.0,Active,70,1809562.0
+Sebastien De Chaunac,D351,1977-10-07,,FRA,France,"6'0""",72.0,183.0,163.0,74.0,Right-Handed,Unknown,1998.0,Inactive,130,547906.0
+Mitchell Krueger,KC12,1994-01-12,31.0,USA,United States,"6'2""",74.0,188.0,180.0,82.0,Right-Handed,Two-Handed,2012.0,Active,135,1762277.0
+Eric Taino,T209,1975-03-18,,PHI,Philippines,"5'9""",69.0,175.0,165.0,75.0,Left-Handed,Unknown,1997.0,Inactive,122,542367.0
+Alexander Peya,P467,1980-06-27,,AUT,Austria,"6'0""",72.0,183.0,183.0,83.0,Right-Handed,One-Handed,1998.0,Inactive,92,4428635.0
+Vincent Millot,ME31,1986-01-30,,FRA,France,"5'8""",68.0,173.0,165.0,75.0,Left-Handed,Two-Handed,2007.0,Inactive,135,948035.0
+Kelly Jones,J018,1964-03-31,,USA,United States,"6'1""",73.0,185.0,167.0,76.0,Right-Handed,Unknown,1986.0,Inactive,86,1167143.0
+John Fitzgerald,F028,1960-12-28,,AUS,Australia,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,Unknown,1980.0,Inactive,25,3207272.0
+Di Wu,W571,1991-09-14,,CHN,China,"5'8""",68.0,173.0,143.0,65.0,Right-Handed,Two-Handed,2009.0,Inactive,140,840244.0
+Brian Dabul,D556,1984-02-24,,ARG,Argentina,"5'7""",67.0,170.0,154.0,70.0,Left-Handed,Unknown,2001.0,Inactive,82,728653.0
+Alex Kuznetsov,K737,1987-02-05,,USA,United States,"6'0""",72.0,183.0,172.0,78.0,Right-Handed,Two-Handed,2004.0,Inactive,120,924466.0
+Konstantin Kravchuk,K776,1985-02-23,,RUS,Russia,"6'3""",75.0,191.0,176.0,80.0,Right-Handed,Two-Handed,2004.0,Inactive,78,1187840.0
+Robin Vik,V247,1980-02-05,,CZE,Czechia,"6'0""",72.0,183.0,167.0,76.0,Right-Handed,Unknown,1998.0,Inactive,57,700030.0
+Alejandro Gonzalez,G892,1989-02-07,,COL,Colombia,"6'3""",75.0,191.0,182.0,83.0,Right-Handed,Two-Handed,2006.0,Inactive,70,1156362.0
+David Pate,P012,1962-04-16,,USA,United States,"6'0""",72.0,183.0,170.0,77.0,Right-Handed,Unknown,1983.0,Inactive,18,2028823.0
+Axel Pretzsch,P353,1976-06-16,,GER,Germany,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,Unknown,1996.0,Inactive,99,336815.0
+Nicolas Thomann,T228,1972-11-29,,FRA,France,"6'0""",72.0,183.0,174.0,79.0,Right-Handed,Unknown,1996.0,Inactive,106,437629.0
+Lars Rehmann,R285,1975-05-21,,GER,Germany,"6'5""",77.0,196.0,195.0,88.0,Right-Handed,Unknown,1993.0,Inactive,87,271500.0
+Fredrik Jonsson,J148,1977-03-28,,SWE,Sweden,"6'4""",76.0,193.0,180.0,82.0,Right-Handed,Unknown,1996.0,Inactive,108,291169.0
+Kenny Thorne,T125,1966-01-24,,USA,United States,"6'2""",74.0,188.0,175.0,79.0,Right-Handed,Unknown,1989.0,Inactive,121,492045.0
+Jurij Rodionov,R09X,1999-05-16,26.0,AUT,Austria,"6'3""",75.0,191.0,184.0,83.0,Left-Handed,Two-Handed,2017.0,Active,87,1413292.0
+Prakash Amritraj,A487,1983-10-02,,IND,India,"6'2""",74.0,188.0,165.0,75.0,Right-Handed,Unknown,2003.0,Inactive,154,460805.0
+Kevin Ullyett,U024,1972-05-23,,ZIM,Zimbabwe,"5'10""",70.0,178.0,170.0,77.0,Right-Handed,Unknown,1990.0,Inactive,107,4138771.0
+Lorenzo Manta,M551,1974-09-16,,SUI,Switzerland,"6'3""",75.0,191.0,180.0,82.0,Right-Handed,Unknown,1992.0,Inactive,103,429102.0
+Guillaume Rufin,RA17,1990-05-26,,FRA,France,"6'2""",74.0,188.0,181.0,82.0,Right-Handed,Two-Handed,2008.0,Inactive,81,730659.0
+Adrian Garcia,G414,1978-05-25,,CHI,Chile,"5'9""",69.0,175.0,152.0,69.0,Right-Handed,Unknown,1998.0,Inactive,103,605753.0
+Tom Nijssen,N018,1964-10-01,,NED,Netherlands,"5'8""",68.0,173.0,154.0,70.0,Right-Handed,One-Handed,1984.0,Inactive,87,1474432.0
+Hendrik Jan Davids,D170,1969-01-30,,NED,Netherlands,"6'0""",72.0,183.0,172.0,78.0,Left-Handed,Unknown,1988.0,Inactive,171,923459.0
+David Engel,E061,1967-10-17,,SWE,Sweden,"5'11""",71.0,180.0,163.0,74.0,Right-Handed,Unknown,1986.0,Inactive,114,363509.0
+Alessandro Giannessi,G983,1990-05-30,35.0,ITA,Italy,"6'1""",73.0,185.0,180.0,82.0,Left-Handed,Two-Handed,2008.0,Active,84,1466504.0
+Christian Vinck,V175,1975-09-03,,GER,Germany,"6'0""",72.0,183.0,165.0,75.0,Left-Handed,Unknown,1993.0,Inactive,101,482534.0
+Luke Jensen,J009,1966-06-18,,USA,United States,"6'3""",75.0,191.0,190.0,86.0,Ambidextrous,Unknown,1987.0,Inactive,168,1313255.0
+Paul Wekesa,W122,1967-07-02,,KEN,Kenya,"6'2""",74.0,188.0,175.0,79.0,Right-Handed,Unknown,1987.0,Inactive,100,448114.0
+Chris Garner,G196,1969-04-07,,USA,United States,"5'11""",71.0,180.0,170.0,77.0,Right-Handed,Unknown,1988.0,Inactive,120,242281.0
+Sumit Nagal,N897,1997-08-16,27.0,IND,India,"5'10""",70.0,178.0,152.0,69.0,Right-Handed,Two-Handed,2015.0,Active,68,1612130.0
+Stephane Huet,H284,1971-04-25,,FRA,France,"5'11""",71.0,180.0,160.0,73.0,Left-Handed,Unknown,1990.0,Inactive,96,529583.0
+Pablo Arraya,A035,1961-10-21,,PER,Peru,"5'11""",71.0,180.0,160.0,73.0,Right-Handed,Unknown,1980.0,Inactive,29,723086.0
+Scott Davis,D004,1962-08-27,,USA,United States,"6'2""",74.0,188.0,170.0,77.0,Right-Handed,Unknown,1983.0,Inactive,11,2286711.0
+Udo Riglewski,R023,1966-07-28,,GER,Germany,"6'1""",73.0,185.0,177.0,80.0,Right-Handed,Unknown,1985.0,Inactive,82,842211.0
+Marcello Craca,C439,1974-10-27,,GER,Germany,"5'11""",71.0,180.0,168.0,76.0,Right-Handed,Unknown,1995.0,Inactive,90,273659.0
+Francisco Montana,M399,1969-11-05,55.0,USA,United States,"6'0""",72.0,183.0,163.0,74.0,Right-Handed,Unknown,1990.0,Active,100,1248148.0
+Victor Crivoi,C856,1982-05-25,,ROU,Romania,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Unknown,2003.0,Inactive,75,628202.0
+Alejandro Hernandez,H346,1977-10-01,,MEX,Mexico,"5'11""",71.0,180.0,175.0,79.0,Right-Handed,Unknown,1995.0,Inactive,125,456412.0
+Xavier Daufresne,D190,1968-12-24,,BEL,Belgium,"6'4""",76.0,193.0,192.0,87.0,Right-Handed,Unknown,1988.0,Inactive,109,252896.0
+Thiago Alves,A410,1982-05-22,,BRA,Brazil,"5'10""",70.0,178.0,165.0,75.0,Right-Handed,Two-Handed,2000.0,Inactive,88,739459.0
+Pedro Sousa,S483,1988-05-27,,POR,Portugal,"5'11""",71.0,180.0,154.0,70.0,Right-Handed,Two-Handed,2007.0,Inactive,99,1118975.0
+Antonio Veic,V564,1988-02-18,,CRO,Croatia,"5'11""",71.0,180.0,163.0,74.0,Right-Handed,Two-Handed,2006.0,Inactive,119,560536.0
+Andrew Sznajder,S102,1967-05-25,,CAN,Canada,"5'9""",69.0,175.0,160.0,73.0,Right-Handed,Unknown,1988.0,Inactive,46,419995.0
+Eyal Ran,R243,1972-11-21,,ISR,Israel,"6'0""",72.0,183.0,155.0,70.0,Right-Handed,Unknown,1992.0,Inactive,138,492055.0
+Martin Strelba,S328,1967-03-22,,CZE,Czechia,"6'3""",75.0,191.0,175.0,79.0,Right-Handed,Unknown,1988.0,Inactive,53,400835.0
+Fernando Roese,R036,1965-08-24,,BRA,Brazil,"6'3""",75.0,191.0,180.0,82.0,Right-Handed,Unknown,1982.0,Inactive,92,341334.0
+Jan Gunnarsson,G053,1962-05-30,,SWE,Sweden,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Unknown,,Inactive,25,1285040.0
+Tuomas Ketola,K297,1975-02-21,,FIN,Finland,"6'1""",73.0,185.0,170.0,77.0,Right-Handed,Unknown,1994.0,Inactive,130,656258.0
+Dimitri Poliakov,P198,1968-01-19,,UKR,Ukraine,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Two-Handed,1989.0,Inactive,93,438529.0
+Zeljko Krajan,K313,1979-02-03,,CRO,Croatia,"5'10""",70.0,178.0,172.0,78.0,Right-Handed,Unknown,1997.0,Inactive,88,284128.0
+Lars-Anders Wahlgren,W001,1966-08-24,,SWE,Sweden,"6'4""",76.0,193.0,185.0,84.0,Right-Handed,Unknown,1985.0,Inactive,66,464310.0
+Radomir Vasek,V151,1972-09-23,,CZE,Czechia,"6'2""",74.0,188.0,172.0,78.0,Right-Handed,Unknown,1990.0,Inactive,91,418622.0
+Yannick Noah,N022,1960-05-18,,FRA,France,"6'4""",76.0,193.0,180.0,82.0,Right-Handed,Unknown,,Inactive,3,3440660.0
+Juan Aguilera,A007,1962-03-22,,ESP,Spain,"6'0""",72.0,183.0,150.0,68.0,Right-Handed,Unknown,,Inactive,7,825000.0
+Andrew Castle,C246,1963-11-15,,GBR,Great Britain,"6'3""",75.0,191.0,172.0,78.0,Right-Handed,Unknown,,Inactive,80,342928.0
+Glenn Layendecker,L010,1961-05-09,,USA,United States,"6'1""",73.0,185.0,175.0,79.0,Left-Handed,One-Handed,,Inactive,48,646578.0
+Nick Brown,B113,1961-09-03,,GBR,Great Britain,"6'3""",75.0,191.0,180.0,82.0,Right-Handed,Unknown,,Inactive,145,195180.0
+Mark Kratzmann,K021,1966-05-17,,AUS,Australia,"5'9""",69.0,175.0,187.0,85.0,Left-Handed,One-Handed,1984.0,Inactive,50,1378936.0
+Kelly Evernden,E025,1961-09-21,,NZL,New Zealand,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,Unknown,1985.0,Inactive,31,896750.0
+Tim Mayotte,M041,1960-08-03,,USA,United States,"6'3""",75.0,191.0,185.0,84.0,Right-Handed,Unknown,,Inactive,7,2663672.0
+Patrik Fredriksson,F278,1973-05-16,,SWE,Sweden,"6'1""",73.0,185.0,167.0,76.0,Right-Handed,Unknown,1995.0,Inactive,84,331508.0
+Aki Rahunen,R193,1971-12-24,,FIN,Finland,"5'9""",69.0,175.0,132.0,60.0,Right-Handed,Unknown,,Inactive,57,257054.0
+Martin Laurendeau,L008,1964-07-10,,CAN,Canada,"6'3""",75.0,191.0,172.0,78.0,Right-Handed,Two-Handed,1987.0,Inactive,90,348892.0
+Todd Nelson,N013,1961-03-18,,USA,United States,"6'1""",73.0,185.0,185.0,84.0,Right-Handed,Unknown,1983.0,Inactive,58,541277.0
+Martin Wostenholme,W038,1962-10-11,,CAN,Canada,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Two-Handed,,Inactive,84,298147.0
+Johan Kriek,K022,1958-04-05,,USA,United States,"5'9""",69.0,175.0,168.0,76.0,Right-Handed,Unknown,1978.0,Inactive,7,2383794.0
+Glenn Michibata,M064,1962-06-13,,CAN,Canada,"5'9""",69.0,175.0,160.0,73.0,Right-Handed,Unknown,1983.0,Inactive,48,1081207.0
+Niclas Kroon,K133,1966-02-05,,SWE,Sweden,"6'0""",72.0,183.0,180.0,82.0,Right-Handed,Two-Handed,1986.0,Inactive,46,446524.0
+Paul Annacone,A027,1963-03-20,,USA,United States,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,Unknown,1984.0,Inactive,12,1640515.0
+Alexander Reichel,R254,1971-03-03,,USA,United States,"6'4""",76.0,193.0,180.0,82.0,Right-Handed,Unknown,1992.0,Inactive,204,135419.0
+Brad Pearce,P014,1966-03-21,,USA,United States,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,Unknown,1986.0,Inactive,71,818413.0
+Mark Keil,K172,1967-06-03,,USA,United States,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Unknown,1988.0,Inactive,167,749587.0
+Dan Goldie,G022,1963-10-03,,USA,United States,"6'2""",74.0,188.0,175.0,79.0,Right-Handed,Unknown,,Inactive,27,682152.0
+Bjorn Borg,B058,1956-06-06,,SWE,Sweden,"5'11""",71.0,180.0,160.0,73.0,Right-Handed,Two-Handed,1973.0,Inactive,1,3655751.0
+Slobodan Zivojinovic,Z006,1963-07-23,,SRB,Serbia,"6'6""",78.0,198.0,220.0,100.0,Right-Handed,Unknown,,Inactive,19,1450654.0
+Kent Kinnear,K156,1966-11-30,,USA,United States,"6'5""",77.0,196.0,215.0,98.0,Right-Handed,Unknown,1988.0,Inactive,163,770149.0
+Markus Zillner,Z039,1970-03-19,,GER,Germany,"5'10""",70.0,178.0,162.0,73.0,Left-Handed,Unknown,1988.0,Inactive,143,99911.0
+Philippe Pech,P176,1966-08-09,,FRA,France,"5'11""",71.0,180.0,150.0,68.0,Left-Handed,Unknown,,Inactive,155,101424.0
+Joey Rive,R029,1963-07-08,,USA,United States,"6'1""",73.0,185.0,180.0,82.0,Left-Handed,Unknown,1985.0,Inactive,57,388558.0
+Brian Garrow,G212,1968-04-08,,USA,United States,"5'8""",68.0,173.0,160.0,73.0,Right-Handed,Unknown,,Inactive,93,242556.0
+Johan Anderson,A163,1971-09-29,,AUS,Australia,"6'0""",72.0,183.0,171.0,78.0,Right-Handed,Unknown,0.0,Inactive,90,247738.0
+Branislav Stankovic,S079,1965-05-30,,SVK,Slovak Republic,"5'9""",69.0,175.0,166.0,75.0,Right-Handed,Unknown,,Inactive,86,167847.0
+Chris Bailey,B322,1968-04-29,,GBR,Great Britain,"6'5""",77.0,196.0,189.0,86.0,Right-Handed,Unknown,1987.0,Inactive,126,208117.0
+Juan Gisbert Jr,G304,1974-04-13,,ESP,Spain,"6'6""",78.0,198.0,207.0,94.0,Right-Handed,Unknown,1992.0,Inactive,132,149429.0
+Federico Sanchez,S507,1970-12-04,,ESP,Spain,"5'6""",66.0,168.0,132.0,60.0,Right-Handed,Unknown,1991.0,Inactive,138,134015.0
+Andrew Foster,F222,1972-03-16,,GBR,Great Britain,"6'3""",75.0,191.0,177.0,80.0,Right-Handed,Unknown,,Inactive,184,168329.0
+Peter Moraing,M085,1961-09-13,,GER,Germany,"6'4""",76.0,193.0,185.0,84.0,Right-Handed,Unknown,,Inactive,142,86834.0
+Oliver Fernandez,F204,1972-12-07,,MEX,Mexico,"5'9""",69.0,175.0,145.0,66.0,Right-Handed,Unknown,1991.0,Inactive,141,148944.0
+Ross Matheson,M549,1970-05-27,,GBR,Great Britain,"6'5""",77.0,196.0,192.0,87.0,Right-Handed,Unknown,,Inactive,241,79011.0
+Sander Groen,G235,1968-06-16,,NED,Netherlands,"6'3""",75.0,191.0,187.0,85.0,Left-Handed,Two-Handed,1989.0,Inactive,177,503548.0
+Miles MacLagan,M480,1974-09-23,,GBR,Great Britain,"5'11""",71.0,180.0,175.0,79.0,Right-Handed,Unknown,1993.0,Inactive,172,247737.0
+Richard Matuszewski,M032,1964-09-07,,USA,United States,"6'2""",74.0,188.0,170.0,77.0,Right-Handed,Unknown,1986.0,Inactive,49,550506.0
+Sergio Cortes,C250,1968-01-11,,CHI,Chile,"5'7""",67.0,170.0,130.0,59.0,Right-Handed,Unknown,1987.0,Inactive,114,244706.0
+Paul Kilderry,K244,1973-04-11,,AUS,Australia,"5'9""",69.0,175.0,180.0,82.0,Right-Handed,Unknown,,Inactive,138,551195.0
+Roberto Jabali,J085,1970-05-16,,BRA,Brazil,"6'3""",75.0,191.0,185.0,84.0,Right-Handed,Unknown,1988.0,Inactive,130,277807.0
+Dave Randall,R236,1967-05-08,,USA,United States,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Unknown,1990.0,Inactive,155,635374.0
+Joshua Eagle,E122,1973-05-10,,AUS,Australia,"6'0""",72.0,183.0,200.0,91.0,Right-Handed,Unknown,,Inactive,219,1421375.0
+Louis Gloria,G292,1969-04-15,,USA,United States,"5'9""",69.0,175.0,160.0,73.0,Left-Handed,Unknown,1991.0,Inactive,177,158068.0
+Brent Larkham,L229,1972-01-08,,AUS,Australia,"5'10""",70.0,178.0,160.0,73.0,Right-Handed,Unknown,,Inactive,108,141612.0
+Roger Smith,S340,1964-01-20,,BAH,Bahamas,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,Unknown,1987.0,Inactive,96,528200.0
+Mark Kaplan,K150,1967-12-20,,RSA,South Africa,"6'1""",73.0,185.0,150.0,68.0,Right-Handed,Unknown,,Inactive,117,189570.0
+David Adams,A177,1970-01-05,,RSA,South Africa,"6'2""",74.0,188.0,175.0,79.0,Right-Handed,Unknown,1989.0,Inactive,131,2534247.0
+Alejo Mancisidor,M515,1970-07-31,,ESP,Spain,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Unknown,1991.0,Inactive,120,149180.0
+Albert Chang,C308,1971-02-27,,CAN,Canada,"6'0""",72.0,183.0,175.0,79.0,Right-Handed,Two-Handed,1992.0,Inactive,140,212100.0
+Eyal Erlich,E135,1977-01-01,,ISR,Israel,"6'0""",72.0,183.0,158.0,72.0,Right-Handed,Unknown,1995.0,Inactive,144,172773.0
+Wade McGuire,M564,1969-08-19,,USA,United States,"6'2""",74.0,188.0,170.0,77.0,Right-Handed,Unknown,1993.0,Inactive,163,201114.0
+Sasa Hirszon,H274,1972-07-14,,CRO,Croatia,"6'1""",73.0,185.0,162.0,73.0,Right-Handed,Unknown,,Inactive,214,312767.0
+Luis Adrian Morejon,M506,1973-03-28,,ECU,Ecuador,"5'10""",70.0,178.0,150.0,68.0,Right-Handed,Unknown,1991.0,Inactive,122,247814.0
+Joost Winnink,W161,1971-06-30,,NED,Netherlands,"5'11""",71.0,180.0,165.0,75.0,Right-Handed,Unknown,,Inactive,152,242379.0
+Colin Beecher,B347,1970-10-16,,GBR,Great Britain,,,,,,Right-Handed,Unknown,,Inactive,264,55969.0
+Chris Haggard,H340,1971-04-28,,RSA,South Africa,"5'10""",70.0,178.0,157.0,71.0,Left-Handed,Two-Handed,1993.0,Inactive,223,1196035.0
+Mose Navarra,N230,1974-07-18,,ITA,Italy,"5'11""",71.0,180.0,178.0,81.0,Left-Handed,Unknown,1993.0,Inactive,119,309483.0
+David Dilucia,D191,1970-01-15,,USA,United States,"5'8""",68.0,173.0,148.0,67.0,Right-Handed,Unknown,,Inactive,248,281857.0
+Robbie Koenig,K219,1971-07-05,,RSA,South Africa,"5'8""",68.0,173.0,155.0,70.0,Right-Handed,Unknown,1992.0,Inactive,262,944191.0
+Ben Ellwood,E143,1976-03-12,,AUS,Australia,"5'10""",70.0,178.0,167.0,76.0,Right-Handed,Unknown,1994.0,Inactive,140,388461.0
+Pierre Bouteyre,B439,1971-09-07,,FRA,France,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Unknown,,Inactive,249,54033.0
+Christophe Van Garsse,V170,1974-06-21,,BEL,Belgium,"6'1""",73.0,185.0,185.0,84.0,Right-Handed,Unknown,1992.0,Inactive,131,249730.0
+Daniel Courcol,C314,1969-04-26,,FRA,France,"6'3""",75.0,191.0,205.0,93.0,Right-Handed,Unknown,1993.0,Inactive,166,62945.0
+Todd Larkham,L257,1974-10-13,,AUS,Australia,"5'10""",70.0,178.0,155.0,70.0,Right-Handed,Unknown,1993.0,Inactive,136,306108.0
+Ignacio Truyol,T206,1973-08-17,,ESP,Spain,"5'7""",67.0,170.0,142.0,64.0,Right-Handed,Unknown,1993.0,Inactive,104,109540.0
+Mark Draper,D206,1971-02-11,,AUS,Australia,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Unknown,1989.0,Inactive,152,91212.0
+Davide Scala,S465,1972-01-02,,ITA,Italy,"5'11""",71.0,180.0,178.0,81.0,Right-Handed,Unknown,1990.0,Inactive,117,168066.0
+Peter Tramacchi,T156,1970-11-08,,AUS,Australia,"6'0""",72.0,183.0,209.0,95.0,Right-Handed,One-Handed,1992.0,Inactive,127,526544.0
+Justin Bower,B645,1978-05-23,,RSA,South Africa,"6'3""",75.0,191.0,175.0,79.0,Left-Handed,Unknown,,Inactive,180,166067.0
+Wolfgang Schranz,S649,1976-03-19,,AUT,Austria,"5'10""",70.0,178.0,162.0,73.0,Right-Handed,Unknown,1994.0,Inactive,136,168313.0
+Kristian Capalik,C522,1978-10-03,,USA,United States,"6'2""",74.0,188.0,175.0,79.0,Right-Handed,Unknown,,Inactive,272,69855.0
+Lee Childs,C627,1982-06-11,,GBR,Great Britain,,,,174.0,79.0,Right-Handed,One-Handed,,Inactive,251,201900.0
+Rogier Wassen,W224,1976-08-09,,NED,Netherlands,"6'3""",75.0,191.0,207.0,94.0,Right-Handed,Two-Handed,1994.0,Inactive,143,1040061.0
+Dejan Petrovic,P387,1978-04-03,,SRB,Serbia,"0'0""",0.0,0.0,198.0,90.0,Right-Handed,Two-Handed,,Inactive,157,165873.0
+Mike Bryan,B589,1978-04-29,,USA,United States,"6'3""",75.0,191.0,185.0,84.0,Right-Handed,One-Handed,1998.0,Inactive,246,16767452.0
+Alexandre Simoni,S721,1979-07-02,,BRA,Brazil,"6'2""",74.0,188.0,172.0,78.0,Right-Handed,Unknown,1997.0,Inactive,96,394788.0
+Edwin Kempes,K317,1976-06-23,,NED,Netherlands,"6'2""",74.0,188.0,160.0,73.0,Right-Handed,Unknown,1995.0,Inactive,98,322221.0
+Ivan Miranda,M783,1980-03-08,,PER,Peru,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,Unknown,1999.0,Inactive,104,355570.0
+Ota Fukarek,F292,1977-01-18,,CZE,Czechia,"6'3""",75.0,191.0,172.0,78.0,Right-Handed,Unknown,1995.0,Inactive,101,387322.0
+Thomas Blake,B619,1976-12-29,,USA,United States,,,,195.0,88.0,Right-Handed,One-Handed,1999.0,Inactive,264,141801.0
+Yves Allegro,A293,1978-08-24,,SUI,Switzerland,"6'0""",72.0,183.0,181.0,82.0,Right-Handed,Unknown,1997.0,Inactive,210,768327.0
+Jonathan Erlich,E152,1977-04-05,,ISR,Israel,"5'9""",69.0,175.0,171.0,78.0,Right-Handed,Unknown,1996.0,Inactive,292,2827240.0
+Jean-Francois Bachelot,B562,1977-06-11,,FRA,France,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,One-Handed,1996.0,Inactive,134,395248.0
+Frantisek Cermak,C445,1976-11-14,,CZE,Czechia,"6'4""",76.0,193.0,176.0,80.0,Right-Handed,Unknown,1998.0,Inactive,201,2418073.0
+Petr Luxa,L353,1972-03-03,,CZE,Czechia,"6'3""",75.0,191.0,187.0,85.0,Right-Handed,Unknown,1993.0,Inactive,150,635062.0
+Dusan Vemic,V205,1976-06-17,,SRB,Serbia,"6'2""",74.0,188.0,200.0,91.0,Right-Handed,Two-Handed,1995.0,Inactive,146,821902.0
+Zack Fleishman,F337,1980-03-17,,USA,United States,"6'2""",74.0,188.0,185.0,84.0,Right-Handed,Unknown,2000.0,Inactive,127,381160.0
+Giorgio Galimberti,G334,1976-09-05,,ITA,Italy,"5'10""",70.0,178.0,180.0,82.0,Right-Handed,One-Handed,1995.0,Inactive,115,619170.0
+David Sherwood,S818,1980-05-06,,GBR,Great Britain,"6'4""",76.0,193.0,,,Right-Handed,Unknown,,Inactive,214,126338.0
+Travis Rettenmaier,R616,1983-08-06,,USA,United States,"6'2""",74.0,188.0,185.0,84.0,Right-Handed,Unknown,2002.0,Inactive,273,243091.0
+Wesley Whitehouse,W272,1979-03-13,,NZL,New Zealand,"6'3""",75.0,191.0,200.0,91.0,Left-Handed,Unknown,1998.0,Inactive,214,195247.0
+Jonathan Marray,M983,1981-03-10,,GBR,Great Britain,"6'0""",72.0,183.0,168.0,76.0,Right-Handed,One-Handed,2000.0,Inactive,215,1173631.0
+Julien Varlet,V206,1977-09-08,,FRA,France,"5'11""",71.0,180.0,172.0,78.0,Right-Handed,Unknown,1997.0,Inactive,135,188412.0
+Ian Flanagan,F436,1982-01-15,,GBR,Great Britain,,,,,,Unknown,Unknown,,Inactive,503,46354.0
+Paul Baccanello,B681,1979-06-12,,AUS,Australia,"6'0""",72.0,183.0,188.0,85.0,Right-Handed,Unknown,1999.0,Inactive,129,261855.0
+Mark Hilton,H448,1981-04-20,,GBR,Great Britain,"5'7""",67.0,170.0,176.0,80.0,Left-Handed,Unknown,2000.0,Inactive,202,173513.0
+Michal Mertinak,M776,1979-10-11,,SVK,Slovak Republic,"6'1""",73.0,185.0,203.0,92.0,Right-Handed,Two-Handed,1999.0,Inactive,129,1511590.0
+Giovanni Lapentti,L430,1983-01-25,,ECU,Ecuador,"6'4""",76.0,193.0,201.0,91.0,Right-Handed,Two-Handed,2002.0,Inactive,110,588402.0
+Jean-Christophe Faurel,F344,1981-03-06,,FRA,France,"5'9""",69.0,175.0,152.0,69.0,Right-Handed,Unknown,2000.0,Inactive,140,289530.0
+Josh Goodall,G744,1985-10-17,,GBR,Great Britain,"6'2""",74.0,188.0,163.0,74.0,Right-Handed,Unknown,2004.0,Inactive,184,428956.0
+Jerome Haehnel,H435,1980-07-14,,FRA,France,"6'1""",73.0,185.0,172.0,78.0,Right-Handed,Unknown,1998.0,Inactive,78,472122.0
+Edgardo Massa,M714,1981-03-22,,ARG,Argentina,"5'11""",71.0,180.0,187.0,85.0,Right-Handed,Unknown,1998.0,Inactive,91,300279.0
+Benjamin Balleret,B946,1983-01-15,42.0,MON,Monaco,"6'0""",72.0,183.0,187.0,85.0,Right-Handed,Two-Handed,,Active,204,363382.0
+Ilija Bozoljac,BA57,1985-08-02,,SRB,Serbia,"6'4""",76.0,193.0,189.0,86.0,Right-Handed,Unknown,2002.0,Inactive,101,742198.0
+Nathan Healey,H431,1980-02-27,,AUS,Australia,,,,180.0,82.0,Right-Handed,One-Handed,1998.0,Inactive,159,552190.0
+Melle Van Gemerden,V267,1979-05-09,,NED,Netherlands,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Unknown,,Inactive,100,214727.0
+Florin Mergea,MB27,1985-01-26,,ROU,Romania,"5'10""",70.0,178.0,176.0,80.0,Right-Handed,One-Handed,2003.0,Inactive,243,1682712.0
+Alexander Kudryavtsev,K596,1985-10-26,,RUS,Russia,"6'0""",72.0,183.0,174.0,79.0,Right-Handed,Unknown,,Inactive,117,909894.0
+Scoville Jenkins,J290,1986-09-23,,USA,United States,"6'2""",74.0,188.0,170.0,77.0,Right-Handed,Two-Handed,2004.0,Inactive,187,353515.0
+Mikhail Ledovskikh,L702,1986-08-08,,RUS,Russia,"6'2""",74.0,188.0,180.0,82.0,Right-Handed,Two-Handed,,Inactive,151,267854.0
+Sam Warburg,W361,1983-04-29,,USA,United States,"6'3""",75.0,191.0,188.0,85.0,Right-Handed,Unknown,2005.0,Inactive,132,301995.0
+Chris Eaton,E673,1987-11-27,,GBR,Great Britain,,,,167.0,76.0,Right-Handed,Unknown,,Inactive,317,169080.0
+Brendan Evans,E254,1986-04-08,,USA,United States,"6'2""",74.0,188.0,200.0,91.0,Right-Handed,Unknown,2004.0,Inactive,117,411906.0
+Massimo Dell'Acqua,D361,1979-09-06,,ITA,Italy,"6'4""",76.0,193.0,190.0,86.0,Right-Handed,Unknown,1999.0,Inactive,148,190825.0
+Dominik Meffert,M836,1981-04-09,,GER,Germany,"6'5""",77.0,196.0,204.0,93.0,Right-Handed,Two-Handed,2005.0,Inactive,161,513278.0
+Sergei Bubka,BC11,1987-02-10,,UKR,Ukraine,"6'2""",74.0,188.0,194.0,88.0,Right-Handed,Two-Handed,2005.0,Inactive,145,465186.0
+Joseph Sirianni,S673,1975-01-17,,AUS,Australia,"5'10""",70.0,178.0,168.0,76.0,Right-Handed,Unknown,1996.0,Inactive,138,447729.0
+Martin Fischer,F580,1986-07-21,,AUT,Austria,"5'11""",71.0,180.0,157.0,71.0,Right-Handed,Unknown,2005.0,Inactive,117,640889.0
+Carsten Ball,BD59,1987-06-20,,AUS,Australia,"6'6""",78.0,198.0,200.0,91.0,Left-Handed,Two-Handed,2005.0,Inactive,108,671061.0
+Brydan Klein,K964,1989-12-31,,GBR,Great Britain,"6'2""",74.0,188.0,183.0,83.0,Right-Handed,Two-Handed,2007.0,Inactive,169,708106.0
+Josselin Ouanna,O264,1986-04-14,,FRA,France,"6'4""",76.0,193.0,200.0,91.0,Right-Handed,Unknown,2004.0,Inactive,88,741500.0
+Jaroslav Pospisil,P605,1981-02-09,,CZE,Czechia,"5'9""",69.0,175.0,165.0,75.0,Right-Handed,Two-Handed,,Inactive,103,569738.0
+Daniel Cox,CB14,1990-09-28,,GBR,Great Britain,"5'7""",67.0,170.0,150.0,68.0,Right-Handed,Two-Handed,2011.0,Inactive,206,332194.0
+Raven Klaasen,K609,1982-10-16,,RSA,South Africa,"5'10""",70.0,178.0,157.0,71.0,Right-Handed,Two-Handed,2002.0,Inactive,208,4014060.0
+Oliver Golding,GC38,1993-09-29,,GBR,Great Britain,"6'2""",74.0,188.0,185.0,84.0,Right-Handed,Two-Handed,2011.0,Inactive,327,99692.0
+Henri Kontinen,KA80,1990-06-19,,FIN,Finland,"6'3""",75.0,191.0,181.0,82.0,Right-Handed,One-Handed,2008.0,Inactive,220,3584065.0
+Javier Marti,MI08,1992-01-11,,ESP,Spain,,,,,,Right-Handed,Unknown,,Inactive,170,378362.0
+Michael Yani,Y070,1980-12-31,,USA,United States,"6'1""",73.0,185.0,165.0,75.0,Right-Handed,Two-Handed,2003.0,Inactive,143,403300.0
+Matteo Viola,V490,1987-07-07,,ITA,Italy,"6'1""",73.0,185.0,176.0,80.0,Right-Handed,Two-Handed,2004.0,Inactive,118,821594.0
+Tim Puetz,PC68,1987-11-19,37.0,GER,Germany,"6'1""",73.0,185.0,171.0,78.0,Right-Handed,Two-Handed,2011.0,Active,163,3487229.0
+Izak Van der Merwe,V379,1984-01-26,,RSA,South Africa,"6'5""",77.0,196.0,194.0,88.0,Right-Handed,Unknown,2005.0,Inactive,113,430017.0
+Ante Pavic,PC78,1989-03-07,,CRO,Croatia,"6'5""",77.0,196.0,211.0,96.0,Right-Handed,Two-Handed,,Inactive,132,473605.0
+Rhyne Williams,W522,1991-03-22,,USA,United States,"6'1""",73.0,185.0,185.0,84.0,Right-Handed,Two-Handed,2011.0,Inactive,114,460807.0
+Martin Alund,A539,1985-12-26,,ARG,Argentina,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,One-Handed,,Inactive,84,476558.0
+Farrukh Dustov,D551,1986-05-22,,UZB,Uzbekistan,"6'4""",76.0,193.0,194.0,88.0,Right-Handed,Unknown,2003.0,Inactive,98,511680.0
+Luca Vanni,V495,1985-06-04,40.0,ITA,Italy,"6'6""",78.0,198.0,207.0,94.0,Right-Handed,Two-Handed,,Active,100,796841.0
+John-Patrick Smith,SJ55,1989-01-24,36.0,AUS,Australia,"6'2""",74.0,188.0,185.0,84.0,Left-Handed,Two-Handed,2012.0,Active,108,2044940.0
+Mate Pavic,PF00,1993-07-04,32.0,CRO,Croatia,"6'3""",75.0,191.0,183.0,83.0,Left-Handed,Two-Handed,2011.0,Active,295,7888798.0
+Matthew Barton,BH98,1991-12-18,,AUS,Australia,"6'3""",75.0,191.0,187.0,85.0,Right-Handed,Two-Handed,2009.0,Inactive,183,269379.0
+Marcus Willis,W521,1990-10-09,34.0,GBR,Great Britain,"6'3""",75.0,191.0,200.0,91.0,Left-Handed,Two-Handed,2007.0,Active,322,349147.0
+Dennis Novikov,N674,1993-11-06,,USA,United States,"6'4""",76.0,193.0,200.0,91.0,Right-Handed,Two-Handed,2013.0,Inactive,119,662411.0
+Blaz Rola,RA51,1990-10-05,34.0,SLO,Slovenia,"6'4""",76.0,193.0,187.0,85.0,Left-Handed,Two-Handed,2013.0,Active,78,1148909.0
+Aleksandr Nedovyesov,N503,1987-02-15,38.0,KAZ,Kazakhstan,"6'2""",74.0,188.0,176.0,80.0,Right-Handed,Two-Handed,2005.0,Active,72,1587692.0
+Luke Saville,SM09,1994-01-02,31.0,AUS,Australia,"6'2""",74.0,188.0,183.0,83.0,Right-Handed,Two-Handed,2012.0,Active,152,1431415.0
+Alexander Ward,W579,1990-04-30,,GBR,Great Britain,"6'1""",73.0,185.0,187.0,85.0,Right-Handed,Two-Handed,,Inactive,242,279019.0
+Adrian Menendez-Maceiras,MB53,1985-10-28,,ESP,Spain,"6'0""",72.0,183.0,165.0,75.0,Right-Handed,Two-Handed,2005.0,Inactive,111,1289666.0
+Rudolf Molleker,M0AC,2000-10-26,24.0,GER,Germany,"6'2""",74.0,188.0,180.0,82.0,Right-Handed,Two-Handed,2017.0,Active,146,754645.0
+Yannick Maden,MH16,1989-10-28,,GER,Germany,"6'1""",73.0,185.0,155.0,70.0,Right-Handed,Two-Handed,2013.0,Inactive,96,760360.0
+Mohamed Safwat,SK47,1990-09-19,34.0,EGY,Egypt,"5'11""",71.0,180.0,182.0,83.0,Right-Handed,Two-Handed,2008.0,Active,130,905141.0
+Akira Santillan,SQ80,1997-05-22,28.0,AUS,Australia,"5'11""",71.0,180.0,172.0,78.0,Right-Handed,One-Handed,2013.0,Active,144,507471.0
+Adam Pavlasek,PG32,1994-10-08,30.0,CZE,Czechia,"6'1""",73.0,185.0,168.0,76.0,Right-Handed,Two-Handed,2012.0,Active,72,1494794.0
+Kevin Krawietz,KB92,1992-01-24,33.0,GER,Germany,"6'2""",74.0,188.0,187.0,85.0,Right-Handed,Two-Handed,2010.0,Active,211,4365682.0
+Darian King,KC86,1992-04-26,33.0,BAR,Barbados,"6'2""",74.0,188.0,170.0,77.0,Right-Handed,Two-Handed,2010.0,Active,106,664128.0
+Prajnesh Gunneswaran,GA94,1989-11-12,,IND,India,"6'2""",74.0,188.0,176.0,80.0,Left-Handed,Two-Handed,2010.0,Inactive,75,959286.0
+Christian Harrison,HB05,1994-05-29,31.0,USA,United States,"5'11""",71.0,180.0,170.0,77.0,Right-Handed,Two-Handed,2007.0,Active,198,1267397.0
+Antoine Hoang,HA71,1995-11-04,29.0,FRA,France,"6'0""",72.0,183.0,168.0,76.0,Right-Handed,Two-Handed,2016.0,Active,98,1123574.0
+Noah Rubin,RC96,1996-02-21,,USA,United States,"5'9""",69.0,175.0,155.0,70.0,Right-Handed,Two-Handed,2015.0,Inactive,125,810733.0
+Antoine Bellier,BP41,1996-10-18,28.0,SUI,Switzerland,"6'5""",77.0,196.0,184.0,83.0,Left-Handed,One-Handed,2014.0,Active,168,367351.0
+Manuel Guinard,GH33,1995-11-15,29.0,FRA,France,"6'6""",78.0,198.0,181.0,82.0,Right-Handed,Two-Handed,2016.0,Active,134,1031945.0
+Altug Celikbilek,CH05,1996-09-07,28.0,TUR,Turkiye,"6'0""",72.0,183.0,162.0,73.0,Right-Handed,Two-Handed,2015.0,Active,154,513119.0
+Brayden Schnur,SP24,1995-07-04,,CAN,Canada,"6'4""",76.0,193.0,186.0,84.0,Right-Handed,Two-Handed,2016.0,Inactive,92,893217.0
+Marc Polmans,PG94,1997-05-02,28.0,AUS,Australia,"6'2""",74.0,188.0,172.0,78.0,Right-Handed,Two-Handed,2015.0,Active,116,1821828.0
+Mario Vilella Martinez,V824,1995-07-03,,ESP,Spain,"5'10""",70.0,178.0,163.0,74.0,Right-Handed,Two-Handed,,Inactive,158,580303.0
+Tomas Barrios Vera,BS86,1997-12-10,27.0,CHI,Chile,"6'3""",75.0,191.0,194.0,88.0,Right-Handed,Two-Handed,2019.0,Active,93,1274514.0
+Hugo Grenier,GF95,1996-03-23,29.0,FRA,France,"6'5""",77.0,196.0,187.0,85.0,Right-Handed,Two-Handed,2013.0,Active,95,1425762.0
+Alastair Gray,G0AO,1998-06-22,27.0,GBR,Great Britain,"6'4""",76.0,193.0,184.0,83.0,Right-Handed,One-Handed,,Active,237,274377.0
+Li Tu,TC01,1996-05-27,29.0,AUS,Australia,"6'0""",72.0,183.0,176.0,80.0,Right-Handed,One-Handed,,Active,160,871497.0
+Abdullah Shelbayh,S0NV,2003-11-16,21.0,JOR,Jordan,"5'11""",71.0,180.0,162.0,73.0,Left-Handed,Two-Handed,,Active,181,615696.0
+Gijs Brouwer,BO10,1996-03-14,29.0,NED,Netherlands,"6'3""",75.0,191.0,161.0,73.0,Left-Handed,Two-Handed,2016.0,Active,114,870407.0
+Harold Mayot,M0G4,2002-02-04,23.0,FRA,France,"5'11""",71.0,180.0,176.0,80.0,Right-Handed,Two-Handed,2020.0,Active,103,1059886.0
+Terence Atmane,A0GC,2002-01-09,23.0,FRA,France,"6'4""",76.0,193.0,176.0,80.0,Left-Handed,Two-Handed,,Active,118,914910.0
+Yu Hsiou Hsu,H09F,1999-04-02,26.0,TPE,Chinese Taipei,"5'10""",70.0,178.0,165.0,75.0,Right-Handed,Two-Handed,2016.0,Active,158,695165.0
+Jan Choinski,CH12,1996-06-10,29.0,GBR,Great Britain,"6'5""",77.0,196.0,193.0,88.0,Right-Handed,Two-Handed,,Active,126,895683.0
+Thiago Agustin Tirante,T0A1,2001-04-10,24.0,ARG,Argentina,"6'1""",73.0,185.0,178.0,81.0,Right-Handed,Two-Handed,2016.0,Active,90,1154591.0
+Andrea Vavassori,VA08,1995-05-05,30.0,ITA,Italy,"6'4""",76.0,193.0,181.0,82.0,Right-Handed,One-Handed,2014.0,Active,128,2965345.0
+Emilio Gomez,GA36,1991-11-28,33.0,ECU,Ecuador,"6'1""",73.0,185.0,179.0,81.0,Right-Handed,Two-Handed,2013.0,Active,90,1053055.0
+Henri Squire,S0AK,2000-09-27,24.0,GER,Germany,"6'5""",77.0,196.0,180.0,82.0,Right-Handed,Two-Handed,,Active,169,467189.0
+Giles Hussey,H0DC,1997-05-26,28.0,GBR,Great Britain,"6'1""",73.0,185.0,165.0,75.0,Left-Handed,Two-Handed,,Active,304,122092.0
+Henry Searle,S0TX,2006-03-29,19.0,GBR,Great Britain,"6'4""",76.0,193.0,187.0,85.0,Left-Handed,Two-Handed,,Active,389,256279.0
+Nicolas Moreno De Alboran,MW18,1997-07-14,28.0,USA,United States,"6'1""",73.0,185.0,180.0,82.0,Right-Handed,Two-Handed,2019.0,Active,107,816184.0
+Eliot Spizzirri,S0JA,2001-12-23,23.0,USA,United States,"6'1""",73.0,185.0,175.0,79.0,Right-Handed,Two-Handed,,Active,114,540179.0
+Charles Broom,BV21,1998-04-24,27.0,GBR,Great Britain,"5'10""",70.0,178.0,180.0,82.0,Right-Handed,Two-Handed,,Active,235,335725.0
+Dinu Pescariu,P254,1974-04-12,,ROU,Romania,"6'1""",73.0,185.0,167.0,76.0,Right-Handed,Unknown,,Inactive,75,676539.0
+Carl Limberger,L030,1964-01-24,,AUS,Australia,"5'7""",67.0,170.0,161.0,73.0,Right-Handed,Unknown,1983.0,Inactive,71,431503.0

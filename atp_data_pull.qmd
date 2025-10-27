@@ -1,0 +1,669 @@
+---
+title: "Untitled"
+format: html
+---
+
+The following code will get live match data. It is the sidebar on the page that is keeping track of scores and matches in progress
+
+```{python}
+import requests
+import pandas as pd
+
+link = 'https://app.atptour.com/api/v2/gateway/livematches/website?scoringTournamentLevel=tour'
+
+headers = {
+    'Origin': 'https://www.atptour.com',
+    'Referer': 'https://www.atptour.com/',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:140.0) Gecko/20100101 Firefox/140.0'
+}
+
+request_data = requests.get(link, headers=headers)
+```
+
+```{python}
+atp_json = request_data.json()
+atp_json.keys()
+atp_json['Data'].keys()
+match_data = atp_json.get('Data').get('LiveMatchesTournamentsOrdered')
+match_data[0].keys()
+
+```
+
+We can pull out the main data with this:
+
+```{python}
+live_matches = pd.json_normalize(match_data[0].get('LiveMatches'))
+live_matches
+```
+
+You'll notice that there are a lot of columns that have list values -- you'll need to `explode` these out to work with the data more easily. It will make for a longer dataframe, but that is the way it should be.
+
+To get the first table on that page, you'd do this:
+
+```{python}
+page_request = requests.get('https://www.atptour.com/en/-/www/stats/winloss//all/career/all/index/desc/1/1000?v=1', headers=headers)
+
+page_json = page_request.json()
+
+top_players = pd.json_normalize(page_json)
+top_players
+```
+
+I found the correct links for both data sets by looking at the network tab in the browser developer tools. You can see the requests that are being made to get the data, and you can copy the URL and headers from there.
+
+
+
+
+```{python}
+page_request_2 = requests.get('https://www.atptour.com/en/-/www/StatsLeaderboard/TopFive/52week/all?v=1', headers=headers)
+
+page_json_2 = page_request_2.json()
+
+top_five_stats = pd.json_normalize(page_json_2)
+top_five_stats.iloc[0]
+
+serve_stats_exploded = top_five_stats.explode('LeaderboardTopFiveServe')
+#top_five_stats_exploded = top_five_stats.explode('LeaderboardTopFiveServe')
+#top_five_stats_exploded = top_five_stats.explode('LeaderboardTopFiveServe')
+
+
+serve_stats_expanded = pd.json_normalize(top_five_stats_exploded['LeaderboardTopFiveServe'])
+serve_stats_expanded
+
+```
+
+
+https://www.atptour.com/en/-/www/StatsLeaderboard/serve/52week/all/all/false?v=1
+
+
+```{python}
+import pandas as pd
+import requests
+import time
+from itertools import product
+from requests.exceptions import ConnectionError, HTTPError, Timeout
+from tqdm import tqdm
+
+
+#defining category variables
+stat_types = ['serve', 'return', 'pressure']
+years = list(range(1991, 2026))
+time_frame = ['52week', 'career'] + [str(year) for year in years]
+surfaces = ['Clay', 'Grass', 'Hard', 'all']
+vs_ranks = ['all', 'Top10', 'Top20', 'Top50']
+former_no1_flag = ['false']
+
+all_combos = list(product(stat_types, time_frame, surfaces, vs_ranks, former_no1_flag))
+
+
+#Requesting stats from website
+
+#disguize for data scraping
+headers = {'User-Agent': 'Mozilla/5.0'}
+
+all_dfs = [] #for fetched data
+missing_data = [] #for missing data
+
+
+#loops through each combination of variables and creates the url
+for combo in tqdm(all_combos, desc='Fetching Leaderboard Data'):
+    stat, time_val, surf, vs, no1 = combo
+    url = f"https://www.atptour.com/en/-/www/StatsLeaderboard/{stat}/{time_val}/{surf}/{vs}/{no1}?v=1"
+
+    #attempts to fetch the url
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()  # Checks if request was successful. Raises HTTPError if the status is 4xx or 5xx
+
+        data = response.json()
+        leaderboard = data.get('Leaderboard') #gets the leaderboard key from the json
+
+        if leaderboard:
+            df = pd.json_normalize(leaderboard) #flattens the leaderboard data
+
+            #flattens nested stats data
+            if 'stats' in df.columns:
+                stats_df = pd.json_normalize(df['stats'])
+                df=pd.concat([df.drop(columns='stats'), stats_df], axis=1) #combines the two dataframes
+
+            #renaming columns
+            df['stat'] = stat
+            df['time'] = time_val
+            df['surface'] = surf
+            df['vs_rank'] = vs
+            df['former_no1'] = no1
+
+            all_dfs.append(df)
+
+        #catches errors
+        else:
+            print(f"No leaderboard found: {url}")  # 👈 more helpful error
+            missing_data.append((stat, time_val, surf, vs, no1))
+    except (ConnectionError, HTTPError, Timeout) as e:
+        print(f"⚠️ Request error at: {url} -> {e}")
+        missing_data.append((stat, time_val, surf, vs, no1))
+        time.sleep(0.5)
+        
+
+#combines all the dataframes. Resets the index
+full_df = pd.concat(all_dfs, ignore_index=True)
+
+
+```
+
+```{python}
+#Dropping unneaded columns
+
+full_df_clean = full_df.drop(columns=['ScRelativeUrlPlayerProfile', 'ScRelativeUrlPlayerCountryFlag', 'PlayerWasThisYearEoyNumberOne', 'EventYearEoyNumberOne', 'PartnerId', 'PartnerName', 'PartnerCountryCode', 'former_no1'])
+
+full_df_clean
+```
+
+```{python}
+#Separating the full_df by stat type
+
+serve_df = full_df_clean[full_df_clean['stat'] == 'serve']
+return_df = full_df_clean[full_df_clean['stat'] == 'return']
+pressure_df = full_df_clean[full_df_clean['stat'] == 'pressure']
+```
+
+```{python}
+#dropping empty columns I.E. return data in serve table
+
+serve_df.dropna(axis=1, inplace=True)
+return_df.dropna(axis=1, inplace=True)
+pressure_df.dropna(axis=1, inplace=True)
+```
+
+```{python}
+#cleaning column names
+
+for df in [serve_df, return_df, pressure_df]:
+    df.drop(columns=[col for col in df.columns if col.endswith('SortField')], inplace=True)
+    df.columns = df.columns.str.replace('Stats.', '', regex=False)
+```
+
+```{python}
+#Changing numeric data to float data type
+
+def rename_numeric_columns(df):
+    for col in df.columns:
+        if df[col].dtype == 'object':
+            df[col] = df[col].str.replace('%', '').str.strip()
+            try:
+                df[col] = df[col].astype(float)
+            except ValueError:
+                pass
+    return df
+
+
+rename_numeric_columns(serve_df)
+rename_numeric_columns(return_df)
+rename_numeric_columns(pressure_df)
+```
+
+```{python}
+serve_df
+```
+
+```{python}
+# extracting bio information for each player on atp website
+import pandas as pd
+import requests
+import re
+import time
+from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+HEADERS = {'User-Agent' : 'Mozilla/5.0'}
+
+player_ids = full_df['PlayerId'].unique()
+
+max_retries = 3
+
+def get_player_bio(player_id):
+    bio_url= f'https://www.atptour.com/en/-/www/players/hero/{player_id}?v=1'
+    for attempt in range(max_retries):
+        try:
+            response_2 = requests.get(bio_url, headers=HEADERS, timeout=10)
+            response_2.raise_for_status()
+            return {'bio' : response_2.json(), 'player_id' : player_id, 'success' : True}
+        except requests.exceptions.RequestException as e:
+            print(f'Attempt {attempt+1} failed for {player_id}: {e}')
+            time.sleep(2 ** attempt)
+    print(f'Giving up on player id {player_id}')
+    return {'bio' : None, 'player_id' : player_id, 'success' : False}
+
+
+
+bios = []
+failed_ids = []
+
+with ThreadPoolExecutor(max_workers=12) as executor:
+    futures = [executor.submit(get_player_bio, pid) for pid in player_ids]
+    for future in tqdm(as_completed(futures), total=len(futures), desc='Fetching Bios ATP'):
+        result = future.result()
+        if result['success']:
+            bios.append(result['bio'])
+        else:
+            failed_ids.append(result['player_id'])
+    time.sleep(0.5)
+
+bio_df = pd.DataFrame(bios)
+print(bio_df)
+```
+
+
+```{python}
+bio_df
+```
+
+
+
+```{python}
+bio_df_columns_to_keep = ['LastName', 'FirstName', 'BirthDate', 'Age', 'NatlId', 'Nationality', 'HeightFt', 'HeightIn', 'HeightCm', 'WeightLb', 'WeightKg', 'PlayHand', 'BackHand', 'ProYear', 'Active', 'SglHiRank', 'CareerPrizeFormatted', ]
+
+existing_columns = [col for col in bio_df_columns_to_keep if col in bio_df.columns]
+
+
+bio_df_filtered = bio_df[existing_columns]
+
+
+bio_df_filtered['PlayerName'] = bio_df_filtered['FirstName'] + ' ' + bio_df_filtered['LastName'].str.strip()
+bio_df_filtered = bio_df_filtered.drop(columns=['LastName', 'FirstName'])
+bio_df_filtered['BirthDate'] = pd.to_datetime(bio_df_filtered['BirthDate']).dt.date
+
+
+
+bio_df_filtered['PlayHand'] = bio_df_filtered['PlayHand'].apply(lambda x : x.get('Description') if isinstance(x, dict) else None)
+bio_df_filtered['BackHand'] = bio_df_filtered['BackHand'].apply(lambda x : x.get('Description') if isinstance(x, dict) else None)
+bio_df_filtered['Active'] = bio_df_filtered['Active'].apply(lambda x : x.get('Description') if isinstance(x, dict) else None)
+
+numeric_cols = ['Age', 'HeightIn', 'HeightCm', 'WeightLb', 'WeightKg', 'SglHiRank', 'CareerPrizeFormatted']
+
+for col in numeric_cols:
+    if bio_df_filtered[col].dtype == 'object':
+        bio_df_filtered[col] = bio_df_filtered[col].str.replace(',', '')
+        bio_df_filtered[col] = bio_df_filtered[col].str.replace('$', '')
+        bio_df_filtered[col] = bio_df_filtered[col].astype(float)
+
+
+
+full_df_clean['PlayerName'] = full_df_clean['PlayerName'].str.strip()
+bio_df_filtered['PlayerName'] = bio_df_filtered['PlayerName'].str.strip()
+
+player_id_lookup = full_df_clean[['PlayerName', 'PlayerId']].drop_duplicates()
+
+bio_df_filtered = bio_df_filtered.merge(player_id_lookup, on= 'PlayerName', how= 'left')
+
+
+
+
+
+bio_df_filtered = bio_df_filtered[['PlayerName', 'PlayerId', 'BirthDate', 'Age', 'NatlId', 'Nationality', 'HeightFt', 'HeightIn',
+       'HeightCm', 'WeightLb', 'WeightKg', 'PlayHand', 'BackHand', 'ProYear',
+       'Active', 'SglHiRank', 'CareerPrizeFormatted', ]]
+
+bio_df_filtered
+```
+
+
+```{python}
+lookup_df = bio_df_filtered
+lookup_df
+```
+
+```{python}
+from selenium import webdriver #controll webpage 
+from selenium.webdriver.chrome.service import Service #communicate with Chrome
+from selenium.webdriver.common.by import By #used to specify locating elements
+from selenium.webdriver.chrome.options import Options #configure chrome settings
+from webdriver_manager.chrome import ChromeDriverManager #downloads and manages ChromeDriver
+
+
+#set Chrome to run in headless mode. Does not open a browser
+options = Options()
+options.add_argument('--headless')
+
+#downloads the correct ChromeDriver version. Insures headless browser
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+
+
+driver.get('https://www.atptour.com/en/stats/win-loss-index?indexCategory=all&timeCategory=career&country=all&sortBy=index&sortDirection=desc')
+
+#finds where id = country on the page after it has been rendered by javascript
+country_dropdown = driver.find_element(By.ID, 'country')
+
+#finds each option tag within 'country' and collects the values i.e. country abv
+options = country_dropdown.find_elements(By.TAG_NAME, 'option')
+
+#loops through each option and extracts each 'data-value' attribute and assigns it to a list
+country_codes = [opt.get_attribute('data-value') for opt in options]
+
+#closes the browser
+driver.quit()
+
+
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+timeCategory = ['roll', 'career', 'ytd']
+indexCategory = ['all', 'after1stsetlost', 'after1stsetwin', 'finalset', '5thset', 'finals', 'grandslam', 'indoor', 'vslefthanders', 'vsrighthanders', '1000', 'carpet', 'hard', 'grass', 'clay', 'outdoor', 'tiebreak', 'vstop10']
+country = country_codes
+
+
+combinations = list(product(indexCategory, timeCategory, country))
+
+max_retries = 2
+
+all_data = []
+skipped_combinations = []
+
+def fetchData(combo):
+    category, time_period, cntry = combo
+    win_loss_url = f'https://www.atptour.com/en/-/www/stats/winloss//{category}/{time_period}/{cntry}/index/desc/1/1000?v=1'
+    
+    for attempt in range(1, max_retries + 1):
+        try:
+            response_3 = requests.get(win_loss_url, headers=headers, timeout=10)
+            response_3.raise_for_status()
+            json_data = response_3.json()
+
+            if not json_data:
+                return [], (category, time_period, cntry)
+            for player in json_data:
+                player['Category'] = category
+                player['TimePeriod'] = time_period
+                player['Country'] = cntry
+            return json_data, None
+
+        except requests.RequestException as e:
+            if attempt == max_retries:
+                return [], (category, time_period, cntry)
+            time.sleep(0.5 * attempt)
+
+
+with ThreadPoolExecutor(max_workers=12) as executor:
+    futures = [executor.submit(fetchData, combo) for combo in combinations]
+    for future in tqdm(as_completed(futures), total=len(combinations), desc="Fetching with Threads"):
+        data, skipped = future.result()
+        if data:
+            all_data.extend(data)
+        if skipped:
+            skipped_combinations.append(skipped)
+
+win_loss_df = pd.DataFrame(all_data)
+
+if skipped_combinations:
+    print('Some combos failed')
+    print(skipped_combinations)
+
+
+
+
+```
+
+```{python}
+win_loss_df
+```
+
+
+```{python}
+win_loss_df['Index'].isnull().any()
+```
+```{python}
+win_loss_df['PlayerName'] = win_loss_df['FirstName'] + ' ' + win_loss_df['LastName'].str.strip()
+win_loss_df_2 = win_loss_df[['PlayerName', 'PlayerId', 'NatlId', 'Index', 'Titles', 'Win', 'Loss', 'Category', 'TimePeriod', 'Country']]
+win_loss_df_2
+```
+
+
+```{python}
+win_loss_df_2
+```
+
+
+
+```{python}
+serve_df.to_csv('atp_serve_data.csv', index=False)
+return_df.to_csv('atp_return_data.csv', index=False)
+pressure_df.to_csv('atp_pressure_data.csv', index=False)
+lookup_df.to_csv('atp_lookup.csv', index=False)
+win_loss_df_2.to_csv('atp_win_loss_index.csv', index=False)
+
+```
+
+
+
+
+
+```{python}
+#stats
+fact_type = ['Aces'] #, '1st-Serve', '1st-Serve-Points-Won', '2nd-Serve-Points-Won', 'Service-Games-Won', 'Break-Points-Saved', '1st-Serve-Return-Points-Won', '2nd-Serve-Return-Points-Won', 'Break-Points-Converted', 'Return-Games-Won']
+years = list(range(1991, 2026))
+date = ['career'] + [str(year) for year in years]
+surface = surfaces
+countries = country_codes
+
+all_combos = list(product(fact_type, date, surface, country_codes))
+
+stats_list = []
+
+for combo in tqdm(all_combos, desc="Fetching Stats Data"):
+    stat, time, surface, country = combo
+    url = f"https://www.atptour.com/en/-/www/individualmatchstats//{time}/{surface}/{country}/{stat}/percentage/desc/1/1000"
+
+    # request the JSON
+    response = requests.get(url, headers=headers)
+    data = response.json()
+    #stats_list.append(data)
+
+
+# convert to DataFrame
+df = pd.DataFrame(data["StatsList"])   # adjust depending on JSON structure
+
+# preview
+df
+```
+
+
+```{python}
+from joblib import Parallel, delayed
+from tqdm_joblib import tqdm_joblib
+
+fact_type = ['Aces', '1st-Serve', '1st-Serve-Points-Won', '2nd-Serve-Points-Won', 'Service-Games-Won', 'Break-Points-Saved', '1st-Serve-Return-Points-Won', '2nd-Serve-Return-Points-Won', 'Break-Points-Converted', 'Return-Games-Won']
+years = list(range(1991, 2026))
+date = ['career'] + [str(year) for year in years]
+surface = surfaces
+countries = country_codes
+
+all_combos = list(product(fact_type, date, surface, countries))
+
+bad_countries = set()
+
+
+session = requests.Session()
+session.headers.update(headers)
+
+def get_stats(stat, time, surface, country):
+    if country in bad_countries:
+        return None
+
+    stats_url = f"https://www.atptour.com/en/-/www/individualmatchstats//{time}/{surface}/{country}/{stat}/percentage/desc/1/1000"
+    try:
+        response = session.get(stats_url, timeout=10)
+
+        # ensuring response is JSON
+        if "application/json" not in response.headers.get("Content-Type", "").lower():
+            bad_countries.add(country)
+            return None
+
+        data = response.json()
+
+        if "StatsList" in data and data["StatsList"]:
+            df_temp = pd.json_normalize(data["StatsList"])
+            df_temp["Stat"] = stat
+            df_temp["Time"] = time
+            df_temp["Surface"] = surface
+            df_temp["Country"] = country
+            return df_temp
+        else:
+            if time == "career":
+                bad_countries.add(country)
+        return None
+
+    except Exception:
+        return None
+
+
+results = Parallel(n_jobs=8, backend="loky", batch_size=1)(
+    delayed(get_stats)(stat, time, surface, country) 
+    for (stat, time, surface, country) in tqdm(all_combos, desc="Fetching Stats")
+)
+
+stats_list = [r for r in results if r is not None]
+
+if stats_list:
+    df = pd.concat(stats_list, ignore_index=True)
+    print(df.shape)
+    print(df.head())
+else:
+    df = pd.DataFrame()
+    print("NO data collected")
+
+```
+
+
+```{python}
+print(df.head())
+print(df.dtypes)
+```
+
+```{python}
+df.to_csv('atp_player_stats.csv', index=False)
+```
+
+```{python}
+df = pd.read_csv("data_files/atp_player_stats.csv")
+```
+
+
+
+```{python}
+#Cleaning Stats Data
+
+df['PlayerName'] = df['FirstName'] + ' ' + df['LastName']
+df = df.drop(columns=['FirstName', 'LastName'])
+
+```
+
+```{python}
+df.head()
+```
+
+```{python}
+top_score = serve_graph['Year'].max()
+
+serve_graph['DeviationFromTop'] = top_score - serve_graph['Year']
+serve_graph
+
+import plotly.express as px
+
+
+fig = px.bar(
+    data_frame=serve_graph,
+    y='PlayerName',
+    x='DeviationFromTop',
+    
+)
+
+
+
+fig.show()
+```
+
+
+
+```{python}
+#drop down menu attempt
+import plotly.graph_objects as go
+
+fig = go.Figure()
+buttons = []
+
+for i, time_option in enumerate(time_frame):
+    filtered_df = filter_stats_df(full_df, stat='serve', surface='Clay', time=time_option, vs_rank='all', former_no1='false')
+    if filtered_df.empty:
+        continue
+
+    serve_over_time = filtered_df[necc_serving_columns]
+    serve_pivot = serve_over_time.pivot_table(
+    index=['PlayerName', 'PlayerCountryCode'], 
+    columns='time', 
+    values='Stats.ServeRating',
+    aggfunc='first' 
+    ).reset_index()
+
+
+    if time_option in serve_pivot.columns:
+        serve_pivot = serve_pivot.rename(columns={time_option : 'Year'})
+    else:
+        continue
+
+    serve_graph = serve_pivot.sort_values(by='Year', ascending=False).head(10)
+    serve_graph['Year'] = serve_graph['Year'].astype(float)
+    top_score = serve_graph['Year'].max()
+    serve_graph['DeviationFromTop'] = top_score - serve_graph['Year']
+
+    visible = [False] * len(time_frame)
+    visible[i] = True
+
+
+#adding trace. whatever that means
+    fig.add_trace(go.Bar(
+        x=serve_graph['Year'],
+        y=serve_graph['PlayerName'],
+        orientation='h',
+        name=str(time_option),
+        visible=visible[i],
+        text=serve_graph['Year'],
+        #hovertemplate='Player: %{y}<br>Deviation: %{x:.2f}<br>Serve Rating: %{text}'
+))
+
+
+#Creating button
+    buttons.append(dict(
+        label=str(time_option),
+        method='update',
+        args=[{'visible' : visible},
+            {'title': f'Deviation from Top Serve Rating - {time_option}'}]
+
+
+))
+
+
+
+fig.update_layout(
+    title='Deviation from Top Serve Rating',
+    xaxis_title='Deviation from Top Player',
+    yaxis_title='Player Name',
+    updatemenus=[dict(
+        active=0,
+        buttons=buttons,
+        direction='down',
+        showactive=True,
+        x=1.15,
+        xanchor='left',
+        y=1.15,
+        yanchor='top'
+    )],
+    height=500,
+    plot_bgcolor='white'
+)
+
+fig.show()
+```
+
+
+
+    
+
