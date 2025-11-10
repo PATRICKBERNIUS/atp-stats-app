@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-format: html
+format: gfm
 ---
 
 The following code will get live match data. It is the sidebar on the page that is keeping track of scores and matches in progress
