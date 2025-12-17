@@ -1,3 +1,8 @@
+This project scraped data from the ATP Stats website : https://www.atptour.com/en/stats/stats-home
+
+Data was collected from the Individual Stats, Leaderboard, and Win Loss Index pages, from 1991-2025. I then used this data to create an interactive and filterable app that allows users to visualize player stats and performance over time, and compared to eachother.
+
+
 Follow this link to see and use the finished app:
 
 https://atp-stats-app-nnrztxzfygnwsbc8xdvvqs.streamlit.app/
